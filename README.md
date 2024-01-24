@@ -136,9 +136,11 @@
 
 ### Stable Diffusion <a name="sd">&nbsp;</a>
 
-* 简介：Stable Diffusion 是一款先进的人工智能图像生成模型，由 Stability AI 开发。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
+* 简介：Stable Diffusion 是一款先进的人工智能图像生成模型，由 Stability AI 开发。可本地部署。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
 * 官网：https://stability.ai/stable-image
-
+* 扩展：
+	* ComfyUI：https://github.com/comfyanonymous/ComfyUI
+		* 中文学习社区：https://www.comflowy.com/zh-CN
 
 ### Runway Gen-2
 
@@ -159,6 +161,26 @@
 	* 标准版（700 积分 / 月）：$10 / 月
 	* ...
 
+### PixVerse
+
+* 简介：目前免费的视频生成工具，效果媲美 Runway 和 Pika。
+* 官网：https://pixverse.ai/
+
+### Stable Video Diffusion
+
+* 简介：Stability AI 发布的开源的视频生成模型。可本地部署。
+* 官网：https://stability.ai/stable-video
+* 更多介绍：
+	* 简介：https://mp.weixin.qq.com/s/il3YahMQyw55KdQ7acxIow
+	* 教程：https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd
+
+### 剪映专业版 / CapCut
+
+* 简介：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
+* 官网：
+	* 国内版：https://www.capcut.cn/
+	* 海外版：https://www.capcut.com/ （免充值享高级功能）
+
 （持续更新中……）
 
 
@@ -175,6 +197,24 @@
 * Character.AI
 	* 简介：与各种类型的 AI 虚拟角色对话，包括世界名人、动漫人物、游戏角色等。
 	* 官网：https://beta.character.ai/
+
+### 图像处理
+
+（持续更新中……）
+
+
+### 写作
+
+（持续更新中……）
+
+
+### 内容分析、识别、提炼
+
+* 通义听悟 <a name="tingwu">&nbsp;</a>
+	* 简介：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
+	* 平台：
+		* 网站：[tingwu.aliyun.com](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)
+		* 微信小程序：(TODO)
 
 （持续更新中……）
 
