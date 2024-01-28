@@ -197,6 +197,10 @@
 * Character.AI
 	* 简介：与各种类型的 AI 虚拟角色对话，包括世界名人、动漫人物、游戏角色等。
 	* 官网：https://beta.character.ai/
+* Coze
+	* 简介：字节跳动面向海外市场推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到海外各大社交平台。网友发现，在该平台可以免费使用 GPT-4 和 DALL·E 3。
+	* 官网：https://www.coze.com/
+	* 中文文档：https://www.coze.com/docs/zh_cn/welcome.html
 
 ### 图像处理
 
