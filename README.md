@@ -60,11 +60,21 @@
 * 更多介绍：
 	* https://www.cssmagic.net/blog/wx/55
 
-### 智谱 GLM / ChatGLM <a name="chatglm">&nbsp;</a>
+### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
 
+* 简介：清华智谱团队推出的大模型。有开源版本，可私有化部署。
 * 官网：https://models.aminer.cn/glm-130b/
 * API 文档：https://open.bigmodel.cn/dev/api
 * Web 产品（智谱清言）：https://chatglm.cn/main/detail
+* Web 产品（GLMs）：https://chatglm.cn/glms
+
+### Moonshot AI / Kimi Chat
+
+* 简介：月之暗面推出的大模型。其特点为支持 20 万字的超长上下文。
+* 官网：https://www.moonshot.cn/
+* Web 产品（Kimi Chat）：https://kimi.moonshot.cn/
+
+https://www.moonshot.cn/
 
 ### 讯飞星火认知大模型
 
@@ -96,7 +106,7 @@
 
 ### CodeGeeX <a name="codegeex">&nbsp;</a>
 
-* 简介：智谱旗下的一款基于大模型的全能的智能编程助手支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。它可以实现代码的生成与补全、自动添加注释、代码翻译以及智能问答等功能。面向企业提供私有化部署服务。
+* 简介：智谱旗下的一款基于大模型的全能的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。它可以实现代码的生成与补全、自动添加注释、代码翻译以及智能问答等功能。面向企业提供私有化部署服务。
 * 官网：https://codegeex.cn/
 * 定价：CodeGeeX 插件对个人用户完全免费。
 
@@ -154,7 +164,7 @@
 
 ### Pika
 
-* 简介：视频生成领域的热门产品。
+* 简介：视频生成领域的热门产品。典型功能为图生视频。
 * 官网：https://pika.art/
 * 定价：
 	* 免费版（30 积分）：免费
