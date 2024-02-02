@@ -32,11 +32,13 @@
 		* ChatGPT Free（GPT-3.5 + 语音对话）：免费无限量
 		* ChatGPT Plus（Free + GPT-4 + 绘图 + GPTs + ...）：$20 / 月
 		* ChatGPT Team（Plus + 协作空间 + 数据保护 + ...）：$25 / 月 / 人
+	* 相关教程：
+		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
 * Web 产品（GPTs）： <a name="gpts">&nbsp;</a>
 	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
 	* GPTs 商店：https://chat.openai.com/gpts
-	* 更多介绍：
-		* https://www.cssmagic.net/blog/wx/58
+	* 相关教程：
+		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
 
 ### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
 
@@ -73,8 +75,6 @@
 * 简介：月之暗面推出的大模型。其特点为支持 20 万字的超长上下文。
 * 官网：https://www.moonshot.cn/
 * Web 产品（Kimi Chat）：https://kimi.moonshot.cn/
-
-https://www.moonshot.cn/
 
 ### 讯飞星火认知大模型
 
@@ -243,7 +243,7 @@ https://www.moonshot.cn/
 * 如果 AI 服务商的用户协议中主张了 AI 生成内容的著作权，则属于 AI 服务商。
 * 否则属于使用 AI 服务生成内容的用户。
 
-详细的解释稍后补充吧。
+详细解释：[你用 AI 生成的作品，版权归你吗？](https://www.cssmagic.net/blog/wx/59)
 
 ### 有什么简便的方式可以使用 GPT-4 和 GPTs？ <a name="help">&nbsp;</a>
 
