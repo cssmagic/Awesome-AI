@@ -184,6 +184,12 @@
 	* 简介：https://mp.weixin.qq.com/s/il3YahMQyw55KdQ7acxIow
 	* 教程：https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd
 
+### OpenAI Sora
+
+* 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频扩展和补帧。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
+* 官网：https://openai.com/sora
+
+
 ### 剪映专业版 / CapCut
 
 * 简介：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
