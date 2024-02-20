@@ -10,7 +10,7 @@
 > * [常用 AI 网站 / 工具](#ai-tool)
 > * [常见问题](#faq)
 
-> 🔍 提醒：善用搜索，按 Ctrl+F 或 ⌘F 定位到你想找的关键词。
+> 🔍 提醒：善用搜索，按 Ctrl+F 或 ⌘F 定位到你想找的关键词。<br>
 > 💡 持续更新中，建议添加到浏览器收藏夹，平常一定会用到。
 
 ## 大型语言模型 <a name="llm">&nbsp;</a>
@@ -156,6 +156,12 @@
 	* ComfyUI：https://github.com/comfyanonymous/ComfyUI
 		* 中文学习社区：https://www.comflowy.com/zh-CN
 
+### Google Imagen 2
+
+* 简介：Google DeepMind 推出的图片生成模型。免费使用。据说效果媲美 DALL·E。
+* 官网：https://deepmind.google/technologies/imagen-2/
+* Web 产品（ImageFX）：https://aitestkitchen.withgoogle.com/tools/image-fx
+
 ### Runway Gen-2
 
 * 简介：视频生成领域的热门产品。它提供了多种 AI 视频生成模型，包括文生视频、图文生成视频、图生视频、风格化渲染、局部叠加渲染、3D 模型渲染等功能。
@@ -190,7 +196,7 @@
 
 ### OpenAI Sora
 
-* 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频扩展和补帧。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
+* 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
 * 官网：https://openai.com/sora
 
 
@@ -219,8 +225,14 @@
 	* 官网：https://beta.character.ai/
 * Coze
 	* 简介：字节跳动面向海外市场推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到海外各大社交平台。网友发现，在该平台可以免费使用 GPT-4 和 DALL·E 3。
-	* 官网：https://www.coze.com/
-	* 中文文档：https://www.coze.com/docs/zh_cn/welcome.html
+	* 官网（海外版）：https://www.coze.com/
+	* 官网（国内版）：https://www.coze.cn/
+	* 中文文档（海外版）：https://www.coze.com/docs/zh_cn/welcome.html
+	* 中文文档（国内版）：https://www.coze.cn/docs/guides/welcome
+* GPTsCopilot
+	* 简介：第三方 GPTs 商店，提供 GPTs 中转访问。在 GPTs 的网址中，把 `openai.com` 改成 `openai-now.com` 就可以切换到 GPTsCopilot 提供的中转服务，无需付费即可使用 GPTs。
+	* 官网：https://chat.openai-now.com/
+
 
 ### 图像处理
 
@@ -241,6 +253,21 @@
 		* 微信小程序：(TODO)
 
 （持续更新中……）
+
+### 广告 / 营销
+
+* AdIntelli：
+	* 简介：面向 GPTs 生态的广告联盟（可靠性待验证）。
+	* 官网：https://adintelli.ai/
+
+
+（持续更新中……）
+
+### 其他工具
+
+* AppAgent
+	* 简介：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
+	* 官网：https://appagent-official.github.io/
 
 ---
 
