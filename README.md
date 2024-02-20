@@ -230,8 +230,12 @@
 	* 中文文档（海外版）：https://www.coze.com/docs/zh_cn/welcome.html
 	* 中文文档（国内版）：https://www.coze.cn/docs/guides/welcome
 * GPTsCopilot
-	* 简介：第三方 GPTs 商店，提供 GPTs 中转访问。在 GPTs 的网址中，把 `openai.com` 改成 `openai-now.com` 就可以切换到 GPTsCopilot 提供的中转服务，无需付费即可使用 GPTs。
+	* 简介：第三方 GPTs 商店，提供 GPTs 中转访问服务。在 GPTs 的网址中，把 `openai.com` 改成 `openai-now.com` 就可以切换到 GPTsCopilot 提供的中转访问服务，无需成为 ChatGPT Plus 会员即可使用 GPTs。
 	* 官网：https://chat.openai-now.com/
+	* 定价：https://gptscopilot.ai/pricing
+		* 基础版（每天 5 积分可用）：免费
+		* 专业版（每月 1500 积分可用）：$9.99 / 月
+		* 按需付费方案：$5.99 / 500 积分 或 $9.99 / 1000 积分
 
 
 ### 图像处理
