@@ -53,12 +53,13 @@
 
 ### Google Gemini <a name="gemini">&nbsp;</a>
 
-* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。Ultra 版宣称在多项测评中击败 GPT-4；Pro 版本已于 2023 年 12 月开放免费 API。
+* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。Ultra 版宣称在多项测评中击败 GPT-4；Pro 1.0 版本于 2023 年 12 月开放免费 API。2024 年 2 月发布 Pro 1.5，需要排队申请。2024 年 2 月通过 Advanced 付费套餐开放 Ultra 1.0 版本。
 * 官网：https://ai.google.dev/
 * Playground：
 	* Google AI Studio：https://makersuite.google.com/
 	* Vertex AI Studio：https://console.cloud.google.com/vertex-ai/generative/multimodal/create/text
 * API 文档：https://ai.google.dev/tutorials/rest_quickstart
+* Web 产品（原 Bard 已更名为 Gemini）：https://gemini.google.com/app
 * 更多介绍：
 	* https://www.cssmagic.net/blog/wx/55
 
