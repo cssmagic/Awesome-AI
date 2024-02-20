@@ -133,7 +133,7 @@
 * 简介：Midjourney 是一款热门的 AI 绘画工具，依托 Discord 平台提供服务。它易于入门，作品风格华丽，适合初学者探索 AI 艺术创作，创造独特的视觉作品。
 * 官网：https://www.midjourney.com/home
 * 定价：
-	* 基础版套餐（3.3h Fast）：$10 / 月
+	* 基础版套餐（3.3h Fast Time）：$10 / 月
 	* 标准版套餐（15h Fast Time + Unlimited Relax Time）：$30 / 月
 	* 专业版套餐（30h Fast Time + Unlimited Relax Time）：$60 / 月
 	* 至尊版套餐（60h Fast Time + Unlimited Relax Time）：$120 / 月
@@ -207,6 +207,11 @@
 	* 国内版：https://www.capcut.cn/
 	* 海外版：https://www.capcut.com/ （免充值享高级功能）
 
+### 3D 建模
+
+* [Zero-1-to-3](https://github.com/cvlab-columbia/zero123): Zero-shot One Image to 3D Object (ICCV 2023)。哥伦比亚大学的开源项目。
+* [Stable Zero123](https://stability.ai/stable-3d)：Quality 3D object generation from single images。可整合进 ComfyUI 的工作流。
+
 （持续更新中……）
 
 
@@ -233,15 +238,31 @@
 	* 简介：第三方 GPTs 商店，提供 GPTs 中转访问服务。在 GPTs 的网址中，把 `openai.com` 改成 `openai-now.com` 就可以切换到 GPTsCopilot 提供的中转访问服务，无需成为 ChatGPT Plus 会员即可使用 GPTs。
 	* 官网：https://chat.openai-now.com/
 	* 定价：https://gptscopilot.ai/pricing
-		* 基础版（每天 5 积分可用）：免费
-		* 专业版（每月 1500 积分可用）：$9.99 / 月
+		* 基础版（每天 5 积分）：免费
+		* 专业版（每月 1500 积分）：$9.99 / 月
 		* 按需付费方案：$5.99 / 500 积分 或 $9.99 / 1000 积分
 
 
-### 图像处理
+### 图像处理 / 图形设计 / UI 设计
 
-（持续更新中……）
-
+* Vectorizer.AI
+	* 简介：基于 AI 的位图转适量图的在线工具。免费。
+	* 官网：https://vectorizer.ai/
+* Tripo AI
+	* 简介：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
+	* 官网：https://vectorizer.ai/
+* Galileo
+	* 简介：通过提示词生成 UI 设计稿，可导出到 Figma。
+	* 官网：https://www.usegalileo.ai/
+	* 定价：https://www.usegalileo.ai/pricing
+		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
+		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
+		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
+* 在线 SD 绘画
+	* [eSheep 电子羊](https://www.esheep.com/)：体验在线的 WebUI 和 ComfyUI。新用户获得 100 积分。每 100 积分相当于 ¥1。
+	* [网易 AI 设计工坊](https://sd.study.163.com/)：在线 WebUI，可训练模型。有免费配额，每天 10 次。
+	* [LibLib AI](https://www.liblib.art/)：在线 WebUI，可训练模型。有免费配额，每天 300 积分。
+	* [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
 
 ### 写作
 
@@ -252,18 +273,15 @@
 
 * 通义听悟 <a name="tingwu">&nbsp;</a>
 	* 简介：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
-	* 平台：
-		* 网站：[tingwu.aliyun.com](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)
-		* 微信小程序：(TODO)
+	* 官网：[tingwu.aliyun.com](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)
 
 （持续更新中……）
 
 ### 广告 / 营销
 
-* AdIntelli：
+* AdIntelli
 	* 简介：面向 GPTs 生态的广告联盟（可靠性待验证）。
 	* 官网：https://adintelli.ai/
-
 
 （持续更新中……）
 
@@ -272,6 +290,9 @@
 * AppAgent
 	* 简介：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
 	* 官网：https://appagent-official.github.io/
+* SiteGPT
+	* 简介：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
+	* 官网：https://sitegpt.ai/
 
 ---
 
