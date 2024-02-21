@@ -196,21 +196,32 @@
 
 ### OpenAI Sora
 
-* 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
+* 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。生成视频长达一分钟。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
 * 官网：https://openai.com/sora
 
 
 ### 剪映专业版 / CapCut
 
 * 简介：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
-* 官网：
-	* 国内版：https://www.capcut.cn/
-	* 海外版：https://www.capcut.com/ （免充值享高级功能）
+* 官网（国内版）：https://www.capcut.cn/
+* 官网（海外版）：https://www.capcut.com/ （免充值享高级功能）
 
 ### 3D 建模
 
 * [Zero-1-to-3](https://github.com/cvlab-columbia/zero123): Zero-shot One Image to 3D Object (ICCV 2023)。哥伦比亚大学的开源项目。
-* [Stable Zero123](https://stability.ai/stable-3d)：Quality 3D object generation from single images。可整合进 ComfyUI 的工作流。
+* [Stable Zero123](https://stability.ai/stable-3d)：Quality 3D object generation from single images。开源模型，可整合到 ComfyUI 工作流。
+* [Tripo AI](https://vectorizer.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
+
+### 数字人
+
+* [万兴播爆](https://virbo.wondershare.cn/)：输入文案，一键生成数字人播报视频。
+
+### 在线 SD 绘画
+
+* [eSheep 电子羊](https://www.esheep.com/)：体验在线的 WebUI 和 ComfyUI。新用户获得 100 积分。每 100 积分相当于 ¥1。
+* [网易 AI 设计工坊](https://sd.study.163.com/)：在线 WebUI，可训练模型。有免费配额，每天 10 次。
+* [LibLib AI](https://www.liblib.art/)：在线 WebUI，可训练模型。有免费配额，每天 300 积分。
+* [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
 
 （持续更新中……）
 
@@ -248,9 +259,6 @@
 * Vectorizer.AI
 	* 简介：基于 AI 的位图转适量图的在线工具。免费。
 	* 官网：https://vectorizer.ai/
-* Tripo AI
-	* 简介：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
-	* 官网：https://vectorizer.ai/
 * Galileo
 	* 简介：通过提示词生成 UI 设计稿，可导出到 Figma。
 	* 官网：https://www.usegalileo.ai/
@@ -258,11 +266,6 @@
 		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
 		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
 		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
-* 在线 SD 绘画
-	* [eSheep 电子羊](https://www.esheep.com/)：体验在线的 WebUI 和 ComfyUI。新用户获得 100 积分。每 100 积分相当于 ¥1。
-	* [网易 AI 设计工坊](https://sd.study.163.com/)：在线 WebUI，可训练模型。有免费配额，每天 10 次。
-	* [LibLib AI](https://www.liblib.art/)：在线 WebUI，可训练模型。有免费配额，每天 300 积分。
-	* [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
 
 ### 写作
 
