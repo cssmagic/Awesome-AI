@@ -74,11 +74,13 @@
 * Web 产品（智谱清言）：https://chatglm.cn/main/detail
 * Web 产品（GLMs）：https://chatglm.cn/glms
 
-### Moonshot AI / Kimi Chat
+### Moonshot AI / Kimi.ai
 
 * 简介：月之暗面推出的大模型。其特点为支持 20 万字的超长上下文。
 * 官网：https://www.moonshot.cn/
-* Web 产品（Kimi Chat）：https://kimi.moonshot.cn/
+* API 文档：https://platform.moonshot.cn/docs
+	* 定价：https://platform.moonshot.cn/pricing
+* Web 产品（Kimi.ai，原 Kimi Chat）：https://kimi.moonshot.cn/
 
 ### 讯飞星火认知大模型
 
