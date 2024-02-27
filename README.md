@@ -223,6 +223,7 @@
 
 ### 在线 SD 绘画
 
+* [Leonardo.Ai](https://leonardo.ai/)：易用且强大的 AI 绘图平台，底层基于 SD，深度集成 SD 各种插件，提供训练好的模型，可训练模型。有免费配额。
 * [eSheep 电子羊](https://www.esheep.com/)：体验在线的 WebUI 和 ComfyUI。新用户获得 100 积分。每 100 积分相当于 ¥1。
 * [网易 AI 设计工坊](https://sd.study.163.com/)：在线 WebUI，可训练模型。有免费配额，每天 10 次。
 * [LibLib AI](https://www.liblib.art/)：在线 WebUI，可训练模型。有免费配额，每天 300 积分。
@@ -273,6 +274,7 @@
 		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
 		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
 		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
+* AI 抠图工具：https://mp.weixin.qq.com/s/EyJtiZrQtqgGiLOKLcoQvQ
 
 ### 写作
 
