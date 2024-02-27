@@ -210,8 +210,11 @@
 
 ### 3D 建模
 
-* [Zero-1-to-3](https://github.com/cvlab-columbia/zero123): Zero-shot One Image to 3D Object (ICCV 2023)。哥伦比亚大学的开源项目。
-* [Stable Zero123](https://stability.ai/stable-3d)：Quality 3D object generation from single images。开源模型，可整合到 ComfyUI 工作流。
+* [Zero-1-to-3 (zero123)](https://github.com/cvlab-columbia/zero123): Zero-shot 单张图片生成 3D 物体。哥伦比亚大学的开源项目。
+* [One-2-3-45](http://one-2-3-45.com/)：“Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization”。开源项目。
+* [Wonder3D](https://www.xxlong.site/Wonder3D/)：“Wonder3D produces consistent multi-view normal maps and correpsonding color images, and thus reconstructs high-fidelity textured mesh from a single image in only 2~3 minutes”。开源项目。
+* [Stable Zero123](https://stability.ai/stable-3d)：单张图片生成高质量 3D 物体。Stability AI 开源模型，可整合到 ComfyUI 工作流。
+* [DreamGaussian](https://dreamgaussian.github.io/)：Generative Gaussian Splatting for Efficient 3D Content Creation。开源项目。
 * [Tripo AI](https://vectorizer.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
 
 ### 数字人
@@ -255,6 +258,7 @@
 		* 基础版（每天 5 积分）：免费
 		* 专业版（每月 1500 积分）：$9.99 / 月
 		* 按需付费方案：$5.99 / 500 积分 或 $9.99 / 1000 积分
+* [Toolify.ai](https://www.toolify.ai/)：AI 工具分类导航目录。
 
 
 ### 图像处理 / 图形设计 / UI 设计
