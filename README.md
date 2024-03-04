@@ -39,6 +39,7 @@
 	* GPTs 商店：https://chat.openai.com/gpts
 	* 相关教程：
 		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
+		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
 
 ### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
 
@@ -200,7 +201,8 @@
 
 * 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。生成视频长达一分钟。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
 * 官网：https://openai.com/sora
-
+* 更多介绍：
+	* [Sora 官网摘要](https://www.cssmagic.net/blog/wx/66)
 
 ### 剪映专业版 / CapCut
 
