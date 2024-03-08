@@ -262,6 +262,7 @@
 		* 专业版（每月 1500 积分）：$9.99 / 月
 		* 按需付费方案：$5.99 / 500 积分 或 $9.99 / 1000 积分
 * [Toolify.ai](https://www.toolify.ai/)：AI 工具分类导航目录。
+* [There's An AI For That (TAAFT)](https://theresanaiforthat.com/)：提问我的需求可以用哪些 AI 工具来实现。
 
 
 ### 图像处理 / 图形设计 / UI 设计
