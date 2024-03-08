@@ -277,7 +277,8 @@
 		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
 		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
 		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
-* AI 抠图工具：https://mp.weixin.qq.com/s/EyJtiZrQtqgGiLOKLcoQvQ
+* [Magnific AI](https://magnific.ai/)：图片放大，增强细节。没有免费试用。
+* 四款 AI 抠图工具：https://mp.weixin.qq.com/s/EyJtiZrQtqgGiLOKLcoQvQ
 
 ### 写作
 
