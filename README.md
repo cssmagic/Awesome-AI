@@ -39,6 +39,8 @@
 	* GPTs 商店：https://chat.openai.com/gpts
 	* 相关教程：
 		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
+		* [任意 GPTs 资源文件泄露问题探讨](https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g)
+		* [SecurityGPT：提示词安全防护](https://github.com/GPTGeeker/securityGPT)
 		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
 
 ### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
