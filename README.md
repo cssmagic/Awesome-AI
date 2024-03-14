@@ -38,10 +38,10 @@
 	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
 	* GPTs 商店：https://chat.openai.com/gpts
 	* 相关教程：
+		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
 		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
 		* [任意 GPTs 资源文件泄露问题探讨](https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g)
 		* [SecurityGPT：提示词安全防护](https://github.com/GPTGeeker/securityGPT)
-		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
 
 ### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
 
@@ -67,7 +67,7 @@
 		* Gemini Free（Pro 1.0）：免费
 		* Gemini Advanced（Ultra 1.0）：$19.99 / 月
 * 更多介绍：
-	* https://www.cssmagic.net/blog/wx/55
+	* [这几天刷屏的谷歌 Gemini 大模型又放出免费 API，压力给到奥特曼](https://www.cssmagic.net/blog/wx/55)
 
 ### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
 
@@ -77,13 +77,21 @@
 * Web 产品（智谱清言）：https://chatglm.cn/main/detail
 * Web 产品（GLMs）：https://chatglm.cn/glms
 
-### Moonshot AI / Kimi.ai
+### Moonshot AI / Kimi
 
-* 简介：月之暗面推出的大模型。其特点为支持 20 万字的超长上下文。
+* 简介：月之暗面推出的大模型。其特点为支持 20 万字的超长上下文。已开放 API。
 * 官网：https://www.moonshot.cn/
-* API 文档：https://platform.moonshot.cn/docs
+* API 文档：https://platform.moonshot.cn/
 	* 定价：https://platform.moonshot.cn/pricing
-* Web 产品（Kimi.ai，原 Kimi Chat）：https://kimi.moonshot.cn/
+* Web 产品（Kimi，原 Kimi Chat）：https://kimi.moonshot.cn/
+* 更多介绍：
+	* [性能超出预期！神秘的国产大模型 Kimi 开放 API](https://www.cssmagic.net/blog/wx/68)
+
+### 零一万物 / Yi
+
+* 简介：国产开源多模态大模型。30 万字超长上下文。已开放 API。
+* 官网：https://www.lingyiwanwu.com/
+* API 文档：https://platform.lingyiwanwu.com/
 
 ### 讯飞星火认知大模型
 
@@ -204,7 +212,7 @@
 * 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。生成视频长达一分钟。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
 * 官网：https://openai.com/sora
 * 更多介绍：
-	* [Sora 官网摘要](https://www.cssmagic.net/blog/wx/66)
+	* [Sora 官网摘要：OpenAI 的视频生成模型 Sora 被捧上天，但他们自己说还有这几个缺陷](https://www.cssmagic.net/blog/wx/66)
 
 ### 剪映专业版 / CapCut
 
@@ -280,7 +288,8 @@
 		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
 		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
-* 四款 AI 抠图工具：https://mp.weixin.qq.com/s/EyJtiZrQtqgGiLOKLcoQvQ
+* 抠图：
+	* [四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
 
 ### 写作
 
