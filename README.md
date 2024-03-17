@@ -43,16 +43,13 @@
 		* [任意 GPTs 资源文件泄露问题探讨](https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g)
 		* [SecurityGPT：提示词安全防护](https://github.com/GPTGeeker/securityGPT)
 
-### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
+### Claude
 
-* 简介：文心一言是由百度公司开发的聊天机器人，于 2023 年 3 月 16 日发布。文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。文心大模型最新版是 4.0。
-* 官网：https://wenxin.baidu.com/
-* API 文档：https://cloud.baidu.com/doc/WENXINWORKSHOP/s/clntwmv7t
-* Web 产品（文心一言）：https://yiyan.baidu.com/
-	* 定价：
-		* 非会员（文心大模型 3.5 + 2000 字输入 + 图片 512x512 + ...）：免费
-		* 会员（文心大模型 4.0 + 5000 字输入 + 图片 1024x1024 + ...）：¥59.9 / 月
-* Web 产品（飞桨 AI 应用中心）：https://aistudio.baidu.com/application/center
+* 简介：Anthropic 公司发布的 AI 模型。最新版 Claude 3 在某些指标上已经超越 GPT-4。
+* 官网：https://www.anthropic.com/claude
+* Web 产品（Claude）：
+	* 入口：https://claude.ai/ （需要验证海外手机号）
+	* 定价：有免费版。专业版套餐 $20 / 月。
 
 ### Google Gemini <a name="gemini">&nbsp;</a>
 
@@ -68,6 +65,17 @@
 		* Gemini Advanced（Ultra 1.0）：$19.99 / 月
 * 更多介绍：
 	* [这几天刷屏的谷歌 Gemini 大模型又放出免费 API，压力给到奥特曼](https://www.cssmagic.net/blog/wx/55)
+
+### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
+
+* 简介：文心一言是由百度公司开发的聊天机器人，于 2023 年 3 月 16 日发布。文心一言由文心大模型驱动。
+* 官网：https://wenxin.baidu.com/
+* API 文档：https://cloud.baidu.com/doc/WENXINWORKSHOP/s/clntwmv7t
+* Web 产品（文心一言）：https://yiyan.baidu.com/
+	* 定价：
+		* 非会员（文心大模型 3.5 + 2000 字输入 + 图片 512x512 + ...）：免费
+		* 会员（文心大模型 4.0 + 5000 字输入 + 图片 1024x1024 + ...）：¥59.9 / 月
+* Web 产品（飞桨 AI 应用中心）：https://aistudio.baidu.com/application/center
 
 ### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
 
