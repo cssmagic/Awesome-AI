@@ -19,7 +19,7 @@
 
 * 简介：OpenAI 的 GPT-4 模型目前全球最先进的大型语言模型。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
 * 官网：https://openai.com/gpt-4
-* Playground：
+* Playground：（不是免费的，会消耗你的 API 调用额度）
 	* Chat 模式：https://platform.openai.com/playground?mode=chat
 	* Assistants 模式：https://platform.openai.com/playground?mode=assistant
 * API 定价：https://openai.com/pricing
@@ -114,6 +114,15 @@
 
 
 ## AI 辅助编程 <a name="ai-assisted-programming">&nbsp;</a>
+
+### Cursor / Copilot++
+
+* 简介：Cursor 是一款编辑器，基于 VS Code 内核，集成了 AI 辅助编程和基于当前代码仓库的 AI 问答功能。相对于其他 AI 辅助编程工具，Cursor 可以执行指令修改代码，而不仅仅是生成新代码。Copilot++ 是其付费功能，可以预测用户的下一步操作并提供代码修改建议。
+* 官网：https://cursor.sh/
+* 定价：https://cursor.sh/pricing
+	* 基础版（基础功能 + 有限的问答次数）：免费
+	* 专业版（无限的问答次数 + Copilot++）：$20 / 月
+	* ...
 
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
@@ -249,24 +258,15 @@
 
 ### 综合平台
 
-* POE <a name="poe">&nbsp;</a>
-	* 简介：各种知名模型的聚合平台。用户可根据自己的需求通过 Prompt 定制对话机器人，相当于 GPTs 平替。付费用户可无限量使用 GPT-4、Claude 2 等高端模型。
-	* 官网：https://poe.com/
-* FlowGPT <a name="flowgpt">&nbsp;</a>
-	* 简介：一个 Prompt 分享平台。提供了角色聊天、游戏、创意、生产力等各种类型的对话机器人，是一个学习提示词的好地方。也可以把它当作 GPTs 平替。
-	* 官网：https://flowgpt.com/
-* Character.AI
-	* 简介：与各种类型的 AI 虚拟角色对话，包括世界名人、动漫人物、游戏角色等。
-	* 官网：https://beta.character.ai/
-* Coze
-	* 简介：字节跳动面向海外市场推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到海外各大社交平台。网友发现，在该平台可以免费使用 GPT-4 和 DALL·E 3。
+* [POE](https://poe.com/)：各种知名模型的聚合平台。用户可根据自己的需求通过 Prompt 定制对话机器人，相当于 GPTs 平替。付费用户可无限量使用 GPT-4、Claude 2 等高端模型。
+* [FlowGPT](https://flowgpt.com/)：一个 Prompt 分享平台。提供了角色聊天、游戏、创意、生产力等各种类型的对话机器人，是一个学习提示词的好地方。也可以把它当作 GPTs 平替。
+* [Character.AI](https://beta.character.ai/)：与各种类型的 AI 虚拟角色对话，包括世界名人、动漫人物、游戏角色等。
+* Coze：字节跳动面向海外市场推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到海外各大社交平台。网友发现，在该平台可以免费使用 GPT-4 和 DALL·E 3。
 	* 官网（海外版）：https://www.coze.com/
 	* 官网（国内版）：https://www.coze.cn/
 	* 中文文档（海外版）：https://www.coze.com/docs/zh_cn/welcome.html
 	* 中文文档（国内版）：https://www.coze.cn/docs/guides/welcome
-* GPTsCopilot
-	* 简介：第三方 GPTs 商店，提供 GPTs 中转访问服务。在 GPTs 的网址中，把 `openai.com` 改成 `openai-now.com` 就可以切换到 GPTsCopilot 提供的中转访问服务，无需成为 ChatGPT Plus 会员即可使用 GPTs。
-	* 官网：https://chat.openai-now.com/
+* [GPTsCopilot](https://chat.openai-now.com/)：第三方 GPTs 商店，提供 GPTs 中转访问服务。在 GPTs 的网址中，把 `openai.com` 改成 `openai-now.com` 就可以切换到 GPTsCopilot 提供的中转访问服务，无需成为 ChatGPT Plus 会员即可使用 GPTs。
 	* 定价：https://gptscopilot.ai/pricing
 		* 基础版（每天 5 积分）：免费
 		* 专业版（每月 1500 积分）：$9.99 / 月
@@ -278,12 +278,8 @@
 
 ### 图像处理 / 图形设计 / UI 设计
 
-* Vectorizer.AI
-	* 简介：基于 AI 的位图转适量图的在线工具。免费。
-	* 官网：https://vectorizer.ai/
-* Galileo
-	* 简介：通过提示词生成 UI 设计稿，可导出到 Figma。
-	* 官网：https://www.usegalileo.ai/
+* [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转适量图的在线工具。免费。
+* [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
 	* 定价：https://www.usegalileo.ai/pricing
 		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
 		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
@@ -294,33 +290,28 @@
 
 ### 写作
 
+* [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。增值服务，每月 $10。
+
 （持续更新中……）
 
 
 ### 内容分析、识别、提炼
 
-* 通义听悟 <a name="tingwu">&nbsp;</a>
-	* 简介：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
-	* 官网：[tingwu.aliyun.com](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)
+* [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
+* [万知](https://www.wanzhi01.com/)：长文总结要点、文档生成 PPT 等。
 
 （持续更新中……）
 
 ### 广告 / 营销
 
-* AdIntelli
-	* 简介：面向 GPTs 生态的广告联盟（可靠性待验证）。
-	* 官网：https://adintelli.ai/
+* [AdIntelli](https://adintelli.ai/)：面向 GPTs 生态的广告联盟（可靠性待验证）。
 
 （持续更新中……）
 
 ### 其他工具
 
-* AppAgent
-	* 简介：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
-	* 官网：https://appagent-official.github.io/
-* SiteGPT
-	* 简介：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
-	* 官网：https://sitegpt.ai/
+* [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
+* [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
 
 ---
 
