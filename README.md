@@ -95,15 +95,12 @@
 * 更多介绍：
 	* [性能超出预期！神秘的国产大模型 Kimi 开放 API](https://www.cssmagic.net/blog/wx/68)
 
-### 零一万物 / Yi
-
-* 简介：国产开源多模态大模型。30 万字超长上下文。已开放 API。
-* 官网：https://www.lingyiwanwu.com/
-* API 文档：https://platform.lingyiwanwu.com/
 
 ### 更多
 
 * 更多国产大模型：
+	* [零一万物 / Yi](https://www.lingyiwanwu.com/)：国产开源多模态大模型。30 万字超长上下文。已开放 API。
+		* API 文档：https://platform.lingyiwanwu.com/
 	* [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)：
 		* API 文档：https://www.xfyun.cn/doc/spark/Web.html
 		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
@@ -139,16 +136,14 @@
 * 官网：https://codegeex.cn/
 * 定价：CodeGeeX 插件对个人用户完全免费。
 
-### Tabnine
+### 其他
 
-* 官网：https://www.tabnine.com/
-* 定价：基础版（基础的代码补全功能）：免费
-
-### Amazon CodeWhisperer
-
-* 官网：https://aws.amazon.com/codewhisperer/
-* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
-
+* [Tabnine](https://www.tabnine.com/)
+	* 定价：基础版（基础的代码补全功能）：免费
+* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+	* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
+* [通义灵码](https://tongyi.aliyun.com/lingma)
+	* 定价：个人版：免费
 
 
 ## AI 绘画 / 音视频生成 <a name="ai-painting">&nbsp;</a>
