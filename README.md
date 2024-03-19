@@ -246,9 +246,12 @@
 * [DreamGaussian](https://dreamgaussian.github.io/)：Generative Gaussian Splatting for Efficient 3D Content Creation。开源项目。
 * [Tripo AI](https://vectorizer.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
 
-### 数字人
+### 数字人 / 语音驱动视频
 
 * [万兴播爆](https://virbo.wondershare.cn/)：输入文案，一键生成数字人播报视频。
+* 剪映：可生成数字人播报视频。
+* [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
+* [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 
 ### 在线 SD 绘画
 
@@ -300,26 +303,38 @@
 
 * [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。增值服务，每月 $10。
 
-（持续更新中……）
-
 
 ### 内容分析、识别、提炼
 
 * [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
 * [万知](https://www.wanzhi01.com/)：长文总结要点、文档生成 PPT 等。
+* 剪映：可识别语音生成字幕。
 
-（持续更新中……）
+
+### 定制知识库 / RAG
+
+* [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
+* [Dify](https://docs.dify.ai/v/zh-hans)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架等功能。
 
 ### 广告 / 营销
 
 * [AdIntelli](https://adintelli.ai/)：面向 GPTs 生态的广告联盟（可靠性待验证）。
 
-（持续更新中……）
-
 ### 其他工具
 
 * [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
-* [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
+
+### 法规 / 公告
+
+* [中华人民共和国人工智能法（学者建议稿）](https://mp.weixin.qq.com/s/Q98mzMXfISURS1vXsxqctg)
+* 境内深度合成服务算法备案清单：
+	* [2023 年 6 月](https://www.cac.gov.cn/2023-06/20/c_1688910683316256.htm)
+	* [2023 年 8 月](https://www.cac.gov.cn/2023-09/01/c_1695224377544009.htm)
+	* [2024 年 1 月](https://www.cac.gov.cn/2024-01/05/c_1706119043746644.htm)
+	* [2024 年 2 月](https://www.cac.gov.cn/2024-02/18/c_1709925427424332.htm)
+
+
+（持续更新中……）
 
 ---
 
