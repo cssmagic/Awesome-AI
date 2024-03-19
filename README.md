@@ -91,7 +91,7 @@
 * 官网：https://www.moonshot.cn/
 * API 文档：https://platform.moonshot.cn/
 	* 定价：https://platform.moonshot.cn/pricing
-* Web 产品（Kimi，原 Kimi Chat）：https://kimi.moonshot.cn/
+* Web 产品（Kimi 智能助手，原 Kimi Chat）：https://kimi.moonshot.cn/
 * 更多介绍：
 	* [性能超出预期！神秘的国产大模型 Kimi 开放 API](https://www.cssmagic.net/blog/wx/68)
 
@@ -101,20 +101,15 @@
 * 官网：https://www.lingyiwanwu.com/
 * API 文档：https://platform.lingyiwanwu.com/
 
-### 讯飞星火认知大模型
-
-* 官网：https://xinghuo.xfyun.cn/
-* API 文档：https://www.xfyun.cn/doc/spark/Web.html
-* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
-
-### MiniMax
-
-* 官网：https://api.minimax.chat/
-* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
-
 ### 更多
 
-* 开源的中文大型语言模型：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+* 更多国产大模型：
+	* [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)：
+		* API 文档：https://www.xfyun.cn/doc/spark/Web.html
+		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
+	* [MiniMax](https://api.minimax.chat/)
+		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
+	* 开源的中文大型语言模型：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
 	* GPT-4V：https://platform.openai.com/docs/guides/vision
 	* Gemini Pro Vision：https://ai.google.dev/tutorials/rest_quickstart#text-and-image_input
