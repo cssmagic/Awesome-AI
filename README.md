@@ -340,6 +340,12 @@
 
 ## 常见问题 <a name="faq">&nbsp;</a>
 
+### 有什么简便的方式可以使用 GPT-4 和 GPTs？ <a name="help">&nbsp;</a>
+
+建议先通过 ChatGPT Plus 拼车账号开始体验，即买即用。解锁 GPT-4 + DALL·E 绘图 + GPTs 等高端功能。需自备海外线路。
+
+这里推荐一个老牌的拼车平台，稳定可靠。[点此开始拼车](https://cmcm.link/p/gpt-plus)（还可用九五折优惠码 `ai2024`）。
+
 ### AI 生成内容的版权（著作权）属于谁？
 
 简单说一下结论：
@@ -348,12 +354,6 @@
 * 否则属于使用 AI 服务生成内容的用户。
 
 详细解释：[你用 AI 生成的作品，版权归你吗？](https://www.cssmagic.net/blog/wx/59)
-
-### 有什么简便的方式可以使用 GPT-4 和 GPTs？ <a name="help">&nbsp;</a>
-
-建议先通过 ChatGPT Plus 拼车账号开始体验，即买即用。解锁 GPT-4 + DALL·E 绘图 + GPTs 等高端功能。需自备海外线路。
-
-这里推荐一个老牌的拼车平台，稳定可靠。[点此开始拼车](https://cmcm.link/p/gpt-plus)（还可用九五折优惠码 `ai2024`）。
 
 ### 微信群 <a name="wx-group">&nbsp;</a>
 
