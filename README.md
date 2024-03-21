@@ -115,20 +115,20 @@
 
 ## AI 辅助编程 <a name="ai-assisted-programming">&nbsp;</a>
 
+### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
+
+* 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。通过提供代码建议和自动补全功能，Copilot 能够提高编程效率。此外，它还集成了生成单测、生成注释、转译代码、回答问题等功能。
+* 官网：https://github.com/features/copilot
+* 定价：个人版：$10 / 月（第一个月免费试用）
+
 ### Cursor / Copilot++
 
-* 简介：Cursor 是一款编辑器，基于 VS Code 内核，集成了 AI 辅助编程和基于当前代码仓库的 AI 问答功能。相对于其他 AI 辅助编程工具，Cursor 可以执行指令修改代码，而不仅仅是生成新代码。Copilot++ 是其付费功能，可以预测用户的下一步操作并提供代码修改建议。
+* 简介：AI 辅助编程领域的后起之秀。Cursor 是一款编辑器，基于 VS Code 内核，集成了 AI 辅助编程和基于当前代码仓库的 AI 问答功能。相对于其他 AI 辅助编程工具，Cursor 可以执行指令修改代码，而不仅仅是生成新代码。Copilot++ 是其付费功能，可以预测用户的下一步操作并提供代码修改建议。
 * 官网：https://cursor.sh/
 * 定价：https://cursor.sh/pricing
 	* 基础版（基础功能 + 有限的问答次数）：免费
 	* 专业版（无限的问答次数 + Copilot++）：$20 / 月
 	* ...
-
-### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
-
-* 简介：一款由 GitHub 和 OpenAI 共同开发的 AI 编程助手，作为编辑器插件集成到开发环境中。通过提供代码建议和自动补全功能，Copilot 能够提高编程效率。此外，它还集成了生成单测、生成注释、转译代码、回答问题等功能。
-* 官网：https://github.com/features/copilot
-* 定价：个人版：$10 / 月（第一个月免费试用）
 
 ### CodeGeeX <a name="codegeex">&nbsp;</a>
 
@@ -138,11 +138,13 @@
 
 ### 其他
 
-* [Tabnine](https://www.tabnine.com/)
+* [Codeium](https://codeium.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
+	* 定价：个人版（代码建议 + 对话）：免费
+* [Tabnine](https://www.tabnine.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：基础版（基础的代码补全功能）：免费
-* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
-* [通义灵码](https://tongyi.aliyun.com/lingma)
+* [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版：免费
 
 
