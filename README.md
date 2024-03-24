@@ -294,6 +294,7 @@
 ### 写作
 
 * [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。增值服务，每月 $10。
+* [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 
 
 ### 内容分析、识别、提炼
