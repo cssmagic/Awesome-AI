@@ -45,7 +45,7 @@
 
 ### Claude
 
-* 简介：Anthropic 公司发布的 AI 模型。最新版 Claude 3 在某些指标上已经超越 GPT-4。
+* 简介：Anthropic 公司发布的多模态 AI 模型。最新版 Claude 3 在某些指标上已经超越 GPT-4。Claude 3 的模型规模从小到大分别有 Haiku、Sonnet、Opus 三个版本。
 * 官网：https://www.anthropic.com/claude
 * Web 产品（Claude）：
 	* 入口：https://claude.ai/ （需要验证海外手机号）
@@ -287,6 +287,7 @@
 * [There's An AI For That (TAAFT)](https://theresanaiforthat.com/)：提问我的需求可以用哪些 AI 工具来实现。
 * [通往 AGI 之路 / WayToAGI](https://www.waytoagi.com/)：AI 工具（包含网站和 GPTs）分类导航目录，也可搜索。
 	* 知识库：https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+* [ChandlerAi](https://chandler.bet/)：国内可用的 AI 助手，可调用 GPT-4、Claude 3 Opus、Gemini、DALL·E 等先进模型。需要付费。
 
 ### 图像处理 / 图形设计 / UI 设计
 
