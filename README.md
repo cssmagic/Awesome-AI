@@ -6,7 +6,7 @@
 >
 > * [大型语言模型](#llm)
 > * [AI 辅助编程](#ai-assisted-programming)
-> * [AI 绘画 / 音视频生成](#ai-painting)
+> * [AI 绘画 / 音视频创作](#ai-painting)
 > * [常用 AI 网站 / 工具](#ai-tool)
 > * [常见问题](#faq)
 
@@ -148,7 +148,7 @@
 	* 定价：个人版：免费
 
 
-## AI 绘画 / 音视频生成 <a name="ai-painting">&nbsp;</a>
+## AI 绘画 / 音视频创作 <a name="ai-painting">&nbsp;</a>
 
 ### Midjourney <a name="midjourney">&nbsp;</a>
 
@@ -254,8 +254,13 @@
 * [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
 * [Dreamina](https://www.capcut.cn/ai-tool/platform)：字节跳动出品的在线绘画平台，主打易用和免费。
 
-### 作曲
+### 其他创作工具
 
+* [DomoAI](https://domoai.app/)：视频风格转绘，比如把一段现有视频转换为二次元日漫、像素风、油画、3D 皮克斯动画等风格。此外还有文生图、图生图、图生视频等功能。有免费配额。
+* [Comic AI](https://comicai.ai/)：AI 漫画制作工具。有免费配额。
+* [Logo Diffusion](https://logodiffusion.com/)：AI 设计 Logo 工具，主要功能有：提示词生成 Logo、图片转 Logo、用提示词修改 Logo、手绘草稿美化、2D 转 3D。有免费配额。
+* [Eleven Labs](https://elevenlabs.io/)：AI 语音生成（TTS, Text to Speech），语音克隆，视频翻译配音。有 API。
+* [AutoPod](https://www.autopod.fm/)：Premiere Pro 插件，自动完成多机位剪辑、停顿切除。
 * [Suno](https://app.suno.ai/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
 
 （持续更新中……）
