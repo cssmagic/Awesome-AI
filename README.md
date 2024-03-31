@@ -291,7 +291,7 @@
 
 ### 图像处理 / 图形设计 / UI 设计
 
-* [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转适量图的在线工具。免费。
+* [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNGS → VG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
 	* 定价：https://www.usegalileo.ai/pricing
 		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
