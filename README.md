@@ -146,6 +146,8 @@
 	* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
 * [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版：免费
+* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
+* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
 
 
 ## AI 绘画 / 音视频创作 <a name="ai-painting">&nbsp;</a>
