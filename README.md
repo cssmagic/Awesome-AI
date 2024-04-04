@@ -138,6 +138,8 @@
 
 ### 其他
 
+* [JetBrains AI Assistant](https://www.jetbrains.com/ai/)：全球知名 IDE 厂商推出的第一方 AI 编程助手。提供代码补全建议、重构建议、AI 问答、生成文档、生成提交信息等功能。
+	* 定价：专业版：$10 / 月（免费试用 7 天）
 * [Codeium](https://codeium.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版（代码建议 + 对话）：免费
 * [Tabnine](https://www.tabnine.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
