@@ -106,6 +106,8 @@
 		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
 	* [MiniMax](https://api.minimax.chat/)
 		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
+	* [阶跃星辰](https://www.stepfun.com/)：自称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
+		* Web 产品（跃问）：https://stepchat.cn/chats/new
 	* 开源的中文大型语言模型：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
 	* GPT-4V：https://platform.openai.com/docs/guides/vision
