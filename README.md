@@ -94,6 +94,7 @@
 * Web 产品（Kimi 智能助手，原 Kimi Chat）：https://kimi.moonshot.cn/
 * 更多介绍：
 	* [性能超出预期！神秘的国产大模型 Kimi 开放 API](https://www.cssmagic.net/blog/wx/68)
+	* [解答 Kimi API 常见问题，顺便探讨 AI 应用开发的那些事儿](https://www.cssmagic.net/blog/wx/69)
 
 
 ### 更多
@@ -328,6 +329,10 @@
 ### 广告 / 营销
 
 * [AdIntelli](https://adintelli.ai/)：面向 GPTs 生态的广告联盟（可靠性待验证）。
+
+### 娱乐
+
+* [Hume AI](https://www.hume.ai/)：能识别语音情绪的 AI 模型，提供 API。提供了一个 [在线演示](https://demo.hume.ai/)，可以与 AI 机器人语音对话。
 
 ### 其他工具 / 开源项目
 
