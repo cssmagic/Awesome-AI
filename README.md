@@ -53,7 +53,7 @@
 
 ### Google Gemini <a name="gemini">&nbsp;</a>
 
-* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。Ultra 版宣称在多项测评中击败 GPT-4；Pro 1.0 版本于 2023 年 12 月开放免费 API。2024 年 2 月发布 Pro 1.5，需要排队申请。2024 年 2 月通过 [Advanced 付费套餐](https://gemini.google.com/advanced) 开放 Ultra 1.0 的 Web 访问。
+* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。Ultra 版宣称在多项测评中击败 GPT-4；Pro 1.0 版本于 2023 年 12 月开放免费 API。2024 年 2 月通过 [Advanced 付费套餐](https://gemini.google.com/advanced) 开放 Ultra 1.0 的 Web 访问。2024 年 4 月通过 API 和 AI Studio 开放 Pro 1.5。
 * 官网：https://ai.google.dev/
 * Playground：
 	* Google AI Studio：https://makersuite.google.com/
@@ -109,11 +109,13 @@
 		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
 	* [阶跃星辰](https://www.stepfun.com/)：自称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
 		* Web 产品（跃问）：https://stepchat.cn/chats/new
-	* 开源的中文大型语言模型：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+	* 开源的中文 LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
 	* GPT-4V：https://platform.openai.com/docs/guides/vision
 	* Gemini Pro Vision：https://ai.google.dev/tutorials/rest_quickstart#text-and-image_input
-
+* 人性化的聊天机器人：
+	* [Pi](https://pi.ai/)：人性化的 AI 对话助手。
+	* [Hume AI](https://www.hume.ai/)：能识别语音情绪的 AI 模型，提供 API。提供了一个 [在线演示](https://demo.hume.ai/)，可以与 AI 机器人语音对话。
 
 
 ## AI 辅助编程 <a name="ai-assisted-programming">&nbsp;</a>
@@ -320,23 +322,19 @@
 * [万知](https://www.wanzhi01.com/)：长文总结要点、文档生成 PPT 等。
 * 剪映：可识别语音生成字幕。
 
-
 ### 定制知识库 / RAG
 
 * [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
-* [Dify](https://docs.dify.ai/v/zh-hans)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架等功能。
+* [Dify](https://docs.dify.ai/v/zh-hans)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架、工作流编排等功能。
 
 ### 广告 / 营销
 
 * [AdIntelli](https://adintelli.ai/)：面向 GPTs 生态的广告联盟（可靠性待验证）。
 
-### 娱乐
-
-* [Hume AI](https://www.hume.ai/)：能识别语音情绪的 AI 模型，提供 API。提供了一个 [在线演示](https://demo.hume.ai/)，可以与 AI 机器人语音对话。
-
 ### 其他工具 / 开源项目
 
 * [秘塔 AI 搜索](https://metaso.cn/)：更友好的搜索引擎，帮你整理信息后更有条理地呈现。有 “全网” 和 “学术” 两种搜索模式，搜索深度可选简洁、深入、研究。
+* [天工 AI](https://www.tiangong.cn/)：AI 搜索、对话助手等。
 * [PromptPerfect](https://promptperfect.jina.ai/)：帮你优化提示词（Prompt）。比如把你的笼统需求拆解为多步骤的任务，以提高模型输出的准确性；又比如根据给定的文章主题生成大纲并撰写长文。
 * [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
 
@@ -348,7 +346,6 @@
 	* [2023 年 8 月](https://www.cac.gov.cn/2023-09/01/c_1695224377544009.htm)
 	* [2024 年 1 月](https://www.cac.gov.cn/2024-01/05/c_1706119043746644.htm)
 	* [2024 年 2 月](https://www.cac.gov.cn/2024-02/18/c_1709925427424332.htm)
-
 
 （持续更新中……）
 
