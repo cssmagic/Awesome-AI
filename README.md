@@ -282,7 +282,7 @@
 * [POE](https://poe.com/)：各种知名模型的聚合平台。用户可根据自己的需求通过 Prompt 定制对话机器人，相当于 GPTs 平替。付费用户可无限量使用 GPT-4、Claude 2 等高端模型。
 * [FlowGPT](https://flowgpt.com/)：一个 Prompt 分享平台。提供了角色聊天、游戏、创意、生产力等各种类型的对话机器人，是一个学习提示词的好地方。也可以把它当作 GPTs 平替。
 * [Character.AI](https://beta.character.ai/)：与各种类型的 AI 虚拟角色对话，包括世界名人、动漫人物、游戏角色等。
-* Coze：字节跳动面向海外市场推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到海外各大社交平台。网友发现，在该平台可以免费使用 GPT-4 和 DALL·E 3。
+* Coze：字节跳动推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到各大社交平台。网友发现，海外版 Coze 可以免费使用 GPT-4 和 DALL·E 3。
 	* 官网（海外版）：https://www.coze.com/
 	* 官网（国内版）：https://www.coze.cn/
 	* 中文文档（海外版）：https://www.coze.com/docs/zh_cn/welcome.html
