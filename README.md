@@ -242,7 +242,7 @@
 
 * [Zero-1-to-3 (zero123)](https://github.com/cvlab-columbia/zero123): Zero-shot 单张图片生成 3D 物体。哥伦比亚大学的开源项目。
 * [One-2-3-45](http://one-2-3-45.com/)：“Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization”。开源项目。
-* [Wonder3D](https://www.xxlong.site/Wonder3D/)：“Wonder3D produces consistent multi-view normal maps and correpsonding color images, and thus reconstructs high-fidelity textured mesh from a single image in only 2~3 minutes”。开源项目。
+* [Wonder3D](https://www.xxlong.site/Wonder3D/)：“Wonder3D produces consistent multi-view normal maps and corresponding color images, and thus reconstructs high-fidelity textured mesh from a single image in only 2~3 minutes”。开源项目。
 * [Stable Zero123](https://stability.ai/stable-3d)：单张图片生成高质量 3D 物体。Stability AI 开源模型，可整合到 ComfyUI 工作流。
 * [DreamGaussian](https://dreamgaussian.github.io/)：Generative Gaussian Splatting for Efficient 3D Content Creation。开源项目。
 * [Tripo AI](https://vectorizer.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
@@ -252,6 +252,7 @@
 * [万兴播爆](https://virbo.wondershare.cn/)：输入文案，一键生成数字人播报视频。
 * 剪映：可生成数字人播报视频。
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
+* [Eleven Labs](https://elevenlabs.io/)：AI 语音生成（TTS, Text to Speech），语音克隆，视频翻译配音。有 API。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 
 ### 在线 SD 绘画
@@ -263,14 +264,16 @@
 * [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
 * [Dreamina](https://www.capcut.cn/ai-tool/platform)：字节跳动出品的在线绘画平台，主打易用和免费。
 
+### 音乐创作
+
+* [Suno](https://app.suno.ai/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
+
 ### 其他创作工具
 
 * [DomoAI](https://domoai.app/)：视频风格转绘，比如把一段现有视频转换为二次元日漫、像素风、油画、3D 皮克斯动画等风格。此外还有文生图、图生图、图生视频等功能。有免费配额。
 * [Comic AI](https://comicai.ai/)：AI 漫画制作工具。有免费配额。
 * [Logo Diffusion](https://logodiffusion.com/)：AI 设计 Logo 工具，主要功能有：提示词生成 Logo、图片转 Logo、用提示词修改 Logo、手绘草稿美化、2D 转 3D。有免费配额。
-* [Eleven Labs](https://elevenlabs.io/)：AI 语音生成（TTS, Text to Speech），语音克隆，视频翻译配音。有 API。
 * [AutoPod](https://www.autopod.fm/)：Premiere Pro 插件，自动完成多机位剪辑、停顿切除。
-* [Suno](https://app.suno.ai/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
 
 （持续更新中……）
 
@@ -300,7 +303,7 @@
 
 ### 图像处理 / 图形设计 / UI 设计
 
-* [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNGS → VG。已经不可免费使用，需要订阅（$10 / 月）。
+* [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNG → SVG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
 	* 定价：https://www.usegalileo.ai/pricing
 		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
