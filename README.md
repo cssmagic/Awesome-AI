@@ -13,6 +13,8 @@
 > 🔍 提醒：善用搜索，按 Ctrl+F 或 ⌘F 定位到你想找的关键词。<br>
 > 💡 持续更新中，建议添加到浏览器收藏夹，平常一定会用到。
 
+
+
 ## 大型语言模型 <a name="llm">&nbsp;</a>
 
 ### OpenAI GPT / ChatGPT <a name="gpt">&nbsp;</a>
@@ -72,9 +74,6 @@
 * 官网：https://wenxin.baidu.com/
 * API 文档：https://cloud.baidu.com/doc/WENXINWORKSHOP/s/clntwmv7t
 * Web 产品（文心一言）：https://yiyan.baidu.com/
-	* 定价：
-		* 非会员（文心大模型 3.5 + 2000 字输入 + 图片 512x512 + ...）：免费
-		* 会员（文心大模型 4.0 + 5000 字输入 + 图片 1024x1024 + ...）：¥59.9 / 月
 * Web 产品（飞桨 AI 应用中心）：https://aistudio.baidu.com/application/center
 
 ### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
@@ -97,7 +96,6 @@
 	* [解答 Kimi API 常见问题，顺便探讨 AI 应用开发的那些事儿](https://www.cssmagic.net/blog/wx/69)
 	* [Kimi API 还没用起来？请看这篇无门槛快速入门指南](https://www.cssmagic.net/blog/wx/70)
 
-
 ### 更多
 
 * 更多国产大模型：
@@ -117,6 +115,7 @@
 * 人性化的聊天机器人：
 	* [Pi](https://pi.ai/)：人性化的 AI 对话助手。
 	* [Hume AI](https://www.hume.ai/)：能识别语音情绪的 AI 模型，提供 API。提供了一个 [在线演示](https://demo.hume.ai/)，可以与 AI 机器人语音对话。
+
 
 
 ## AI 辅助编程 <a name="ai-assisted-programming">&nbsp;</a>
@@ -156,6 +155,7 @@
 	* 定价：个人版：免费
 * [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
 * [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
+
 
 
 ## AI 绘画 / 音视频创作 <a name="ai-painting">&nbsp;</a>
@@ -279,6 +279,7 @@
 （持续更新中……）
 
 
+
 ## 常用 AI 网站 / 工具 <a name="ai-tool">&nbsp;</a>
 
 ### 综合平台
@@ -318,7 +319,6 @@
 
 * [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。增值服务，每月 $10。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
-
 
 ### 内容分析、识别、提炼
 
