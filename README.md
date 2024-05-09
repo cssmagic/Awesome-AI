@@ -99,6 +99,8 @@
 ### 更多
 
 * 更多国产大模型：
+	* [深度求索 / DeepSeek](https://www.deepseek.com/)：国产开源多模态大模型，宣称在测试中接近 GPT-4。已开放 API，定价极为低廉。
+		* API 文档：https://platform.deepseek.com/docs
 	* [零一万物 / Yi](https://www.lingyiwanwu.com/)：国产开源多模态大模型。30 万字超长上下文。已开放 API。
 		* API 文档：https://platform.lingyiwanwu.com/
 	* [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)：
@@ -106,7 +108,7 @@
 		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
 	* [MiniMax](https://api.minimax.chat/)
 		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
-	* [阶跃星辰](https://www.stepfun.com/)：自称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
+	* [阶跃星辰](https://www.stepfun.com/)：宣称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
 		* Web 产品（跃问）：https://stepchat.cn/chats/new
 	* 开源的中文 LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
