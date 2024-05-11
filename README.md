@@ -99,13 +99,17 @@
 ### 更多
 
 * 更多国产大模型：
+	* [通义千问 / Qwen](https://tongyi.aliyun.com/)：阿里开源的大模型。
+		* API 文档：https://help.aliyun.com/zh/dashscope/developer-reference/api-details
+		* Web 产品：https://tongyi.aliyun.com/qianwen/
+		* App 产品：通义千问 App 提供了问答助手、AI 工具等常规功能外，还提供了通义舞王、涂鸦作画等特色功能。
 	* [深度求索 / DeepSeek](https://www.deepseek.com/)：国产开源多模态大模型，宣称在测试中接近 GPT-4。已开放 API，定价极为低廉。
 		* API 文档：https://platform.deepseek.com/docs
 	* [零一万物 / Yi](https://www.lingyiwanwu.com/)：国产开源多模态大模型。30 万字超长上下文。已开放 API。
 		* API 文档：https://platform.lingyiwanwu.com/
 	* [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)：
-		* API 文档：https://www.xfyun.cn/doc/spark/Web.html
 		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
+		* API 文档：https://www.xfyun.cn/doc/spark/Web.html
 	* [MiniMax](https://api.minimax.chat/)
 		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
 	* [阶跃星辰](https://www.stepfun.com/)：宣称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
@@ -352,12 +356,14 @@
 ### 法规 / 公告
 
 * [中华人民共和国人工智能法（学者建议稿）](https://mp.weixin.qq.com/s/Q98mzMXfISURS1vXsxqctg)
-* 境内深度合成服务算法备案清单：
-	* [2023 年 6 月](https://www.cac.gov.cn/2023-06/20/c_1688910683316256.htm)
-	* [2023 年 8 月](https://www.cac.gov.cn/2023-09/01/c_1695224377544009.htm)
-	* [2024 年 1 月](https://www.cac.gov.cn/2024-01/05/c_1706119043746644.htm)
-	* [2024 年 2 月](https://www.cac.gov.cn/2024-02/18/c_1709925427424332.htm)
-	* [2024 年 4 月](https://www.cac.gov.cn/2024-04/11/c_1714509267496697.htm)
+* 算法备案：
+	* 境内深度合成服务算法备案清单：
+		* [2023 年 6 月](https://www.cac.gov.cn/2023-06/20/c_1688910683316256.htm)
+		* [2023 年 8 月](https://www.cac.gov.cn/2023-09/01/c_1695224377544009.htm)
+		* [2024 年 1 月](https://www.cac.gov.cn/2024-01/05/c_1706119043746644.htm)
+		* [2024 年 2 月](https://www.cac.gov.cn/2024-02/18/c_1709925427424332.htm)
+		* [2024 年 4 月](https://www.cac.gov.cn/2024-04/11/c_1714509267496697.htm)
+	* [互联网信息服务算法备案系统](https://beian.cac.gov.cn/#/index)
 
 （持续更新中……）
 
