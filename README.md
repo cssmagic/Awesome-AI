@@ -99,21 +99,25 @@
 ### 更多
 
 * 更多国产大模型：
-	* [通义千问 / Qwen](https://tongyi.aliyun.com/)：阿里开源的大模型。
-		* API 文档：https://help.aliyun.com/zh/dashscope/developer-reference/api-details
+	* [通义千问 / Qwen](https://tongyi.aliyun.com/)：阿里云出品的大模型，有开源版本。
 		* Web 产品：https://tongyi.aliyun.com/qianwen/
 		* App 产品：通义千问 App 提供了问答助手、AI 工具等常规功能外，还提供了通义舞王、涂鸦作画等特色功能。
+		* API 文档：https://help.aliyun.com/zh/dashscope/developer-reference/api-details
 	* [深度求索 / DeepSeek](https://www.deepseek.com/)：国产开源多模态大模型，宣称在测试中接近 GPT-4。已开放 API，定价极为低廉。
+		* Web 产品：https://chat.deepseek.com/
 		* API 文档：https://platform.deepseek.com/docs
 	* [零一万物 / Yi](https://www.lingyiwanwu.com/)：国产开源多模态大模型。30 万字超长上下文。已开放 API。
+		* Web 产品（万知）：https://www.wanzhi.com/home
 		* API 文档：https://platform.lingyiwanwu.com/
 	* [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)：
 		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
 		* API 文档：https://www.xfyun.cn/doc/spark/Web.html
 	* [MiniMax](https://api.minimax.chat/)
+		* Web 产品（海螺 AI）：https://hailuoai.com/
 		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
 	* [阶跃星辰](https://www.stepfun.com/)：宣称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
 		* Web 产品（跃问）：https://stepchat.cn/chats/new
+		* API 文档：https://platform.stepfun.com/docs/overview/concept
 	* 开源的中文 LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
 	* GPT-4V：https://platform.openai.com/docs/guides/vision
