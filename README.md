@@ -36,6 +36,7 @@
 		* ChatGPT Team（Plus + 协作空间 + 数据保护 + ...）：$25 / 月 / 人
 	* 相关教程：
 		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
+		* [买了 ChatGPT 会员却没用过 “代码解释器”？亏了，快看这三个案例](https://www.cssmagic.net/blog/wx/72)
 * Web 产品（GPTs）： <a name="gpts">&nbsp;</a>
 	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
 	* GPTs 商店：https://chat.openai.com/gpts
@@ -106,8 +107,9 @@
 	* [深度求索 / DeepSeek](https://www.deepseek.com/)：国产开源多模态大模型，宣称在测试中接近 GPT-4。已开放 API，定价极为低廉。
 		* Web 产品：https://chat.deepseek.com/
 		* API 文档：https://platform.deepseek.com/docs
+		* 更多介绍：[国产大模型又出黑马！DeepSeek 初体验，价格屠夫大杀四方](https://www.cssmagic.net/blog/wx/73)
 	* [零一万物 / Yi](https://www.lingyiwanwu.com/)：国产开源多模态大模型。30 万字超长上下文。已开放 API。
-		* Web 产品（万知）：https://www.wanzhi.com/home
+		* Web 产品（万知）：https://www.wanzhi.com/ （长文总结要点、文档生成 PPT 等）
 		* API 文档：https://platform.lingyiwanwu.com/
 	* [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)：
 		* Web 产品（SparkDesk）：https://xinghuo.xfyun.cn/desk
@@ -165,7 +167,8 @@
 	* 定价：个人版：免费
 * [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
 * [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
-
+* 书籍：
+	* [新书《AI 辅助编程》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
 
 ## AI 绘画 / 音视频创作 <a name="ai-painting">&nbsp;</a>
@@ -333,7 +336,6 @@
 ### 内容分析、识别、提炼
 
 * [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
-* [万知](https://www.wanzhi01.com/)：长文总结要点、文档生成 PPT 等。
 * 剪映：可识别语音生成字幕。
 
 ### 定制知识库 / RAG
