@@ -347,6 +347,7 @@
 ### 广告 / 营销
 
 * [AdIntelli](https://adintelli.ai/)：面向 GPTs 生态的广告联盟（可靠性待验证）。
+* [GPT Wallets](https://gptwallets.co/)：为 GPTs 提供支付和数据分析解决方案。
 
 ### 其他工具 / 开源项目
 
