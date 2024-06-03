@@ -268,7 +268,7 @@
 * [万兴播爆](https://virbo.wondershare.cn/)：输入文案，一键生成数字人播报视频。
 * 剪映：可生成数字人播报视频。
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
-* [Eleven Labs](https://elevenlabs.io/)：AI 语音生成（TTS），语音克隆，视频翻译配音。有 API。
+* [Eleven Labs](https://elevenlabs.io/)：文本转语音（TTS），通过文字描述生成音效，语音克隆，视频翻译配音。有 API。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 * [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/README_CN.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
 
@@ -349,6 +349,7 @@
 * [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
 * [Dify](https://docs.dify.ai/v/zh-hans)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架、工作流编排等功能。
 * [RAGFlow](https://github.com/infiniflow/ragflow/blob/main/README_zh.md)：一款基于深度文档理解构建的开源 RAG 引擎。
+* [MaxKB](https://github.com/1Panel-dev/MaxKB)：基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统。
 
 ### 广告 / 营销
 
