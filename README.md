@@ -287,6 +287,7 @@
 
 ### 其他创作工具
 
+* [神采 / PromeAI](https://www.ishencai.com/)：图片生成工具，包括草图渲染、照片转线稿、 局部重绘、抠图去背景、换背景、扩图、重打光、高清放大、文字融合、AI 写真、图生视频等。有免费配额。
 * [DomoAI](https://domoai.app/)：视频风格转绘，比如把一段现有视频转换为二次元日漫、像素风、油画、3D 皮克斯动画等风格。此外还有文生图、图生图、图生视频等功能。有免费配额。
 * [Comic AI](https://comicai.ai/)：AI 漫画制作工具。有免费配额。
 * [Logo Diffusion](https://logodiffusion.com/)：AI 设计 Logo 工具，主要功能有：提示词生成 Logo、图片转 Logo、用提示词修改 Logo、手绘草稿美化、2D 转 3D。有免费配额。
