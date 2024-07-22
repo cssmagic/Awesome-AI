@@ -246,6 +246,12 @@
 * 更多介绍：
 	* [Sora 官网摘要：OpenAI 的视频生成模型 Sora 被捧上天，但他们自己说还有这几个缺陷](https://www.cssmagic.net/blog/wx/66)
 
+### 可灵大模型
+
+* 简介：快手出品的视频生成大模型，支持文生视频、图生视频、视频续写等能力。支持最长 3 分钟高清视频生成，堪称 “中国版 Sora”。
+* 官网：https://kling.kuaishou.com/
+* Web 产品：[可灵AI](https://klingai.kuaishou.com/)
+
 ### 剪映专业版 / CapCut
 
 * 简介：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
@@ -364,6 +370,7 @@
 * [天工 AI](https://www.tiangong.cn/)：AI 搜索、对话助手等。
 * [PromptPerfect](https://promptperfect.jina.ai/)：帮你优化提示词（Prompt）。比如把你的笼统需求拆解为多步骤的任务，以提高模型输出的准确性；又比如根据给定的文章主题生成大纲并撰写长文。
 * [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
+* [ProctorAI](https://github.com/jam3scampbell/ProctorAI)：AI 监工，号称 “拖延症终结者”。开源项目，本地应用程序，通过定时截图来检查你是否在摸鱼，并发出警告，支持语音提醒。可以设置详细的监督规则。底层调用了 GPT-4o 等多模态模型。
 
 ### 教程
 
