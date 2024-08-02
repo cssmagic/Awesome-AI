@@ -278,6 +278,8 @@
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 * [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/README_CN.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
 * [Seed-TTS](https://bytedancespeech.github.io/seedtts_tech_report/)：字节跳动发布的高质量、多功能语音生成模型，未开源，似乎也没有发布可用的产品。支持音色微调、带情绪的 TTS、音色转换、情绪转换、基于原语音生成新语音、语音内容编辑、调速等能力。可应用于有声读物、翻译视频等场景。
+* 剪映：已上线 AI 克隆音色的功能，只能克隆自己的音色。
+* [微软 Azure AI 语音](https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/)：微软的云服务，支持语音转文本、文本转语音、语音翻译和说话人辨识等功能。
 
 ### 在线 SD 绘画
 
