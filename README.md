@@ -228,7 +228,7 @@
 
 ### PixVerse
 
-* 简介：目前免费的视频生成工具，效果媲美 Runway 和 Pika。
+* 简介：视频生成工具，支持文生视频、图生视频、人物生成视频等。有免费额度。
 * 官网：https://pixverse.ai/
 
 ### Stable Video Diffusion
@@ -277,6 +277,7 @@
 * [Eleven Labs](https://elevenlabs.io/)：文本转语音（TTS），通过文字描述生成音效，语音克隆，视频翻译配音。有 API。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 * [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/README_CN.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
+* [Seed-TTS](https://bytedancespeech.github.io/seedtts_tech_report/)：字节跳动发布的高质量、多功能语音生成模型，未开源，似乎也没有发布可用的产品。支持音色微调、带情绪的 TTS、音色转换、情绪转换、基于原语音生成新语音、语音内容编辑、调速等能力。可应用于有声读物、翻译视频等场景。
 
 ### 在线 SD 绘画
 
