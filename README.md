@@ -280,6 +280,7 @@
 * [Seed-TTS](https://bytedancespeech.github.io/seedtts_tech_report/)：字节跳动发布的高质量、多功能语音生成模型，未开源，似乎也没有发布可用的产品。支持音色微调、带情绪的 TTS、音色转换、情绪转换、基于原语音生成新语音、语音内容编辑、调速等能力。可应用于有声读物、翻译视频等场景。
 * 剪映：已上线 AI 克隆音色的功能，只能克隆自己的音色。
 * [微软 Azure AI 语音](https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/)：微软的云服务，支持语音转文本、文本转语音、语音翻译和说话人辨识等功能。
+* [LivePortrait](https://github.com/KwaiVGI/LivePortrait)：快手开源的人物肖像控制模型，可通过五官视频驱动图片生成视频，或修改其他视频。[在线体验](https://huggingface.co/spaces/KwaiVGI/LivePortrait)。
 
 ### 在线 SD 绘画
 
