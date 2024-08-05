@@ -352,6 +352,7 @@
 
 * [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
 * 剪映：可识别语音生成字幕。
+* [MinerU](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)：一站式、开源、高质量的数据提取工具，包含 PDF 文档、网页与电子书的内容提取并转换等 Markdown 等功能。
 
 ### 定制知识库 / RAG
 
