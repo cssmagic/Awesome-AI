@@ -201,6 +201,11 @@
 	* ComfyUI：https://github.com/comfyanonymous/ComfyUI
 		* 中文学习社区：https://www.comflowy.com/zh-CN
 
+### FLUX.1
+
+* 简介：FLUX.1 是一个全新的开源图像生成模型。它由 Black Forest Labs 开发，该团队也是 Stable Diffusion 的幕后团队。
+* 官网：https://www.basedlabs.ai/tools/flux1
+
 ### Google Imagen 2
 
 * 简介：Google DeepMind 推出的图片生成模型。免费使用。据说效果媲美 DALL·E。
@@ -251,6 +256,16 @@
 * 简介：快手出品的视频生成大模型，支持文生视频、图生视频、视频续写等能力。支持最长 3 分钟高清视频生成，堪称 “中国版 Sora”。
 * 官网：https://kling.kuaishou.com/
 * Web 产品：[可灵AI](https://klingai.kuaishou.com/)
+
+### Vidu
+
+* 简介：Vidu 是由清华大学朱军教授团队研发的 AI 视频生成器。支持生成高逼真度的 4 秒或 8 秒 1080p 高清视频。亮点包括生成速度快、角色一致性、支持写实和动漫风格、生成效果连续流畅等，可应用于游戏、影视、教育等领域。
+* 官网：https://www.vidu.studio/
+
+### Luma Dream Machine
+
+* 简介：Luma AI 出品的视频生成模型。支持文生视频、图生视频，可生成 5 秒长度的视频。有免费额度。
+* 官网：https://lumalabs.ai/dream-machine
 
 ### 剪映专业版 / CapCut
 
