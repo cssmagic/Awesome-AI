@@ -120,6 +120,8 @@
 	* [阶跃星辰](https://www.stepfun.com/)：宣称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
 		* Web 产品（跃问）：https://stepchat.cn/chats/new
 		* API 文档：https://platform.stepfun.com/docs/overview/concept
+	* [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md)：面壁智能出品的端侧多模态大模型系列，接受图像和文本输入，提供高质量的文本输出。可运行于手机、平板等智能终端进行推理。MiniCPM-V 2.6 以极小的参数量实现了 GPT-4V 级别的性能。
+		* 体验地址：https://huggingface.co/spaces/openbmb/MiniCPM-V-2_6
 	* 开源的中文 LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
 	* GPT-4V：https://platform.openai.com/docs/guides/vision
