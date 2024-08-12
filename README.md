@@ -362,14 +362,16 @@
 * 抠图：
 	* [四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
 
-### 写作
+### 写作 / PPT 幻灯片
 
 * [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。增值服务，每月 $10。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
+* [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
+* [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
 
 ### 内容分析、识别、提炼
 
-* [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录间采访、博客、会议记录等内容。
+* [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录音采访、播客、会议记录等内容。
 * 剪映：可识别语音生成字幕。
 * [MinerU](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)：一站式、开源、高质量的数据提取工具，包含 PDF 文档、网页与电子书的内容提取并转换等 Markdown 等功能。[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF)
 
