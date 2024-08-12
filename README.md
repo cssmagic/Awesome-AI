@@ -321,6 +321,7 @@
 * [Comic AI](https://comicai.ai/)：AI 漫画制作工具。有免费配额。
 * [Logo Diffusion](https://logodiffusion.com/)：AI 设计 Logo 工具，主要功能有：提示词生成 Logo、图片转 Logo、用提示词修改 Logo、手绘草稿美化、2D 转 3D。有免费配额。
 * [AutoPod](https://www.autopod.fm/)：Premiere Pro 插件，自动完成多机位剪辑、停顿切除。
+* [Canva 可画](https://www.canva.cn/)：老牌的在线设计工具，提供了大量模板和设计元素，支持 AI 设计。
 
 （持续更新中……）
 
@@ -368,6 +369,7 @@
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
+* [Gamma](https://gamma.app/)：AI 设计助手，生成 PPT、文档和网页，优化现有 PPT 和文档。
 
 ### 内容分析、识别、提炼
 
