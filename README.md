@@ -300,6 +300,7 @@
 * 剪映：已上线 AI 克隆音色的功能，只能克隆自己的音色。
 * [微软 Azure AI 语音](https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/)：微软的云服务，支持语音转文本、文本转语音、语音翻译和说话人辨识等功能。
 * [LivePortrait](https://github.com/KwaiVGI/LivePortrait)：快手开源的人物肖像控制模型，可通过五官视频驱动图片生成视频，或修改其他视频。[在线体验](https://huggingface.co/spaces/KwaiVGI/LivePortrait)。
+* [ReSyncer](https://guanjz20.github.io/projects/ReSyncer/)：一个研究项目，通过语音和视频模板素材，生成更自然的唇形视频。可应用于数字人场景。目前只有研究论文，还没有公开可用的产品。
 
 ### 在线 SD 绘画
 
@@ -308,7 +309,7 @@
 * [网易 AI 设计工坊](https://sd.study.163.com/)：在线 WebUI，可训练模型。有免费配额，每天 10 次。
 * [LibLib AI](https://www.liblib.art/)：在线 WebUI，可训练模型。有免费配额，每天 300 积分。
 * [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
-* [Dreamina](https://www.capcut.cn/ai-tool/platform)：字节跳动出品的在线绘画平台，主打易用和免费。
+* [即梦 AI](https://jimeng.jianying.com/ai-tool/home)：字节跳动出品的在线绘画平台，主打易用和免费。原名 “Dreamina”。
 
 ### 音乐创作
 
@@ -361,6 +362,7 @@
 		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
 		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
+* [Photoroom](https://www.photoroom.com/zh)：在线 AI 图片处理工具。免费用户可使用抠图、擦除、照片优化功能。
 * 抠图：
 	* [四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
 
@@ -400,6 +402,7 @@
 * [PromptPerfect](https://promptperfect.jina.ai/)：帮你优化提示词（Prompt）。比如把你的笼统需求拆解为多步骤的任务，以提高模型输出的准确性；又比如根据给定的文章主题生成大纲并撰写长文。
 * [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
 * [ProctorAI](https://github.com/jam3scampbell/ProctorAI)：AI 监工，号称 “拖延症终结者”。开源项目，本地应用程序，通过定时截图来检查你是否在摸鱼，并发出警告，支持语音提醒。可以设置详细的监督规则。底层调用了 GPT-4o 等多模态模型。
+* [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)：LLM 辅助 OCR，通过大模型来提升 OCR 的准确性。
 
 ### 教程
 
