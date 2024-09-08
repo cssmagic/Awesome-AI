@@ -168,7 +168,11 @@
 * [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版：免费
 * [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
-* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
+* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
+* 网页设计与生成工具：
+	* [v0](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
+	* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
+	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
 * 书籍：
 	* [新书《AI 辅助编程》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
@@ -353,8 +357,6 @@
 
 ### 图像处理 / 图形设计 / UI 设计
 
-* [v0](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
-* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
 * [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNG → SVG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
 	* 定价：https://www.usegalileo.ai/pricing
