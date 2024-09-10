@@ -375,6 +375,7 @@
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
 * [Gamma](https://gamma.app/)：AI 设计助手，生成 PPT、文档和网页，优化现有 PPT 和文档。
+* [AiPPT.cn](https://www.aippt.cn/)：AI 一键生成 PPT。支持自动生成 PPT 大纲文案，文档秒变 PPT，支持多种模板，兼容 pptx 格式。
 
 ### 内容分析、识别、提炼
 
