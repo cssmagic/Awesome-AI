@@ -129,6 +129,7 @@
 * 人性化的聊天机器人：
 	* [Pi](https://pi.ai/)：人性化的 AI 对话助手。
 	* [Hume AI](https://www.hume.ai/)：能识别语音情绪的 AI 模型，提供 API。提供了一个 [在线演示](https://demo.hume.ai/)，可以与 AI 机器人语音对话。
+* [Artificial Analysis](https://artificialanalysis.ai/)：大模型性能多维度测评排行榜。
 
 
 
