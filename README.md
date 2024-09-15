@@ -120,7 +120,7 @@
 	* [阶跃星辰](https://www.stepfun.com/)：宣称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
 		* Web 产品（跃问）：https://stepchat.cn/chats/new
 		* API 文档：https://platform.stepfun.com/docs/overview/concept
-	* [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md)：面壁智能出品的端侧多模态大模型系列，接受图像和文本输入，提供高质量的文本输出。可运行于手机、平板等智能终端进行推理。MiniCPM-V 2.6 以极小的参数量实现了 GPT-4V 级别的性能。
+	* [面壁智能 / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md)：面壁智能出品的端侧多模态大模型系列，接受图像和文本输入，提供高质量的文本输出。可运行于手机、平板等智能终端进行推理。MiniCPM-V 2.6 以极小的参数量实现了 GPT-4V 级别的性能。
 		* 体验地址：https://huggingface.co/spaces/openbmb/MiniCPM-V-2_6
 	* 开源的中文 LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 * 图片识别 API：
@@ -150,31 +150,25 @@
 	* 专业版（无限的问答次数 + Copilot++）：$20 / 月
 	* ...
 
-### CodeGeeX <a name="codegeex">&nbsp;</a>
-
-* 简介：智谱旗下的一款基于大模型的全能的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。它可以实现代码的生成与补全、自动添加注释、代码翻译以及智能问答等功能。面向企业提供私有化部署服务。
-* 官网：https://codegeex.cn/
-* 定价：CodeGeeX 插件对个人用户完全免费。
-
 ### 其他
 
-* [JetBrains AI Assistant](https://www.jetbrains.com/ai/)：全球知名 IDE 厂商推出的第一方 AI 编程助手。提供代码补全建议、重构建议、AI 问答、生成文档、生成提交信息等功能。
-	* 定价：专业版：$10 / 月（免费试用 7 天）
+* [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
+* [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。个人用户免费。
 * [Codeium](https://codeium.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版（代码建议 + 对话）：免费
 * [Tabnine](https://www.tabnine.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：基础版（基础的代码补全功能）：免费
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 	* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
-* [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
-	* 定价：个人版：免费
+* [JetBrains AI Assistant](https://www.jetbrains.com/ai/)：全球知名 IDE 厂商推出的第一方 AI 编程助手。提供代码补全建议、重构建议、AI 问答、生成文档、生成提交信息等功能。
+	* 定价：专业版：$10 / 月（免费试用 7 天）
 * [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
 * [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
 * 网页设计与生成工具：
 	* [v0](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
 	* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
-* 书籍：
+* 书籍推荐：
 	* [新书《AI 辅助编程》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
 
@@ -381,8 +375,9 @@
 ### 内容分析、识别、提炼
 
 * [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录音采访、播客、会议记录等内容。
-* 剪映：可识别语音生成字幕。
 * [MinerU](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)：一站式、开源、高质量的数据提取工具，包含 PDF 文档、网页与电子书的内容提取并转换等 Markdown 等功能。[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF)
+* [Elicit](https://elicit.com/)：以超人速度分析论文。自动化耗时的研究任务，如总结论文、提取数据和汇总结论。
+* 剪映：可识别语音生成字幕。
 
 ### 定制知识库 / RAG
 
