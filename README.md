@@ -4,10 +4,10 @@
 
 > ### 目录
 >
-> * [大型语言模型](#llm)
-> * [AI 辅助编程](#ai-assisted-programming)
-> * [AI 绘画 / 音视频创作](#ai-painting)
-> * [常用 AI 网站 / 工具](#ai-tool)
+> * [大型语言模型](#index--llm)
+> * [AI 辅助编程](#index--programming)
+> * [AI 绘画 / 音频视频创作](#index--art)
+> * [常用 AI 网站 / 工具](#index--tools)
 > * [常见问题](#faq)
 
 > 🔍 提醒：善用搜索，按 Ctrl+F 或 ⌘F 定位到你想找的关键词。<br>
@@ -15,7 +15,7 @@
 
 
 
-## 大型语言模型 <a name="llm">&nbsp;</a>
+## 大型语言模型 <a name="index--llm">&nbsp;</a>
 
 ### OpenAI GPT / ChatGPT <a name="gpt">&nbsp;</a>
 
@@ -133,7 +133,7 @@
 
 
 
-## AI 辅助编程 <a name="ai-assisted-programming">&nbsp;</a>
+## AI 辅助编程 <a name="index--programming">&nbsp;</a>
 
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
@@ -172,7 +172,7 @@
 	* [新书《AI 辅助编程》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
 
-## AI 绘画 / 音视频创作 <a name="ai-painting">&nbsp;</a>
+## AI 绘画 / 音频视频创作 <a name="index--art">&nbsp;</a>
 
 ### Midjourney <a name="midjourney">&nbsp;</a>
 
@@ -327,7 +327,7 @@
 
 
 
-## 常用 AI 网站 / 工具 <a name="ai-tool">&nbsp;</a>
+## 常用 AI 网站 / 工具 <a name="index--tools">&nbsp;</a>
 
 ### 综合平台
 
