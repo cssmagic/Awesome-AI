@@ -322,6 +322,8 @@
 * [Logo Diffusion](https://logodiffusion.com/)：AI 设计 Logo 工具，主要功能有：提示词生成 Logo、图片转 Logo、用提示词修改 Logo、手绘草稿美化、2D 转 3D。有免费配额。
 * [AutoPod](https://www.autopod.fm/)：Premiere Pro 插件，自动完成多机位剪辑、停顿切除。
 * [Canva 可画](https://www.canva.cn/)：老牌的在线设计工具，提供了大量模板和设计元素，支持 AI 设计。
+* [FaceSwap](https://faceswap.so/)：多功能的在线换脸工具。支持图片换脸、多人换脸、视频换脸等功能。有免费配额。
+* [Remaker - Face Swap Online Free](https://remaker.ai/face-swap-free/)：免费的在线换脸工具，支持图片换脸。
 
 （持续更新中……）
 
@@ -377,6 +379,7 @@
 * [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录音采访、播客、会议记录等内容。
 * [MinerU](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)：一站式、开源、高质量的数据提取工具，包含 PDF 文档、网页与电子书的内容提取并转换等 Markdown 等功能。[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF)
 * [Elicit](https://elicit.com/)：以超人速度分析论文。自动化耗时的研究任务，如总结论文、提取数据和汇总结论。
+* [Monica](https://monica.im/)：多功能 AI 工具箱，有浏览器插件、桌面应用和移动 App。最为人熟知的功能是基于网页内容的总结和问答。
 * 剪映：可识别语音生成字幕。
 
 ### 定制知识库 / RAG
