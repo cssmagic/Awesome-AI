@@ -303,6 +303,7 @@
 * [微软 Azure AI 语音](https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/)：微软的云服务，支持语音转文本、文本转语音、语音翻译和说话人辨识等功能。
 * [LivePortrait](https://github.com/KwaiVGI/LivePortrait)：快手开源的人物肖像控制模型，可通过五官视频驱动图片生成视频，或修改其他视频。[在线体验](https://huggingface.co/spaces/KwaiVGI/LivePortrait)。
 * [ReSyncer](https://guanjz20.github.io/projects/ReSyncer/)：一个研究项目，通过语音和视频模板素材，生成更自然的唇形视频。可应用于数字人场景。目前只有研究论文，还没有公开可用的产品。
+* [MaskGCT](https://maskgct.github.io/)：香港中文大学（深圳）与趣丸科技合力打造的最新一代语音克隆模型，已开源，具备零样本 TTS 能力（只需 1 秒声音样本即可克隆）。[在线试用](https://huggingface.co/spaces/amphion/maskgct)。
 
 ### 在线 SD 绘画
 
