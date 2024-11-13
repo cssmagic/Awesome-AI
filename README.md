@@ -5,7 +5,7 @@
 > ### 目录
 >
 > * [大型语言模型](#index--llm)
-> * [AI 辅助编程](#index--programming)
+> * [AI 编程](#index--programming)
 > * [AI 绘画 / 音频视频创作](#index--art)
 > * [常用 AI 网站 / 工具](#index--tools)
 > * [常见问题](#faq)
@@ -34,13 +34,13 @@
 		* ChatGPT Free（GPT-3.5 + 语音对话）：免费无限量
 		* ChatGPT Plus（Free + GPT-4 + 绘图 + GPTs + ...）：$20 / 月
 		* ChatGPT Team（Plus + 协作空间 + 数据保护 + ...）：$25 / 月 / 人
-	* 相关教程：
+	* 相关资料：
 		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
 		* [买了 ChatGPT 会员却没用过 “代码解释器”？亏了，快看这三个案例](https://www.cssmagic.net/blog/wx/72)
 * Web 产品（GPTs）： <a name="gpts">&nbsp;</a>
 	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
 	* GPTs 商店：https://chat.openai.com/gpts
-	* 相关教程：
+	* 相关资料 ：
 		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
 		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
 		* [任意 GPTs 资源文件泄露问题探讨](https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g)
@@ -48,15 +48,18 @@
 
 ### Claude
 
-* 简介：Anthropic 公司发布的多模态 AI 模型。最新版 Claude 3 在某些指标上已经超越 GPT-4。Claude 3 的模型规模从小到大分别有 Haiku、Sonnet、Opus 三个版本。
+* 简介：Anthropic 公司发布的多模态 AI 模型。Claude 的模型规模从小到大分别有 Haiku、Sonnet、Opus 三个版本。
 * 官网：https://www.anthropic.com/claude
 * Web 产品（Claude）：
 	* 入口：https://claude.ai/ （需要验证海外手机号）
 	* 定价：有免费版。专业版套餐 $20 / 月。
+* 相关资料：
+	* [API 文档](https://docs.anthropic.com/en/api/getting-started)
+	* [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)：Anthropic 官方提供的案例演示
 
 ### Google Gemini <a name="gemini">&nbsp;</a>
 
-* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。Ultra 版宣称在多项测评中击败 GPT-4；Pro 1.0 版本于 2023 年 12 月开放免费 API。2024 年 2 月通过 [Advanced 付费套餐](https://gemini.google.com/advanced) 开放 Ultra 1.0 的 Web 访问。2024 年 4 月通过 API 和 AI Studio 开放 Pro 1.5。
+* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。
 * 官网：https://ai.google.dev/
 * Playground：
 	* Google AI Studio：https://makersuite.google.com/
@@ -133,7 +136,7 @@
 
 
 
-## AI 辅助编程 <a name="index--programming">&nbsp;</a>
+## AI 编程 <a name="index--programming">&nbsp;</a>
 
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
