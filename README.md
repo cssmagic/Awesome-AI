@@ -13,19 +13,23 @@
 > 🔍 提醒：善用搜索，按 Ctrl+F 或 ⌘F 定位到你想找的关键词。<br>
 > 💡 持续更新中，建议添加到浏览器收藏夹，平常一定会用到。
 
-
+[![Book](https://github.com/user-attachments/assets/70f861e5-cc82-4663-9014-77502de8df9f)](https://u.jd.com/MDPrbVr)
 
 ## 大型语言模型 <a name="index--llm">&nbsp;</a>
 
-### OpenAI GPT / ChatGPT <a name="gpt">&nbsp;</a>
+### OpenAI GPT / o1 / ChatGPT <a name="gpt">&nbsp;</a>
 
 * 简介：OpenAI 的 GPT-4 模型目前全球最先进的大型语言模型。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
-* 官网：https://openai.com/gpt-4
+* 官网：https://openai.com/api/
 * Playground：（不是免费的，会消耗你的 API 调用额度）
 	* Chat 模式：https://platform.openai.com/playground?mode=chat
 	* Assistants 模式：https://platform.openai.com/playground?mode=assistant
-* API 定价：https://openai.com/pricing
-* API 文档：https://platform.openai.com/docs/overview
+* API：
+	* 定价：https://openai.com/pricing
+	* 官方文档：https://platform.openai.com/docs/overview
+	* 其他资料：
+		* [GPT-4o API 实测解析：开发者的福音还是挑战？](https://mp.weixin.qq.com/s/Muf2nFrgKdEeGoRAIlub0w)
+		* [扒一扒 OpenAI o1 系列模型：为什么这么强？](https://mp.weixin.qq.com/s/mXVTFTepl8D98hcK9-jPGg) | [对开发者有何影响？](https://mp.weixin.qq.com/s/DXdirHmXgBPVxzCsc9XNMQ)
 * Web 产品（ChatGPT）： <a name="chatgpt">&nbsp;</a>
 	* 简介：ChatGPT 是目前全球最热门的 AI 应用产品，是一款能以自然语言对话进行交互的 AI 助手。除了对话之外，它还集成了绘画、代码解释器等功能。2022 年 11 月 30 日上线，2023 年 11 月推出 GPTs（自定义 ChatGPT），2024 年 1 月推出 GPTs 商店，持续引领 AI 领域的热潮。
 	* 官网：https://openai.com/chatgpt
@@ -37,6 +41,7 @@
 	* 相关资料：
 		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
 		* [买了 ChatGPT 会员却没用过 “代码解释器”？亏了，快看这三个案例](https://www.cssmagic.net/blog/wx/72)
+		* [全面升级！GPT-4o 第一时间体验、疑问解答、福利揭秘](https://mp.weixin.qq.com/s/tkEuVXoJuaRN-TQZeTqXiQ)
 * Web 产品（GPTs）： <a name="gpts">&nbsp;</a>
 	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
 	* GPTs 商店：https://chat.openai.com/gpts
@@ -401,6 +406,12 @@
 
 * [AdIntelli](https://adintelli.ai/)：面向 GPTs 生态的广告联盟（可靠性待验证）。
 * [GPT Wallets](https://gptwallets.co/)：为 GPTs 提供支付和数据分析解决方案。
+
+### API 聚合平台
+
+* [GitHub Models](https://github.com/marketplace/models)：GitHub 提供的免费 LLM API，包含 GPT-4o、Meta Llama 3、Cohere 等模型，调用频率有限制。[相关攻略](https://mp.weixin.qq.com/s/Jzytik-ZnhsG8pBRG8TU9Q)
+* [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
+* [OpenRouter](https://cmcm.link/p/api2d)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列 API 服务。
 
 ### 其他工具 / 开源项目
 
