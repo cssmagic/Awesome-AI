@@ -45,7 +45,7 @@
 * Web 产品（GPTs）： <a name="gpts">&nbsp;</a>
 	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
 	* GPTs 商店：https://chat.openai.com/gpts
-	* 相关资料 ：
+	* 相关资料：
 		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
 		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
 		* [任意 GPTs 资源文件泄露问题探讨](https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g)
@@ -336,6 +336,10 @@
 * [Canva 可画](https://www.canva.cn/)：老牌的在线设计工具，提供了大量模板和设计元素，支持 AI 设计。
 * [FaceSwap](https://faceswap.so/)：多功能的在线换脸工具。支持图片换脸、多人换脸、视频换脸等功能。有免费配额。
 * [Remaker - Face Swap Online Free](https://remaker.ai/face-swap-free/)：免费的在线换脸工具，支持图片换脸。
+
+### 其他
+
+* [绘蛙](https://www.ihuiwa.com/)：面向电商领域的 AI 模特换装生图工具。阿里出品。
 
 （持续更新中……）
 
