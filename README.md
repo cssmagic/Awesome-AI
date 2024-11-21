@@ -32,8 +32,7 @@
 		* [扒一扒 OpenAI o1 系列模型：为什么这么强？](https://mp.weixin.qq.com/s/mXVTFTepl8D98hcK9-jPGg) | [对开发者有何影响？](https://mp.weixin.qq.com/s/DXdirHmXgBPVxzCsc9XNMQ)
 * Web 产品（ChatGPT）： <a name="chatgpt">&nbsp;</a>
 	* 简介：ChatGPT 是目前全球最热门的 AI 应用产品，是一款能以自然语言对话进行交互的 AI 助手。除了对话之外，它还集成了绘画、代码解释器等功能。2022 年 11 月 30 日上线，2023 年 11 月推出 GPTs（自定义 ChatGPT），2024 年 1 月推出 GPTs 商店，持续引领 AI 领域的热潮。
-	* 官网：https://openai.com/chatgpt
-	* 入口：https://chat.openai.com/
+	* 入口：https://chatgpt.com/
 	* 定价：
 		* ChatGPT Free（GPT-3.5 + 语音对话）：免费无限量
 		* ChatGPT Plus（Free + GPT-4 + 绘图 + GPTs + ...）：$20 / 月
@@ -160,6 +159,7 @@
 
 ### 其他
 
+* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。
 * [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。[已开源](https://github.com/cline/cline)。
 * [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
 * [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
