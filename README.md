@@ -151,15 +151,16 @@
 ### Cursor
 
 * 简介：AI 辅助编程领域的后起之秀。Cursor 是一款编辑器，基于 VS Code 内核，集成了 AI 辅助编程和基于当前代码仓库的 AI 问答功能。除了基础的代码补全功能以外，Cursor 还提供了批量补全、预测下一步操作、通过对话修改代码、修改多个文件、生成整个工程等高级功能。
-* 官网：https://cursor.sh/
-* 定价：https://cursor.sh/pricing
-	* 免费版（两周的专业版试用期 + 2000 次补全 + 有限次模型请求）：免费
-	* 专业版（无限次补全 + 每月 500 次快速高级模型请求 + 无限次慢速模型请求）：$20 / 月
+* 官网：https://cursor.com/
+* 定价：https://cursor.com/pricing
+	* 免费版（两周的专业版试用期 + 2000 次补全 + 有限次对话请求）：免费
+	* 专业版（无限次补全 + 每月 500 次快速对话请求 + 无限次慢速对话请求）：$20 / 月
 	* ...
 
 ### 其他
 
-* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。
+* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
+* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。免费套餐提供的能力已经很强，还提供了 2 周的专业版套餐试用期。
 * [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。[已开源](https://github.com/cline/cline)。
 * [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
 * [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
@@ -176,7 +177,7 @@
 * [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
 * 网页设计与生成工具：
 	* [Bolt.new](https://bolt.new/)：StackBlitz 出品的 AI 编程工具，可在线生成、编辑、运行、部署全栈网站，一站式解决网站开发需求。支持多种基于 JS 的前后端技术栈。
-	* [v0](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
+	* [v0.dev](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
 	* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
 * 书籍推荐：
