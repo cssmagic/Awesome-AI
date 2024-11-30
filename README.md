@@ -144,147 +144,85 @@
 
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
-* 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。通过提供代码建议和自动补全功能，Copilot 能够提高编程效率。此外，它还集成了生成单测、生成注释、转译代码、回答问题等功能。
+* 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。
 * 官网：https://github.com/features/copilot
-* 定价：个人版：$10 / 月（第一个月免费试用）
+* 定价：个人版：$10 / 月（第一个月免费试用；老师和学生可免费使用）
 
 ### Cursor
 
-* 简介：AI 辅助编程领域的后起之秀。Cursor 是一款编辑器，基于 VS Code 内核，集成了 AI 辅助编程和基于当前代码仓库的 AI 问答功能。除了基础的代码补全功能以外，Cursor 还提供了批量补全、预测下一步操作、通过对话修改代码、修改多个文件、生成整个工程等高级功能。
+* 简介：AI 辅助编程领域的后起之秀。Cursor 是一款编辑器，基于 VS Code 内核。除了基础的代码补全功能以外，它还提供了批量补全、预测下一步操作、智能对话、多文件编辑等高级功能。
 * 官网：https://cursor.com/
 * 定价：https://cursor.com/pricing
 	* 免费版（两周的专业版试用期 + 2000 次补全 + 有限次对话请求）：免费
 	* 专业版（无限次补全 + 每月 500 次快速对话请求 + 无限次慢速对话请求）：$20 / 月
-	* ...
 
 ### 其他
 
-* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
-* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。免费套餐提供的能力已经很强，还提供了 2 周的专业版套餐试用期。
-* [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。[已开源](https://github.com/cline/cline)。
-* [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
-* [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
-* [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。个人用户免费。
-* [Codeium](https://codeium.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
-	* 定价：个人版（代码建议 + 对话）：免费
-* [Tabnine](https://www.tabnine.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
-	* 定价：基础版（基础的代码补全功能）：免费
-* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
-	* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
-* [JetBrains AI Assistant](https://www.jetbrains.com/ai/)：全球知名 IDE 厂商推出的第一方 AI 编程助手。提供代码补全建议、重构建议、AI 问答、生成文档、生成提交信息等功能。
-	* 定价：专业版：$10 / 月（免费试用 7 天）
-* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
-* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
+* AI 编辑器：
+	* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。新用户可获得 2 周的专业版套餐试用期。
+* 编辑器插件：
+	* [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。需自备 LLM API。[已开源](https://github.com/cline/cline)。
+	* [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
+	* [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
+	* [通义灵码](https://tongyi.aliyun.com/lingma)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。个人用户免费。
+	* [Codeium](https://codeium.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
+		* 定价：个人版（代码建议 + 对话）：免费
+	* [Tabnine](https://www.tabnine.com/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
+		* 定价：基础版（基础的代码补全功能）：免费
+	* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
+		* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
 * 网页设计与生成工具：
 	* [Bolt.new](https://bolt.new/)：StackBlitz 出品的 AI 编程工具，可在线生成、编辑、运行、部署全栈网站，一站式解决网站开发需求。支持多种基于 JS 的前后端技术栈。
 	* [v0.dev](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
 	* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
+* 其他工具：
+	* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
+	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
+	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
 * 书籍推荐：
 	* [新书《AI 辅助编程》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
 
 ## AI 绘画 / 音频视频创作 <a name="index--art">&nbsp;</a>
 
-### Midjourney <a name="midjourney">&nbsp;</a>
+### AI 绘画
 
-* 简介：Midjourney 是一款热门的 AI 绘画工具，依托 Discord 平台提供服务。它易于入门，作品风格华丽，适合初学者探索 AI 艺术创作，创造独特的视觉作品。
-* 官网：https://www.midjourney.com/home
-* 定价：
-	* 基础版套餐（3.3h Fast Time）：$10 / 月
-	* 标准版套餐（15h Fast Time + Unlimited Relax Time）：$30 / 月
-	* 专业版套餐（30h Fast Time + Unlimited Relax Time）：$60 / 月
-	* 至尊版套餐（60h Fast Time + Unlimited Relax Time）：$120 / 月
+* [Midjourney](https://www.midjourney.com/home)<a name="midjourney">&nbsp;</a>：是一款热门的 AI 绘画工具，早期依托 Discord 平台提供服务，现已推出独立网页版应用。它易于入门，作品风格华丽，适合初学者探索 AI 艺术创作，创造独特的视觉作品。
+	* 定价：
+		* 基础版套餐（3.3h Fast Time）：$10 / 月
+		* 标准版套餐（15h Fast Time + Unlimited Relax Time）：$30 / 月
+		* 专业版套餐（30h Fast Time + Unlimited Relax Time）：$60 / 月
+		* 至尊版套餐（60h Fast Time + Unlimited Relax Time）：$120 / 月
 
-### OpenAI DALL·E <a name="dall-e">&nbsp;</a>
+* [OpenAI DALL·E](https://openai.com/dall-e-3)<a name="dall-e">&nbsp;</a>：OpenAI 出品的图片生成工具。对提示词的理解能力极强，与 ChatGPT 的整合也令它极为易用。
+	* Web 产品：
+		* ChatGPT Plus（GPT-4 + DALL·E 3）：https://chat.openai.com/#pricing
+			* 定价：$20 / 月
+		* DALL·E 2：https://labs.openai.com/
+			* 定价：$15 / 115 点
 
-* 简介：OpenAI 出品的图片生成工具。对提示词的理解能力极强，与 ChatGPT 的整合也令它极为易用。
-* 官网：https://openai.com/dall-e-3
-* Web 产品：
-	* ChatGPT Plus（GPT-4 + DALL·E 3）：https://chat.openai.com/#pricing
-		* 定价：$20 / 月
-	* DALL·E 2：https://labs.openai.com/
-		* 定价：$15 / 115 点
+* [Stable Diffusion](https://stability.ai/stable-image)<a name="sd">&nbsp;</a>：是一款先进的人工智能图像生成模型，由 Stability AI 开发。可本地部署。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
+	* 扩展：
+		* ComfyUI：https://github.com/comfyanonymous/ComfyUI
+			* 中文学习社区：https://www.comflowy.com/zh-CN
 
-### Stable Diffusion <a name="sd">&nbsp;</a>
+* [FLUX.1](https://www.basedlabs.ai/tools/flux1)：是一个全新的开源图像生成模型。它由 Black Forest Labs 开发，该团队也是 Stable Diffusion 的幕后团队。
 
-* 简介：Stable Diffusion 是一款先进的人工智能图像生成模型，由 Stability AI 开发。可本地部署。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
-* 官网：https://stability.ai/stable-image
-* 扩展：
-	* ComfyUI：https://github.com/comfyanonymous/ComfyUI
-		* 中文学习社区：https://www.comflowy.com/zh-CN
+### AI 视频生成
 
-### FLUX.1
-
-* 简介：FLUX.1 是一个全新的开源图像生成模型。它由 Black Forest Labs 开发，该团队也是 Stable Diffusion 的幕后团队。
-* 官网：https://www.basedlabs.ai/tools/flux1
-
-### Google Imagen 2
-
-* 简介：Google DeepMind 推出的图片生成模型。免费使用。据说效果媲美 DALL·E。
-* 官网：https://deepmind.google/technologies/imagen-2/
-* Web 产品（ImageFX）：https://aitestkitchen.withgoogle.com/tools/image-fx
-
-### Runway Gen-2
-
-* 简介：视频生成领域的热门产品。它提供了多种 AI 视频生成模型，包括文生视频、图文生成视频、图生视频、风格化渲染、局部叠加渲染、3D 模型渲染等功能。
-* 官网：https://research.runwayml.com/gen2
-* Web 产品：https://app.runwayml.com/
-* 定价：
-	* 免费版（125 积分）：免费
-	* 标准版（625 积分 / 月）：$15 / 月
-	* ...
-
-### Pika
-
-* 简介：视频生成领域的热门产品。典型功能为图生视频。
-* 官网：https://pika.art/
-* 定价：
-	* 免费版（30 积分）：免费
-	* 标准版（700 积分 / 月）：$10 / 月
-	* ...
-
-### PixVerse
-
-* 简介：视频生成工具，支持文生视频、图生视频、人物生成视频等。有免费额度。
-* 官网：https://pixverse.ai/
-
-### Stable Video Diffusion
-
-* 简介：Stability AI 发布的开源的视频生成模型。可本地部署。
-* 官网：https://stability.ai/stable-video
-* 更多介绍：
+* [Runway Gen-2](https://app.runwayml.com/)：视频生成领域的热门产品。它提供了多种 AI 视频生成模型，包括文生视频、图文生成视频、图生视频、风格化渲染、局部叠加渲染、3D 模型渲染等功能。有免费额度。[官网](https://research.runwayml.com/gen2)
+* [Pika](https://pika.art/)：视频生成领域的热门产品，典型功能为图生视频。新版本主打趣味视频生成功能。有免费额度。
+* [PixVerse](https://pixverse.ai/)：视频生成工具，支持文生视频、图生视频、人物生成视频等。有免费额度。
+* [Stable Video Diffusion](https://stability.ai/stable-video)：Stability AI 发布的开源的视频生成模型。可本地部署。
 	* 简介：https://mp.weixin.qq.com/s/il3YahMQyw55KdQ7acxIow
 	* 教程：https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd
-
-### OpenAI Sora
-
-* 简介：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。生成视频长达一分钟。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
-* 官网：https://openai.com/sora
-* 更多介绍：
-	* [Sora 官网摘要：OpenAI 的视频生成模型 Sora 被捧上天，但他们自己说还有这几个缺陷](https://www.cssmagic.net/blog/wx/66)
-
-### 可灵大模型
-
-* 简介：快手出品的视频生成大模型，支持文生视频、图生视频、视频续写等能力。支持最长 3 分钟高清视频生成，堪称 “中国版 Sora”。
-* 官网：https://kling.kuaishou.com/
-* Web 产品：[可灵AI](https://klingai.kuaishou.com/)
-
-### Vidu
-
-* 简介：Vidu 是由清华大学朱军教授团队研发的 AI 视频生成器。支持生成高逼真度的 4 秒或 8 秒 1080p 高清视频。亮点包括生成速度快、角色一致性、支持写实和动漫风格、生成效果连续流畅等，可应用于游戏、影视、教育等领域。
-* 官网：https://www.vidu.studio/
-
-### Luma Dream Machine
-
-* 简介：Luma AI 出品的视频生成模型。支持文生视频、图生视频，可生成 5 秒长度的视频。有免费额度。
-* 官网：https://lumalabs.ai/dream-machine
-
-### 剪映专业版 / CapCut
-
-* 简介：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
-* 官网（国内版）：https://www.capcut.cn/
-* 官网（海外版）：https://www.capcut.com/ （免充值享高级功能）
+* [OpenAI Sora](https://openai.com/sora)：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。生成视频长达一分钟。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
+* [可灵大模型](https://kling.kuaishou.com/) / [可灵AI](https://klingai.kuaishou.com/)：快手出品的视频生成大模型，支持文生视频、图生视频、视频续写等能力。支持最长 3 分钟高清视频生成，堪称 “中国版 Sora”。
+* [智谱清影](https://chatglm.cn/video)：智谱 AI 推出的视频生成工具，支持文生视频、图生视频等功能，比如 “老照片动起来” 等应用。可生成 10 秒、4K 分辨率、60 帧高清视频。目前免费开放，支持 API 调用。
+* [Vidu](https://www.vidu.studio/)：Vidu 是由清华大学朱军教授团队研发的 AI 视频生成器。支持生成高逼真度的 4 秒或 8 秒 1080p 高清视频。亮点包括生成速度快、角色一致性、支持写实和动漫风格、生成效果连续流畅等，可应用于游戏、影视、教育等领域。
+* [Luma Dream Machine](https://lumalabs.ai/dream-machine)：Luma AI 出品的视频生成模型。支持文生视频、图生视频，可生成 5 秒长度的视频。有免费额度。
+* [剪映专业版（国内版）](https://www.capcut.cn/) / [CapCut（海外版）](https://www.capcut.com/)：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
 
 ### 3D 建模
 
@@ -323,9 +261,10 @@
 * [Cephalon Cloud 端脑云](https://cephalon.cloud/#/share/register-landing?id=Hf7YkG)：云端一键部署自己的 WebUI 和 ComfyUI。新用户获得 2000 积分。每 1000 积分相当于 ¥1。
 * [即梦 AI](https://jimeng.jianying.com/ai-tool/home)：字节跳动出品的在线绘画平台，主打易用和免费。原名 “Dreamina”。
 
-### 音乐创作
+### 音乐歌曲创作
 
 * [Suno](https://suno.com/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
+* [天工 AI 音乐](https://www.tiangong.cn/music)：根据歌名、歌词、参考音频创作音乐，可由 AI 帮写歌词。
 
 ### 其他创作工具
 
@@ -337,9 +276,6 @@
 * [Canva 可画](https://www.canva.cn/)：老牌的在线设计工具，提供了大量模板和设计元素，支持 AI 设计。
 * [FaceSwap](https://faceswap.so/)：多功能的在线换脸工具。支持图片换脸、多人换脸、视频换脸等功能。有免费配额。
 * [Remaker - Face Swap Online Free](https://remaker.ai/face-swap-free/)：免费的在线换脸工具，支持图片换脸。
-
-### 其他
-
 * [绘蛙](https://www.ihuiwa.com/)：面向电商领域的 AI 模特换装生图工具。阿里出品。
 
 （持续更新中……）
