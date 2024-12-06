@@ -325,6 +325,7 @@
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
 * [Gamma](https://gamma.app/)：AI 设计助手，生成 PPT、文档和网页，优化现有 PPT 和文档。
 * [AiPPT.cn](https://www.aippt.cn/)：AI 一键生成 PPT。支持自动生成 PPT 大纲文案，文档秒变 PPT，支持多种模板，兼容 pptx 格式。
+* [ProcessOn](https://cmcm.link/p/processon)：老牌在线图表绘制工具，支持流程图、泳道图、思维导图、架构图、建筑平面图等等形式。支持 AI 自动生成图表。
 
 ### 内容分析、识别、提炼
 
