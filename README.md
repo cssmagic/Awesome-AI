@@ -308,10 +308,6 @@
 
 * [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNG → SVG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
-	* 定价：https://www.usegalileo.ai/pricing
-		* 免费版（注册后获得 200 积分 + 3 次导出）：免费
-		* 标准版（每月 1200 积分 + 无限导出）：$19 / 月
-		* 专业版（每月 3000 积分 + 无限导出 + 私密模式）：$39 / 月
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [Photoroom](https://www.photoroom.com/zh)：在线 AI 图片处理工具。免费用户可使用抠图、擦除、照片优化功能。
 * 抠图：
