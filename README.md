@@ -251,6 +251,7 @@
 * [LivePortrait](https://github.com/KwaiVGI/LivePortrait)：快手开源的人物肖像控制模型，可通过五官视频驱动图片生成视频，或修改其他视频。[在线体验](https://huggingface.co/spaces/KwaiVGI/LivePortrait)。
 * [ReSyncer](https://guanjz20.github.io/projects/ReSyncer/)：一个研究项目，通过语音和视频模板素材，生成更自然的唇形视频。可应用于数字人场景。目前只有研究论文，还没有公开可用的产品。
 * [MaskGCT](https://maskgct.github.io/)：香港中文大学（深圳）与趣丸科技合力打造的最新一代语音克隆模型，已开源，具备零样本 TTS 能力（只需 1 秒声音样本即可克隆）。[在线试用](https://huggingface.co/spaces/amphion/maskgct)。
+* [Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)：一个超轻量级、可以在移动端实时运行的数字人模型，已开源。
 
 ### 在线 SD 绘画
 
@@ -277,6 +278,8 @@
 * [FaceSwap](https://faceswap.so/)：多功能的在线换脸工具。支持图片换脸、多人换脸、视频换脸等功能。有免费配额。
 * [Remaker - Face Swap Online Free](https://remaker.ai/face-swap-free/)：免费的在线换脸工具，支持图片换脸。
 * [绘蛙](https://www.ihuiwa.com/)：面向电商领域的 AI 模特换装生图工具。阿里出品。
+* [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)：一个开源的 “试衣” 模型。[在线演示](https://huggingface.co/spaces/levihsu/OOTDiffusion)。
+* [TryOffDiff](https://github.com/rizavelioglu/tryoffdiff)：一个开源的 “脱衣” 模型，从图片中提取服装标准图。[在线演示](https://huggingface.co/spaces/rizavelioglu/tryoffdiff)。
 
 （持续更新中……）
 
