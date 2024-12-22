@@ -139,11 +139,13 @@
 
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
-* 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。
+* 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。2024 年底开放免费套餐。
 * 官网：https://github.com/features/copilot
 * 定价：https://github.com/features/copilot/plans
 	* 免费套餐：功能几乎没有限制，只限制调用次数。
 	* 专业版：$10 / 月（第一个月免费试用）
+* 推荐书籍：
+	* [《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book)
 
 ### Cursor
 
@@ -155,9 +157,8 @@
 
 ### 其他
 
-* AI 编辑器：
+* AI 编辑器 / 编辑器插件：
 	* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。新用户可获得 2 周的专业版套餐试用期。
-* 编辑器插件：
 	* [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。需自备 LLM API。[已开源](https://github.com/cline/cline)。
 	* [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
 	* [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
@@ -177,8 +178,8 @@
 	* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
 	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
-* 书籍推荐：
-	* [新书《AI 辅助编程》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
+* 推荐书籍：
+	* [新书《AI 辅助编程 Python 实战》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
 
 ## AI 绘画 / 音频视频创作 <a name="index--art">&nbsp;</a>
