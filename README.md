@@ -70,11 +70,6 @@
 	* Vertex AI Studio：https://console.cloud.google.com/vertex-ai/generative/multimodal/create/text
 * API 文档：https://ai.google.dev/tutorials/rest_quickstart
 * Web 产品（原 Bard 已更名为 Gemini）：https://gemini.google.com/app
-	* 定价：
-		* Gemini Free（Pro 1.0）：免费
-		* Gemini Advanced（Ultra 1.0）：$19.99 / 月
-* 更多介绍：
-	* [这几天刷屏的谷歌 Gemini 大模型又放出免费 API，压力给到奥特曼](https://www.cssmagic.net/blog/wx/55)
 
 ### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
 
@@ -146,7 +141,9 @@
 
 * 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。
 * 官网：https://github.com/features/copilot
-* 定价：个人版：$10 / 月（第一个月免费试用；老师和学生可免费使用）
+* 定价：https://github.com/features/copilot/plans
+	* 免费套餐：功能几乎没有限制，只限制调用次数。
+	* 专业版：$10 / 月（第一个月免费试用）
 
 ### Cursor
 
@@ -239,12 +236,14 @@
 
 > TTS：Text to Speech，文本生成语音。
 
+* [Fish Audio](https://fish.audio/zh-CN/)：多功能 AI 音频工具，支持中英等语言，提供文本转语音（TTS）和 语音转文本（ASR）等功能。
 * [万兴播爆](https://virbo.wondershare.cn/)：输入文案，一键生成数字人播报视频。
 * 剪映：可生成数字人播报视频。
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
 * [Eleven Labs](https://elevenlabs.io/)：文本转语音（TTS），通过文字描述生成音效，语音克隆，视频翻译配音。有 API。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
-* [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/README_CN.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
+* [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/docs/cn/README.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
+* [ChatTTS webUI](https://github.com/jianchang512/ChatTTS-ui)：一个简单的本地网页界面，使用 ChatTTS 将文字合成为语音，同时支持对外提供 API 接口。已开源。
 * [Seed-TTS](https://bytedancespeech.github.io/seedtts_tech_report/)：字节跳动发布的高质量、多功能语音生成模型，未开源，似乎也没有发布可用的产品。支持音色微调、带情绪的 TTS、音色转换、情绪转换、基于原语音生成新语音、语音内容编辑、调速等能力。可应用于有声读物、翻译视频等场景。
 * 剪映：已上线 AI 克隆音色的功能，只能克隆自己的音色。
 * [微软 Azure AI 语音](https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/)：微软的云服务，支持语音转文本、文本转语音、语音翻译和说话人辨识等功能。
@@ -252,6 +251,7 @@
 * [ReSyncer](https://guanjz20.github.io/projects/ReSyncer/)：一个研究项目，通过语音和视频模板素材，生成更自然的唇形视频。可应用于数字人场景。目前只有研究论文，还没有公开可用的产品。
 * [MaskGCT](https://maskgct.github.io/)：香港中文大学（深圳）与趣丸科技合力打造的最新一代语音克隆模型，已开源，具备零样本 TTS 能力（只需 1 秒声音样本即可克隆）。[在线试用](https://huggingface.co/spaces/amphion/maskgct)。
 * [Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)：一个超轻量级、可以在移动端实时运行的数字人模型，已开源。
+* [clone-voice](https://github.com/jianchang512/clone-voice)：一个带 web 界面的声音克隆工具，使用你的音色或任意声音来录制音频。支持 Windows、Mac 和 Linux。已开源。
 
 ### 在线 SD 绘画
 
@@ -266,6 +266,12 @@
 
 * [Suno](https://suno.com/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
 * [天工 AI 音乐](https://www.tiangong.cn/music)：根据歌名、歌词、参考音频创作音乐，可由 AI 帮写歌词。
+
+### 音频视频处理
+
+* [vocal-separate](https://github.com/jianchang512/vocal-separate)：一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网。已开源。
+* [pyVideoTrans](https://pyvideotrans.com/)：开源视频翻译软件，一键字幕生成 + 字幕翻译 + 创建配音 + 合成 = 带字幕和配音的新视频。
+* [GVS 硬字幕提取](https://pyvideotrans.com/aiocr)：智能识别视频硬字幕，快速提取，支持中英文。
 
 ### 其他创作工具
 
