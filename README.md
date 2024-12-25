@@ -366,6 +366,7 @@
 * [Perplexity](https://www.perplexity.ai/)：AI 搜索。
 * [秘塔 AI 搜索](https://metaso.cn/)：更友好的搜索引擎，帮你整理信息后更有条理地呈现。有 “全网” 和 “学术” 两种搜索模式，搜索深度可选简洁、深入、研究。
 * [天工 AI](https://www.tiangong.cn/)：AI 搜索、对话助手等。
+* [Devv.AI](https://devv.ai/)：一款面向程序员的 AI 搜索引擎，为编程问题提供快速准确的答案。
 * [PromptPerfect](https://promptperfect.jina.ai/)：帮你优化提示词（Prompt）。比如把你的笼统需求拆解为多步骤的任务，以提高模型输出的准确性；又比如根据给定的文章主题生成大纲并撰写长文。
 * [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
 * [ProctorAI](https://github.com/jam3scampbell/ProctorAI)：AI 监工，号称 “拖延症终结者”。开源项目，本地应用程序，通过定时截图来检查你是否在摸鱼，并发出警告，支持语音提醒。可以设置详细的监督规则。底层调用了 GPT-4o 等多模态模型。
