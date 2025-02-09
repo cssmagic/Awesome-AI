@@ -160,6 +160,7 @@
 * AI 编辑器 / 编辑器插件：
 	* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。新用户可获得 2 周的专业版套餐试用期。
 	* [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。需自备 LLM API。[已开源](https://github.com/cline/cline)。
+	* [Trae](https://www.trae.ai/)：字节跳动出品的 AI 代码编辑器，产品形态类似 Cursor 和 Windsurf，面向海外市场。目前完全免费。暂时只支持 Mac 系统。
 	* [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
 	* [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
 	* [通义灵码](https://tongyi.aliyun.com/lingma)：阿里云出品的编辑器插件，支持 VS Code 和 JetBrains IDE 等。个人用户免费。
