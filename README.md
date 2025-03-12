@@ -19,7 +19,7 @@
 
 ### OpenAI GPT / o1 / ChatGPT <a name="gpt">&nbsp;</a>
 
-* 简介：OpenAI 的 GPT-4 模型目前全球最先进的大型语言模型。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
+* 简介：OpenAI 的 GPT 系列和 o 系列模型目前全球最先进的大型语言模型。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
 * 官网：https://openai.com/api/
 * Playground：（不是免费的，会消耗你的 API 调用额度）
 	* Chat 模式：https://platform.openai.com/playground?mode=chat
@@ -71,13 +71,16 @@
 * API 文档：https://ai.google.dev/tutorials/rest_quickstart
 * Web 产品（原 Bard 已更名为 Gemini）：https://gemini.google.com/app
 
-### 百度文心大模型 / 文心一言 <a name="wenxinyiyan">&nbsp;</a>
+### 深度求索 / DeepSeek <a name="deepseek">&nbsp;</a>
 
-* 简介：文心一言是由百度公司开发的聊天机器人，于 2023 年 3 月 16 日发布。文心一言由文心大模型驱动。
-* 官网：https://wenxin.baidu.com/
-* API 文档：https://cloud.baidu.com/doc/WENXINWORKSHOP/s/clntwmv7t
-* Web 产品（文心一言）：https://yiyan.baidu.com/
-* Web 产品（飞桨 AI 应用中心）：https://aistudio.baidu.com/application/center
+* 简介：国产开源大模型。其推理模型 R1 性能比肩 OpenAI o1。已开放 API，定价极为低廉。
+* 官网：https://www.deepseek.com/
+* API 文档：https://platform.deepseek.com/docs
+* Web 产品：https://chat.deepseek.com/
+* 更多介绍：
+	* [国产大模型又出黑马！DeepSeek 初体验，价格屠夫大杀四方](https://mp.weixin.qq.com/s/TY4nap6sR71bImaD8-NFKw)
+	* [两种方法免费使用 DeepSeek API，建议收藏备用](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
+	* [DeepSeek 这三种进阶玩法你一定要知道](https://mp.weixin.qq.com/s/nP3CIwZbueY-Mhfh06QbGw)
 
 ### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
 
@@ -106,10 +109,10 @@
 		* Web 产品：https://tongyi.aliyun.com/qianwen/
 		* App 产品：通义千问 App 提供了问答助手、AI 工具等常规功能外，还提供了通义舞王、涂鸦作画等特色功能。
 		* API 文档：https://help.aliyun.com/zh/dashscope/developer-reference/api-details
-	* [深度求索 / DeepSeek](https://www.deepseek.com/)：国产开源多模态大模型，宣称在测试中接近 GPT-4。已开放 API，定价极为低廉。
-		* Web 产品：https://chat.deepseek.com/
-		* API 文档：https://platform.deepseek.com/docs
-		* 更多介绍：[国产大模型又出黑马！DeepSeek 初体验，价格屠夫大杀四方](https://www.cssmagic.net/blog/wx/73)
+	* [百度文心大模型 / 文心一言](https://wenxin.baidu.com/)：文心一言是由百度公司开发的聊天机器人，于 2023 年 3 月 16 日发布。文心一言由文心大模型驱动。
+		* API 文档：https://cloud.baidu.com/doc/WENXINWORKSHOP/s/clntwmv7t
+		* Web 产品（文心一言）：https://yiyan.baidu.com/
+		* Web 产品（飞桨 AI 应用中心）：https://aistudio.baidu.com/application/center
 	* [零一万物 / Yi](https://www.lingyiwanwu.com/)：国产开源多模态大模型。30 万字超长上下文。已开放 API。
 		* Web 产品（万知）：https://www.wanzhi.com/ （长文总结要点、文档生成 PPT 等）
 		* API 文档：https://platform.lingyiwanwu.com/
@@ -361,9 +364,10 @@
 
 ### API 聚合平台
 
+* [硅基流动](https://cmcm.link/p/siliconflow)：国内的 LLM API 聚合平台，提供 DeepSeek、Qwen 等系列模型的 API 服务。[相关攻略](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
 * [GitHub Models](https://github.com/marketplace/models)：GitHub 提供的免费 LLM API，包含 GPT-4o、Meta Llama 3、Cohere 等模型，调用频率有限制。[相关攻略](https://mp.weixin.qq.com/s/Jzytik-ZnhsG8pBRG8TU9Q)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
-* [OpenRouter](https://cmcm.link/p/api2d)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列 API 服务。
+* [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的 API 服务。
 
 ### 其他工具 / 开源项目
 
