@@ -357,6 +357,7 @@
 * [Dify](https://docs.dify.ai/v/zh-hans)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架、工作流编排等功能。
 * [RAGFlow](https://github.com/infiniflow/ragflow/blob/main/README_zh.md)：一款基于深度文档理解构建的开源 RAG 引擎。
 * [MaxKB](https://github.com/1Panel-dev/MaxKB)：基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统。
+* [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)：开源的 LLM 调试框架，用一张 16 Problem Map 帮你系统排查大模型和 RAG 管线里的常见失效模式，附带实战教程和修复清单，适合开发者做 Debug 和压力测试。
 
 ### 广告 / 营销
 
