@@ -386,6 +386,7 @@
 
 * [提示工程指南](https://www.promptingguide.ai/zh)
 * [通往 AGI 之路 / WayToAGI 的知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+* [AI 编程教程中文版](https://aiworkflowtutorials.com/)：面向中文开发者的 AI 编程教程站，覆盖 OpenAI Codex、Claude Code、Cursor、GitHub Copilot、Gemini CLI 等工具的入门、配置和实战教程。
 
 ### 法规 / 公告
 
