@@ -246,6 +246,7 @@
 > TTS：Text to Speech，文本生成语音。
 
 * [Fish Audio](https://fish.audio/zh-CN/)：多功能 AI 音频工具，支持中英等语言，提供文本转语音（TTS）和 语音转文本（ASR）等功能。
+* [FlowSpeech](https://flowspeech.io/)：上下文感知文本转语音工具，支持情感控制、停顿控制和 30+ 音色，适合生成更自然的旁白和多角色语音内容。
 * [万兴播爆](https://virbo.wondershare.cn/)：输入文案，一键生成数字人播报视频。
 * 剪映：可生成数字人播报视频。
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
