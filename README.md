@@ -268,6 +268,7 @@
 * [ReSyncer](https://guanjz20.github.io/projects/ReSyncer/)：一个研究项目，通过语音和视频模板素材，生成更自然的唇形视频。可应用于数字人场景。目前只有研究论文，还没有公开可用的产品。
 * [MaskGCT](https://maskgct.github.io/)：香港中文大学（深圳）与趣丸科技合力打造的最新一代语音克隆模型，已开源，具备零样本 TTS 能力（只需 1 秒声音样本即可克隆）。[在线试用](https://huggingface.co/spaces/amphion/maskgct)。
 * [Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)：一个超轻量级、可以在移动端实时运行的数字人模型，已开源。
+* [NanoAvatar](https://github.com/wpydcr/NanoAvatar)：通过语音在 Android 手机上本地生成高保真数字人视频，无需云端 GPU。代码、模型权重和 APK 已公开，可离线录音体验。
 * [clone-voice](https://github.com/jianchang512/clone-voice)：一个带 web 界面的声音克隆工具，使用你的音色或任意声音来录制音频。支持 Windows、Mac 和 Linux。已开源。
 
 ### 在线 SD 绘画
