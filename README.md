@@ -187,6 +187,8 @@
 	* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
 	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
+	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode 等。
+		* 定价：免费（Apache-2.0 开源，本地运行，无账号无托管服务）
 * 推荐书籍：
 	* [新书《AI 辅助编程 Python 实战》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
 
