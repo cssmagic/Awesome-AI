@@ -380,6 +380,7 @@
 * [GitHub Models](https://github.com/marketplace/models)：GitHub 提供的免费 LLM API，包含 GPT-4o、Meta Llama 3、Cohere 等模型，调用频率有限制。[相关攻略](https://mp.weixin.qq.com/s/Jzytik-ZnhsG8pBRG8TU9Q)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
 * [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的 API 服务。
+* [GPTZZZ](https://gptzzz.ai/)：面向中文开发者的独立第三方 API 中转平台，提供 GPT、Claude、Gemini、DeepSeek、Grok、Qwen 等系列模型的 API 服务。兼容 OpenAI 接口（Base URL 为 `https://gptzzz.ai/v1`），Claude 模型可用 Messages 接口。按量计费，支付宝充值，各模型价格与倍率公开。[接入文档](https://gptzzz.ai/docs/)
 
 ### 其他工具 / 开源项目
 
