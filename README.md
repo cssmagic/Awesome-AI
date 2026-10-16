@@ -52,7 +52,7 @@
 
 ### Claude
 
-* 简介：Anthropic 公司发布的多模态 AI 模型。Claude 的模型规模从小到大分别有 Haiku、Sonnet、Opus 三个版本。
+* 简介：Anthropic 公司发布的多模态 AI 模型。提供 Haiku、Sonnet、Opus 等模型系列。
 * 官网：https://www.anthropic.com/claude
 * Web 产品（Claude）：
 	* 入口：https://claude.ai/ （需要验证海外手机号）
@@ -63,7 +63,7 @@
 
 ### Google Gemini <a name="gemini">&nbsp;</a>
 
-* 简介：Google 开发的原生多模态大模型。根据模型规模分为 Ultra、Pro、Nano 三个版本。
+* 简介：Google 开发的原生多模态大模型。不同模型的能力与适用场景见[官方模型列表](https://ai.google.dev/gemini-api/docs/models)。
 * 官网：https://ai.google.dev/
 * Playground：
 	* Google AI Studio：https://makersuite.google.com/
@@ -121,10 +121,10 @@
 		* API 文档：https://www.xfyun.cn/doc/spark/Web.html
 	* [MiniMax](https://api.minimax.chat/)
 		* Web 产品（海螺 AI）：https://hailuoai.com/
-		* API 文档：https://api.minimax.chat/document/introduction?id=6433f37594878d408fc82959
+		* API 文档：https://platform.minimax.cn/docs/guides/models-intro
 	* [阶跃星辰](https://www.stepfun.com/)：宣称在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。
 		* Web 产品（跃问）：https://stepchat.cn/chats/new
-		* API 文档：https://platform.stepfun.com/docs/overview/concept
+		* API 文档：https://platform.stepfun.com/docs/zh/welcome
 	* [面壁智能 / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md)：面壁智能出品的端侧多模态大模型系列，接受图像和文本输入，提供高质量的文本输出。可运行于手机、平板等智能终端进行推理。MiniCPM-V 2.6 以极小的参数量实现了 GPT-4V 级别的性能。
 		* 体验地址：https://huggingface.co/spaces/openbmb/MiniCPM-V-2_6
 	* 开源的中文 LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
@@ -146,7 +146,7 @@
 * 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。2024 年底开放免费套餐。
 * 官网：https://github.com/features/copilot
 * 定价：https://github.com/features/copilot/plans
-	* 免费套餐：功能几乎没有限制，只限制调用次数。
+	* 免费套餐：功能和用量均有限制，包含每月 2000 次代码补全和 50 次聊天请求。
 	* 专业版：$10 / 月（第一个月免费试用）
 * 推荐书籍：
 	* [《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book)
@@ -156,18 +156,18 @@
 * 简介：AI 辅助编程领域的后起之秀。Cursor 是一款编辑器，基于 VS Code 内核。除了基础的代码补全功能以外，它还提供了批量补全、预测下一步操作、智能对话、多文件编辑等高级功能。
 * 官网：https://cursor.com/
 * 定价：https://cursor.com/pricing
-	* 免费版（两周的专业版试用期 + 2000 次补全 + 有限次对话请求）：免费
-	* 专业版（无限次补全 + 每月 500 次快速对话请求 + 无限次慢速对话请求）：$20 / 月
+	* 免费版：有使用额度限制。
+	* 付费套餐：Plus $8 / 月起；模型范围和使用额度因套餐而异，详见定价页。
 
 ### 其他
 
 * AI 编辑器 / 编辑器插件：
-	* [Augment Code](https://www.augmentcode.com/product)：AI 编程插件，支持 VS Code 和 JetBrains IDE 等主流开发工具，更强的上下文感知能力。付费套餐 $30 / 月；有免费套餐，含无限次补全、3000 次聊天和 50 次代理调用。
+	* [Augment Code](https://www.augmentcode.com/product)：AI 编程插件，支持 VS Code 和 JetBrains IDE 等主流开发工具，更强的上下文感知能力。Standard 套餐 $20 / 月起，含 $20 使用额度；具体套餐和用量规则见[定价页](https://www.augmentcode.com/pricing)。
 	* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。新用户可获得 2 周的专业版套餐试用期。
 	* [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。需自备 LLM API。[已开源](https://github.com/cline/cline)。
-	* [Trae](https://www.trae.ai/)：字节跳动出品的 AI 代码编辑器，产品形态类似 Cursor 和 Windsurf，面向海外市场。目前完全免费。暂时只支持 Mac 系统。
+	* [Trae](https://www.trae.ai/)：字节跳动出品的 AI 代码编辑器，产品形态类似 Cursor 和 Windsurf，面向海外市场。提供有额度限制的免费套餐和付费套餐，详见[定价页](https://www.trae.ai/pricing)。支持 macOS、Windows 和 Linux，详见[下载页](https://www.trae.ai/download)。
 	* [CodeGeeX](https://codegeex.cn/)：智谱旗下的智能编程助手。支持 20 多种编程语言，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。企业用户可选择私有化部署服务。
-	* [MarsCode](https://www.marscode.cn/)：字节跳动豆包大模型旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
+	* [TRAE Plugin（原 MarsCode）](https://www.trae.cn/plugin)：字节跳动旗下的智能编程助手。提供智能补全、智能预测、智能问答等能力，适配 VS Code 和 JetBrains IDE 等主流开发工具。个人用户免费。
 	* [通义灵码](https://tongyi.aliyun.com/lingma)：阿里云出品的编辑器插件，支持 VS Code 和 JetBrains IDE 等。个人用户免费。
 	* [腾讯云 AI 代码助手](https://cloud.tencent.com/product/acc)：腾讯云出品的编辑器插件。个人用户免费。
 	* [文心快码](https://comate.baidu.com/zh)：百度出品的编辑器插件。个人用户免费。
@@ -185,7 +185,7 @@
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
 * 其他工具：
 	* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
-	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。内测申请排队中，还未正式开放。
+	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。已开放使用，套餐与使用额度见[定价页](https://devin.ai/pricing)。
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
 	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode 等。
 		* 定价：免费（Apache-2.0 开源，本地运行，无账号无托管服务）
@@ -244,7 +244,7 @@
 * [Wonder3D](https://www.xxlong.site/Wonder3D/)：“Wonder3D produces consistent multi-view normal maps and corresponding color images, and thus reconstructs high-fidelity textured mesh from a single image in only 2~3 minutes”。开源项目。
 * [Stable Zero123](https://stability.ai/stable-3d)：单张图片生成高质量 3D 物体。Stability AI 开源模型，可整合到 ComfyUI 工作流。
 * [DreamGaussian](https://dreamgaussian.github.io/)：Generative Gaussian Splatting for Efficient 3D Content Creation。开源项目。
-* [Tripo AI](https://vectorizer.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
+* [Tripo AI](https://www.tripo3d.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
 * [Genie](https://lumalabs.ai/genie)：Luma AI 出品的一款通过文本生成 3D 模型的 AI 工具。目前依托 Discord 提供服务。
 * [Luma AI](https://lumalabs.ai/dashboard/captures)：通过视频来重建 3D 场景。你只需要有一台手持拍摄设备，按要求对物体进行 360°旋转拍摄。有网页版和 iOS App。
 
@@ -293,7 +293,7 @@
 
 ### 其他创作工具
 
-* [神采 / PromeAI](https://www.ishencai.com/)：图片生成和编辑工具，包括草图渲染、照片转线稿、局部重绘、抠图去背景、换背景、扩图、重打光、高清放大、文字融合、AI 写真、图生视频等。有免费配额。
+* [神采](https://www.ishencai.com/) 已停止服务；其海外版 [PromeAI](https://www.promeai.pro/) 仍提供图片生成和编辑等功能，详见神采官网的关站通知。
 * [DomoAI](https://domoai.app/)：视频风格转绘，比如把一段现有视频转换为二次元日漫、像素风、油画、3D 皮克斯动画等风格。此外还有文生图、图生图、图生视频等功能。有免费配额。
 * [Comic AI](https://comicai.ai/)：AI 漫画制作工具。有免费配额。
 * [Logo Diffusion](https://logodiffusion.com/)：AI 设计 Logo 工具，主要功能有：提示词生成 Logo、图片转 Logo、用提示词修改 Logo、手绘草稿美化、2D 转 3D。有免费配额。
@@ -343,7 +343,7 @@
 
 ### 写作 / PPT 幻灯片
 
-* [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。增值服务，每月 $10。
+* [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。AI 功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用，详见[定价页](https://www.notion.com/pricing)。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
@@ -364,7 +364,7 @@
 > RAG：Retrieval-Augmented Generation，检索增强生成。是目前基于 LLM 实现 “外挂知识库” 的主流技术方案。
 
 * [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
-* [Dify](https://docs.dify.ai/v/zh-hans)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架、工作流编排等功能。
+* [Dify](https://docs.dify.ai/zh/home)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架、工作流编排等功能。
 * [RAGFlow](https://github.com/infiniflow/ragflow/blob/main/README_zh.md)：一款基于深度文档理解构建的开源 RAG 引擎。
 * [MaxKB](https://github.com/1Panel-dev/MaxKB)：基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统。
 * [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)：开源的 LLM 调试框架，用一张 16 Problem Map 帮你系统排查大模型和 RAG 管线里的常见失效模式，附带实战教程和修复清单，适合开发者做 Debug 和压力测试。
@@ -377,7 +377,7 @@
 ### API 聚合平台
 
 * [硅基流动](https://cmcm.link/p/siliconflow)：国内的 LLM API 聚合平台，提供 DeepSeek、Qwen 等系列模型的 API 服务。[相关攻略](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
-* [GitHub Models](https://github.com/marketplace/models)：GitHub 提供的免费 LLM API，包含 GPT-4o、Meta Llama 3、Cohere 等模型，调用频率有限制。[相关攻略](https://mp.weixin.qq.com/s/Jzytik-ZnhsG8pBRG8TU9Q)
+* [GitHub Models](https://docs.github.com/en/github-models)：已于 2026 年 7 月 30 日停止服务，模型目录、Playground 和推理 API 均不再可用。[相关攻略](https://mp.weixin.qq.com/s/Jzytik-ZnhsG8pBRG8TU9Q)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
 * [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的 API 服务。
 
