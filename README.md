@@ -405,11 +405,11 @@
 
 ## 常见问题 <a name="faq">&nbsp;</a>
 
-### 有什么简便的方式可以使用 GPT-4 和 GPTs？ <a name="help">&nbsp;</a>
+### 有什么简便的方式可以使用 Codex 和 ChatGPT 高级功能？ <a name="help">&nbsp;</a>
 
-建议先通过 ChatGPT Plus 拼车账号开始体验，即买即用。解锁 GPT-4 + DALL·E 绘图 + GPTs 等高端功能。需自备海外线路。
+为了获得最完整的 Codex 体验，建议购买官方的 ChatGPT Plus 套餐。
 
-这里推荐一个老牌的拼车平台，稳定可靠。[点此开始拼车](https://cmcm.link/p/gpt-plus)（还可用九五折优惠码 `ai2024`）。
+如果在注册和支付方面遇到困难，这里推荐一个老牌的代充平台，稳定可靠，客服专业。[👉 开始代充](https://cmcm.link/p/gpt-charge)（还可用九五折优惠码 `ai2024`）。
 
 ### AI 生成内容的版权（著作权）属于谁？
 
