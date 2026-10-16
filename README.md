@@ -146,7 +146,7 @@
 * 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。2024 年底开放免费套餐。
 * 官网：https://github.com/features/copilot
 * 定价：https://github.com/features/copilot/plans
-	* 免费套餐：功能和用量均有限制，包含每月 2000 次代码补全和 50 次聊天请求。
+	* 免费套餐：功能和用量均有限制，包含每月 2000 次代码补全，聊天及 Agent 用量有限。
 	* 专业版：$10 / 月（第一个月免费试用）
 * 推荐书籍：
 	* [《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book)
@@ -157,12 +157,11 @@
 * 官网：https://cursor.com/
 * 定价：https://cursor.com/pricing
 	* 免费版：有使用额度限制。
-	* 付费套餐：Plus $8 / 月起；模型范围和使用额度因套餐而异，详见定价页。
+	* 付费套餐：Plus $8 / 月，仅提供 Grok 模型；Premium 及以上套餐可使用第三方模型，但需另行按用量付费。各套餐使用额度详见定价页。
 
 ### 其他
 
 * AI 编辑器 / 编辑器插件：
-	* [Augment Code](https://www.augmentcode.com/product)：AI 编程插件，支持 VS Code 和 JetBrains IDE 等主流开发工具，更强的上下文感知能力。Standard 套餐 $20 / 月起，含 $20 使用额度；具体套餐和用量规则见[定价页](https://www.augmentcode.com/pricing)。
 	* [Windsurf](https://codeium.com/windsurf)：Codeium 出品的一款代码编辑器，基于 VS Code 内核，集成了 Agent 能力，支持各种高级的 AI 辅助编程功能。新用户可获得 2 周的专业版套餐试用期。
 	* [Cline（原名 Claude Dev）](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)：VS Code 插件，融合了 Agent 思维，通过对话生成（或修改）项目代码。需自备 LLM API。[已开源](https://github.com/cline/cline)。
 	* [Trae](https://www.trae.ai/)：字节跳动出品的 AI 代码编辑器，产品形态类似 Cursor 和 Windsurf，面向海外市场。提供有额度限制的免费套餐和付费套餐，详见[定价页](https://www.trae.ai/pricing)。支持 macOS、Windows 和 Linux，详见[下载页](https://www.trae.ai/download)。
@@ -184,6 +183,7 @@
 	* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
 * 其他工具：
+	* [Augment Code](https://www.augmentcode.com/product)：基于代码库上下文的 AI 编程平台，提供 CLI 和 Cosmos 云端 Agent 等产品形态。Standard 套餐 $20 / 月，含每月 $20 使用额度，团队共享；具体套餐和用量规则见[定价页](https://www.augmentcode.com/pricing)。
 	* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
 	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。已开放使用，套餐与使用额度见[定价页](https://devin.ai/pricing)。
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
@@ -343,7 +343,7 @@
 
 ### 写作 / PPT 幻灯片
 
-* [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。AI 功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用，详见[定价页](https://www.notion.com/pricing)。
+* [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。AI 写作等核心功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用；Custom Agents 等功能另行计费，详见[定价页](https://www.notion.com/pricing)。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
