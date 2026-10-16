@@ -17,9 +17,9 @@
 
 ## 大型语言模型 <a name="index--llm">&nbsp;</a>
 
-### OpenAI GPT / o1 / ChatGPT <a name="gpt">&nbsp;</a>
+### OpenAI GPT / ChatGPT <a name="gpt">&nbsp;</a>
 
-* 简介：OpenAI 的 GPT 系列和 o 系列模型目前全球最先进的大型语言模型。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
+* 简介：OpenAI 的 GPT 系列模型是全球最先进的大型语言模型之一。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
 * 官网：https://openai.com/api/
 * Playground：（不是免费的，会消耗你的 API 调用额度）
 	* Chat 模式：https://platform.openai.com/playground?mode=chat
