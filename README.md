@@ -13,7 +13,7 @@
 > 🔍 提醒：善用搜索，按 Ctrl+F 或 ⌘F 定位到你想找的关键词。<br>
 > 💡 持续更新中，建议添加到浏览器收藏夹，平常一定会用到。
 
-[![Book](https://github.com/user-attachments/assets/70f861e5-cc82-4663-9014-77502de8df9f)](https://u.jd.com/MDPrbVr)
+
 
 ## 大型语言模型 <a name="index--llm">&nbsp;</a>
 
@@ -27,9 +27,6 @@
 * API：
 	* 定价：https://openai.com/pricing
 	* 官方文档：https://platform.openai.com/docs/overview
-	* 其他资料：
-		* [GPT-4o API 实测解析：开发者的福音还是挑战？](https://mp.weixin.qq.com/s/Muf2nFrgKdEeGoRAIlub0w)
-		* [扒一扒 OpenAI o1 系列模型：为什么这么强？](https://mp.weixin.qq.com/s/mXVTFTepl8D98hcK9-jPGg) | [对开发者有何影响？](https://mp.weixin.qq.com/s/DXdirHmXgBPVxzCsc9XNMQ)
 * Web 产品（ChatGPT）： <a name="chatgpt">&nbsp;</a>
 	* 简介：ChatGPT 是目前全球最热门的 AI 应用产品，是一款能以自然语言对话进行交互的 AI 助手。除了对话之外，它还集成了绘画、代码解释器等功能。2022 年 11 月 30 日上线，2023 年 11 月推出 GPTs（自定义 ChatGPT），2024 年 1 月推出 GPTs 商店，持续引领 AI 领域的热潮。
 	* 入口：https://chatgpt.com/
@@ -40,15 +37,6 @@
 	* 相关资料：
 		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
 		* [买了 ChatGPT 会员却没用过 “代码解释器”？亏了，快看这三个案例](https://www.cssmagic.net/blog/wx/72)
-		* [全面升级！GPT-4o 第一时间体验、疑问解答、福利揭秘](https://mp.weixin.qq.com/s/tkEuVXoJuaRN-TQZeTqXiQ)
-* Web 产品（GPTs）： <a name="gpts">&nbsp;</a>
-	* 简介：GPTs 是 ChatGPT 的拓展。它允许用户针对特定场景定制一个特殊的对话机器人，甚至可以附加自己的知识库或调用外部 API，从而实现比常规 ChatGPT 更高效、更精准的对话效果。2024 年 1 月 GPTs 商店上线，开发者分成计划也呼之欲出。
-	* GPTs 商店：https://chat.openai.com/gpts
-	* 相关资料：
-		* GPTs 完全指南：[入门篇](https://www.cssmagic.net/blog/wx/62) | [如何开发](https://www.cssmagic.net/blog/wx/63) | [如何上架](https://www.cssmagic.net/blog/wx/64) | [如何赚钱](https://www.cssmagic.net/blog/wx/65)
-		* [GPTs 商店即将开张，坐等赚钱之际，别忘了做好防盗工作](https://www.cssmagic.net/blog/wx/58)
-		* [任意 GPTs 资源文件泄露问题探讨](https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g)
-		* [SecurityGPT：提示词安全防护](https://github.com/GPTGeeker/securityGPT)
 
 ### Claude
 
@@ -190,8 +178,7 @@
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
 	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode 等。
 		* 定价：免费（Apache-2.0 开源，本地运行，无账号无托管服务）
-* 推荐书籍：
-	* [新书《AI 辅助编程 Python 实战》在翻译了，不容错过！](https://www.cssmagic.net/blog/wx/67)
+
 
 
 ## AI 绘画 / 音频视频创作 <a name="index--art">&nbsp;</a>
@@ -378,7 +365,6 @@
 ### API 聚合平台
 
 * [硅基流动](https://cmcm.link/p/siliconflow)：国内的 LLM API 聚合平台，提供 DeepSeek、Qwen 等系列模型的 API 服务。[相关攻略](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
-* [GitHub Models](https://docs.github.com/en/github-models)：已于 2026 年 7 月 30 日停止服务，模型目录、Playground 和推理 API 均不再可用。[相关攻略](https://mp.weixin.qq.com/s/Jzytik-ZnhsG8pBRG8TU9Q)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
 * [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的 API 服务。
 
@@ -413,6 +399,8 @@
 
 （持续更新中……）
 
+
+
 ---
 
 ## 常见问题 <a name="faq">&nbsp;</a>
@@ -432,11 +420,7 @@
 
 详细解释：[你用 AI 生成的作品，版权归你吗？](https://www.cssmagic.net/blog/wx/59)
 
-### 微信群 <a name="wx-group">&nbsp;</a>
 
-加入群，快人一步获取 AI 资讯、与数百名同好交流：
-
-![qun-qr](https://github.com/cssmagic/blog/assets/1231359/356aedff-723a-4b5d-a776-c9cacdcebec8)
 
 ---
 
