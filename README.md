@@ -176,12 +176,11 @@
 	* [CopyCoder](https://copycoder.ai/)：把网页设计稿、原型图转换成适合 AI 编程工具处理的提示词，适合与 Cursor、Windsurf、Bolt.new、v0.dev 等工具配合使用。
 	* [Devin](https://www.cognition-labs.com/introducing-devin)：Cognition Labs 推出的 AI 编程机器人，有很强的自主学习和工作能力。已开放使用，套餐与使用额度见[定价页](https://devin.ai/pricing)。
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
-	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode 等。
-		* 定价：免费（Apache-2.0 开源，本地运行，无账号无托管服务）
-	* [CurlShot](https://curlshot.com/)：网页截图 API，并提供 MCP 服务器（`https://curlshot.com/api/mcp`），让 Claude Code、Cursor 等 AI 编程 Agent 能“看到”网页。一次 HTTP 请求即可把 URL、HTML 或 Markdown 渲染为 PNG、JPEG、WebP、PDF 或滚动视频（MP4、WebM、GIF），基于真实浏览器（Headless Chromium）。另提供 OpenAPI 3.1、llms.txt 和 n8n 社区节点。
-		* 定价：免费套餐每月 100 张截图，无需信用卡；付费套餐见[定价页](https://curlshot.com/pricing)。
-	* [Frink](https://frink.dev/)：面向所有人的精细化自动化：用可视化工作流让 AI 编程 Agent 处理你的工单、报错和定时任务，并在改动任何内容之前先征求你的确认。支持 Claude Code、Codex、OpenCode、GitHub Copilot 和 Cursor。本地运行，[已开源](https://github.com/benord-labs/frink)（MIT），支持 macOS 和 Linux。
-		* 定价：免费（MIT 开源，本地运行，无账号）
+	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 Agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、OpenCode 等。免费开源，本地运行。
+	* [CurlShot](https://curlshot.com/)：网页截图 API，并提供 MCP 服务器，让 Claude Code、Cursor 等 AI 编程 Agent 能 “看到” 网页。一次 HTTP 请求即可把 URL、HTML 或 Markdown 渲染为 PNG、JPEG、WebP、PDF 或滚动视频（MP4、WebM、GIF），基于真实浏览器（Headless Chromium）。另提供 OpenAPI 3.1、llms.txt 和 n8n 社区节点。有免费额度，付费套餐按截图额度订阅。
+	* [Frink](https://frink.dev/)：本地运行的 AI 编程 Agent 工作台，提供多 Agent 并行、可视化工作流、定时触发及人工审批节点。工作流支持 Claude Code 和 Codex，另提供其他 Agent 的预览接入。MIT 开源，本地运行，支持 macOS 和 Linux。软件免费，所接入的 Agent／模型服务费用另计。
+	* [Codex with ChatGPT](https://github.com/XiaoDuoYa/codex-with-chatgpt)：让 ChatGPT 网页版负责代码规划与审查，Codex 负责执行修改和测试，通过只读 MCP 按需读取本地工作区。需配置 ChatGPT 连接器和公网隧道，并自备相关账号。非官方社区项目，MIT 开源。
+	* [CC Switch](https://github.com/farion1231/cc-switch)：AI 编程工具配置管理器，可为 Claude Code、Codex、Gemini CLI 等工具切换 API 供应商，统一管理 MCP、Skills 和提示词。支持 Windows、macOS 和 Linux。MIT 开源，模型服务费用另计。
 
 
 
@@ -381,6 +380,8 @@
 * [Devv.AI](https://devv.ai/)：一款面向程序员的 AI 搜索引擎，为编程问题提供快速准确的答案。
 * [PromptPerfect](https://promptperfect.jina.ai/)：帮你优化提示词（Prompt）。比如把你的笼统需求拆解为多步骤的任务，以提高模型输出的准确性；又比如根据给定的文章主题生成大纲并撰写长文。
 * [AppAgent](https://appagent-official.github.io/)：腾讯研究团队的开源项目，基于大语言模型的手机端多模态智能代理，帮用户自动执行复杂任务。适用于 Android 手机和模拟器。可粗略类比为手机端的按键精灵。
+* [Hermit Agent](https://github.com/swaylq/hermit-agent)：基于 Claude Code 或 Codex CLI 搭建 Telegram 个人助理，提供角色设定、长期记忆和定时任务。需自行部署并配置相应 CLI 和 Telegram 机器人。MIT 开源，所用模型服务费用另计。
+* [无线麦 SayAll](https://github.com/HD838A/remote-mic-app)：macOS 语音输入配套工具，把小米蓝牙遥控器 2 / 2 Pro 变成无线麦克风，配合豆包、微信输入法等外部工具完成语音转文字。另提供语音历史只读 MCP，仍待完整验收。macOS 代码采用 GPL-3.0-only，部分功能需买断。
 * [ProctorAI](https://github.com/jam3scampbell/ProctorAI)：AI 监工，号称 “拖延症终结者”。开源项目，本地应用程序，通过定时截图来检查你是否在摸鱼，并发出警告，支持语音提醒。可以设置详细的监督规则。底层调用了 GPT-4o 等多模态模型。
 * [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)：LLM 辅助 OCR，通过大模型来提升 OCR 的准确性。
 
