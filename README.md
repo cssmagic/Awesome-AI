@@ -178,6 +178,8 @@
 	* [Gru.ai](https://gru.ai/)：一款在线的编程助手 AI Agent，根据用户的任务生成代码，支持 Python 和 TS 语言。
 	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode 等。
 		* 定价：免费（Apache-2.0 开源，本地运行，无账号无托管服务）
+	* [CurlShot](https://curlshot.com/)：网页截图 API，并提供 MCP 服务器（`https://curlshot.com/api/mcp`），让 Claude Code、Cursor 等 AI 编程 Agent 能“看到”网页。一次 HTTP 请求即可把 URL、HTML 或 Markdown 渲染为 PNG、JPEG、WebP、PDF 或滚动视频（MP4、WebM、GIF），基于真实浏览器（Headless Chromium）。另提供 OpenAPI 3.1、llms.txt 和 n8n 社区节点。
+		* 定价：免费套餐每月 100 张截图，无需信用卡；付费套餐见[定价页](https://curlshot.com/pricing)。
 
 
 
