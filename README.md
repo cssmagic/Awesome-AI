@@ -180,6 +180,8 @@
 		* 定价：免费（Apache-2.0 开源，本地运行，无账号无托管服务）
 	* [CurlShot](https://curlshot.com/)：网页截图 API，并提供 MCP 服务器（`https://curlshot.com/api/mcp`），让 Claude Code、Cursor 等 AI 编程 Agent 能“看到”网页。一次 HTTP 请求即可把 URL、HTML 或 Markdown 渲染为 PNG、JPEG、WebP、PDF 或滚动视频（MP4、WebM、GIF），基于真实浏览器（Headless Chromium）。另提供 OpenAPI 3.1、llms.txt 和 n8n 社区节点。
 		* 定价：免费套餐每月 100 张截图，无需信用卡；付费套餐见[定价页](https://curlshot.com/pricing)。
+	* [Frink](https://frink.dev/)：面向所有人的精细化自动化：用可视化工作流让 AI 编程 Agent 处理你的工单、报错和定时任务，并在改动任何内容之前先征求你的确认。支持 Claude Code、Codex、OpenCode、GitHub Copilot 和 Cursor。本地运行，[已开源](https://github.com/benord-labs/frink)（MIT），支持 macOS 和 Linux。
+		* 定价：免费（MIT 开源，本地运行，无账号）
 
 
 
