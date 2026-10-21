@@ -384,6 +384,7 @@
 * [无线麦 SayAll](https://github.com/HD838A/remote-mic-app)：macOS 语音输入配套工具，把小米蓝牙遥控器 2 / 2 Pro 变成无线麦克风，配合豆包、微信输入法等外部工具完成语音转文字。另提供语音历史只读 MCP，仍待完整验收。macOS 代码采用 GPL-3.0-only，部分功能需买断。
 * [ProctorAI](https://github.com/jam3scampbell/ProctorAI)：AI 监工，号称 “拖延症终结者”。开源项目，本地应用程序，通过定时截图来检查你是否在摸鱼，并发出警告，支持语音提醒。可以设置详细的监督规则。底层调用了 GPT-4o 等多模态模型。
 * [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)：LLM 辅助 OCR，通过大模型来提升 OCR 的准确性。
+* [PlaceCall](https://voygr.tech/placecall/)：AI 电话代理，替你给美国商家打真实电话（订位、预约、询价）。能应对语音菜单、等待和转接，通话中遇到需要你决定的问题会转回来问你，挂断后返回通话结果、文字记录和录音。通过远程 MCP 服务器、REST API 或 Agent Skill 接入，可在 Claude Code、Codex、Cursor 等 Agent 中使用。仅支持美国号码；每个新 API 密钥含 250 次免费通话，之后按通话结果付费。客户端 MIT 开源，通话服务为闭源托管服务。
 
 ### 教程
 
