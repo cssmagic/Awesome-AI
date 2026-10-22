@@ -228,6 +228,7 @@
 * [Vidu](https://www.vidu.studio/)：Vidu 是由清华大学朱军教授团队研发的 AI 视频生成器。支持生成高逼真度的 4 秒或 8 秒 1080p 高清视频。亮点包括生成速度快、角色一致性、支持写实和动漫风格、生成效果连续流畅等，可应用于游戏、影视、教育等领域。
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine)：Luma AI 出品的视频生成模型。支持文生视频、图生视频，可生成 5 秒长度的视频。有免费额度。
 * [剪映专业版（国内版）](https://www.capcut.cn/) / [CapCut（海外版）](https://www.capcut.com/)：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
+* [pitchboom.io](https://pitchboom.io)：AI 动效设计（motion design）视频广告工作室。粘贴产品网址或用两行文字描述产品，自动撰写脚本、生成可编辑并确认的分镜、配旁白（34 种语言）和背景音乐，导出 16:9、9:16、1:1、4:5、3:4 的 1080p MP4，各画幅重新排版而非裁切，适用于 TikTok、Reels、YouTube Shorts 等平台的视频广告。付费订阅，每月 30 欧元起（不含增值税），无免费版。
 
 ### 3D 建模
 
