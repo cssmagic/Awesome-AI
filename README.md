@@ -25,15 +25,16 @@
 	* Chat 模式：https://platform.openai.com/playground?mode=chat
 	* Assistants 模式：https://platform.openai.com/playground?mode=assistant
 * API：
-	* 定价：https://openai.com/pricing
+	* 定价：https://developers.openai.com/api/docs/pricing
 	* 官方文档：https://platform.openai.com/docs/overview
 * Web 产品（ChatGPT）： <a name="chatgpt">&nbsp;</a>
 	* 简介：ChatGPT 是目前全球最热门的 AI 应用产品，是一款能以自然语言对话进行交互的 AI 助手。除了对话之外，它还集成了绘画、代码解释器等功能。2022 年 11 月 30 日上线，2023 年 11 月推出 GPTs（自定义 ChatGPT），2024 年 1 月推出 GPTs 商店，持续引领 AI 领域的热潮。
 	* 入口：https://chatgpt.com/
-	* 定价：
-		* ChatGPT Free（GPT-3.5 + 语音对话）：免费无限量
-		* ChatGPT Plus（Free + GPT-4 + 绘图 + GPTs + ...）：$20 / 月
-		* ChatGPT Team（Plus + 协作空间 + 数据保护 + ...）：$25 / 月 / 人
+	* 定价（部分常用套餐，美元）：
+		* ChatGPT Free：免费。
+		* ChatGPT Plus：$20 / 月。
+		* ChatGPT Business：年付折合 $20 / 月 / 人，至少 2 人；月付 $25 / 月 / 人。
+		* 完整套餐、功能和使用额度见[官方说明](https://learn.chatgpt.com/docs/pricing)。ChatGPT 订阅与 API 调用单独计费。
 	* 相关资料：
 		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
 		* [买了 ChatGPT 会员却没用过 “代码解释器”？亏了，快看这三个案例](https://www.cssmagic.net/blog/wx/72)
@@ -61,9 +62,11 @@
 
 ### 深度求索 / DeepSeek <a name="deepseek">&nbsp;</a>
 
-* 简介：国产开源大模型。其推理模型 R1 性能比肩 OpenAI o1。已开放 API，定价极为低廉。
+* 简介：深度求索推出的大模型系列，提供推理、代码生成和工具调用等能力。API 支持 OpenAI 和 Anthropic 兼容格式；其中 Flash 模型支持图片描述、截图文字识别和图表分析。
 * 官网：https://www.deepseek.com/
-* API 文档：https://platform.deepseek.com/docs
+* API 文档：https://api-docs.deepseek.com/zh-cn/
+	* 图像理解：https://api-docs.deepseek.com/zh-cn/guides/vision/
+	* 定价：https://api-docs.deepseek.com/zh-cn/quick_start/pricing/
 * Web 产品：https://chat.deepseek.com/
 * 更多介绍：
 	* [国产大模型又出黑马！DeepSeek 初体验，价格屠夫大杀四方](https://mp.weixin.qq.com/s/TY4nap6sR71bImaD8-NFKw)
@@ -132,17 +135,17 @@
 
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
-* 简介：AI 辅助编程领域的标杆。由 GitHub 和 OpenAI 共同开发，作为编辑器插件集成到开发环境中，支持 VS Code 和 JetBrains IDE 等主流开发工具。它提供代码补全、智能对话、多文件编辑等功能。2024 年底开放免费套餐。
+* 简介：GitHub 的 AI 编程助手，覆盖 VS Code、JetBrains IDE 等编辑器、终端 CLI、桌面应用和 GitHub 云端 Agent。支持代码补全、代码库问答、多文件修改和代码审查，可从 Issue 发起任务并通过 PR 交付修改。
 * 官网：https://github.com/features/copilot
 * 定价：https://github.com/features/copilot/plans
 	* 免费套餐：功能和用量均有限制，包含每月 2000 次代码补全，聊天及 Agent 用量有限。
-	* 专业版：$10 / 月（第一个月免费试用）
+	* 专业版：Pro $10 / 月，代码补全不限量；聊天、Agent、代码审查等消耗 GitHub AI Credits，超出套餐额度可另行付费。
 * 推荐书籍：
 	* [《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book)
 
 ### Cursor
 
-* 简介：AI 辅助编程领域的后起之秀。Cursor 是一款编辑器，基于 VS Code 内核。除了基础的代码补全功能以外，它还提供了批量补全、预测下一步操作、智能对话、多文件编辑等高级功能。
+* 简介：基于 VS Code 的 AI 代码编辑器，提供代码补全、预测下一步操作、代码库问答和多文件修改等功能。另提供云端 Agent，可订阅 PR、Slack 等事件或运行定时任务，持续跟进代码修改与 CI。
 * 官网：https://cursor.com/
 * 定价：https://cursor.com/pricing
 	* 免费版：有使用额度限制。
@@ -166,6 +169,12 @@
 		* 定价：基础版（基础的代码补全功能）：免费
 	* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 		* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
+* 终端编程 Agent：
+	* [Codex CLI](https://learn.chatgpt.com/docs/codex/cli)：OpenAI 的终端编程工具，可读取代码库、修改文件、执行命令和审查改动，也可用于脚本与 CI。支持 ChatGPT 账号登录或使用 API key，后者按 API 用量单独计费。
+	* [Claude Code](https://code.claude.com/docs/en/overview)：Anthropic 的编程 Agent，可在终端理解项目、修改代码、运行测试并处理 Git 工作流。需 Claude 订阅、Claude Console API 账号或受支持的云平台访问权限。
+	* [Qwen Code](https://github.com/QwenLM/qwen-code)：开源编程 Agent，支持终端、编辑器插件及桌面应用，可连接多家模型 API 或本地模型。支持 MCP、Skills 和代码审查。Apache-2.0 开源，需自行配置模型服务，费用与额度取决于所接入的服务。
+	* [Antigravity CLI](https://antigravity.google/product/antigravity-cli)：Google Antigravity 的终端入口，支持自然语言编程、后台多 Agent 协作，以及插件、MCP、Skills 和 Hooks。Gemini CLI 面向个人的免费服务及 Google AI Pro / Ultra 接入已停止服务，官方建议转用此产品，详见[官方说明](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)。
+	* [Trae Agent](https://github.com/bytedance/trae-agent)：字节跳动开源的命令行编程 Agent，支持多家模型、文件编辑、Shell 执行和操作轨迹记录。架构模块化，适合研究和定制编程 Agent；它与 Trae 编辑器是不同项目。MIT 开源，需配置模型服务。
 * 网页设计与生成工具：
 	* [Bolt.new](https://bolt.new/)：StackBlitz 出品的 AI 编程工具，可在线生成、编辑、运行、部署全栈网站，一站式解决网站开发需求。支持多种基于 JS 的前后端技术栈。
 	* [v0.dev](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
@@ -199,19 +208,15 @@
 		* 专业版套餐（30h Fast Time + Unlimited Relax Time）：$60 / 月
 		* 至尊版套餐（60h Fast Time + Unlimited Relax Time）：$120 / 月
 
-* [OpenAI DALL·E](https://openai.com/dall-e-3)<a name="dall-e">&nbsp;</a>：OpenAI 出品的图片生成工具。对提示词的理解能力极强，与 ChatGPT 的整合也令它极为易用。
-	* Web 产品：
-		* ChatGPT Plus（GPT-4 + DALL·E 3）：https://chat.openai.com/#pricing
-			* 定价：$20 / 月
-		* DALL·E 2：https://labs.openai.com/
-			* 定价：$15 / 115 点
+* [OpenAI 图像生成 / GPT Image](https://developers.openai.com/api/docs/guides/image-generation)<a name="dall-e">&nbsp;</a>：OpenAI 的图像生成与编辑模型，可通过提示词创建图片或修改现有图片。开发者可通过 Images API 或 Responses API 接入，API 单独计费。
+	* 历史模型：DALL·E 2 和 DALL·E 3 的 API 已于 2026 年 5 月 12 日停用，详见[官方弃用公告](https://developers.openai.com/api/docs/deprecations)。
 
 * [Stable Diffusion](https://stability.ai/stable-image)<a name="sd">&nbsp;</a>：是一款先进的人工智能图像生成模型，由 Stability AI 开发。可本地部署。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
 	* 扩展：
-		* ComfyUI：https://github.com/comfyanonymous/ComfyUI
+		* ComfyUI：https://github.com/Comfy-Org/ComfyUI
 			* 中文学习社区：https://www.comflowy.com/zh-CN
 
-* [FLUX.1](https://www.basedlabs.ai/tools/flux1)：是一个全新的开源图像生成模型。它由 Black Forest Labs 开发，该团队也是 Stable Diffusion 的幕后团队。
+* [FLUX](https://bfl.ai/)：Black Forest Labs 的图像生成与编辑模型系列，支持文生图、参考图编辑和多图组合。提供[官方 API](https://docs.bfl.ai/quick_start/introduction)与部分开放权重模型；自部署与商用条件依具体模型及[许可](https://bfl.ai/licensing)而定。
 
 * [Seedream AI Studio](https://seedream4.video/)：字节跳动旗下多模型 AI 图像生成平台，集成 Seedream 5.0/4.5/4.0 模型，支持一键图生视频（Kling 2.1 驱动）。有免费基础版。
 
@@ -219,13 +224,14 @@
 
 ### AI 视频生成
 
-* [Runway Gen-2](https://app.runwayml.com/)：视频生成领域的热门产品。它提供了多种 AI 视频生成模型，包括文生视频、图文生成视频、图生视频、风格化渲染、局部叠加渲染、3D 模型渲染等功能。有免费额度。[官网](https://research.runwayml.com/gen2)
+* [Runway](https://runway.com/)：云端 AI 创作平台，可在同一工作区生成和编辑视频、图片与音频。提供自有及第三方创作模型，另有面向开发者的 API。免费版提供一次性 125 credits，付费套餐与额度见[定价页](https://runway.com/pricing)。[开始创作](https://app.runwayml.com/)。
+* [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)：腾讯混元的视频生成模型，支持文生视频与图生视频，代码和模型权重已公开，可本地部署，并提供 ComfyUI 与 Diffusers 接入方式。官方原生部署面向 Linux + NVIDIA GPU，开启模型卸载时最低需 14GB 显存。
 * [Pika](https://pika.art/)：视频生成领域的热门产品，典型功能为图生视频。新版本主打趣味视频生成功能。有免费额度。
 * [PixVerse](https://pixverse.ai/)：视频生成工具，支持文生视频、图生视频、人物生成视频等。有免费额度。
 * [Stable Video Diffusion](https://stability.ai/stable-video)：Stability AI 发布的开源的视频生成模型。可本地部署。
 	* 简介：https://mp.weixin.qq.com/s/il3YahMQyw55KdQ7acxIow
 	* 教程：https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd
-* [OpenAI Sora](https://openai.com/sora)：OpenAI 发布的视频生成模型。可实现文生视频、图生视频、视频延长和衔接。生成视频长达一分钟。目前仅面向安全领域和创作领域的专家开放内测，还没有正式开放。
+* [OpenAI Sora](https://openai.com/sora)：OpenAI 发布的视频生成模型。Sora 2 系列模型与 Videos API 已于 2026 年 9 月 24 日从 API 停用，详见[官方弃用公告](https://developers.openai.com/api/docs/deprecations)。
 * [可灵大模型](https://kling.kuaishou.com/) / [可灵AI](https://klingai.kuaishou.com/)：快手出品的视频生成大模型，支持文生视频、图生视频、视频续写等能力。支持最长 3 分钟高清视频生成，堪称 “中国版 Sora”。
 * [智谱清影](https://chatglm.cn/video)：智谱 AI 推出的视频生成工具，支持文生视频、图生视频等功能，比如 “老照片动起来” 等应用。可生成 10 秒、4K 分辨率、60 帧高清视频。目前免费开放，支持 API 调用。
 * [Vidu](https://www.vidu.studio/)：Vidu 是由清华大学朱军教授团队研发的 AI 视频生成器。支持生成高逼真度的 4 秒或 8 秒 1080p 高清视频。亮点包括生成速度快、角色一致性、支持写实和动漫风格、生成效果连续流畅等，可应用于游戏、影视、教育等领域。
@@ -256,6 +262,7 @@
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
 * [Eleven Labs](https://elevenlabs.io/)：文本转语音（TTS），通过文字描述生成音效，语音克隆，视频翻译配音。有 API。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
+* [CosyVoice](https://github.com/QwenAudio/CosyVoice)：多语言语音合成与零样本声音克隆项目，支持中文方言、跨语言克隆、流式输入输出，以及情绪、语速等指令控制。代码和模型权重已公开，可本地部署；代码采用 Apache-2.0 许可。
 * [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/docs/cn/README.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
 * [ChatTTS webUI](https://github.com/jianchang512/ChatTTS-ui)：一个简单的本地网页界面，使用 ChatTTS 将文字合成为语音，同时支持对外提供 API 接口。已开源。
 * [Seed-TTS](https://bytedancespeech.github.io/seedtts_tech_report/)：字节跳动发布的高质量、多功能语音生成模型，未开源，似乎也没有发布可用的产品。支持音色微调、带情绪的 TTS、音色转换、情绪转换、基于原语音生成新语音、语音内容编辑、调速等能力。可应用于有声读物、翻译视频等场景。
@@ -342,7 +349,7 @@
 
 ### 写作 / PPT 幻灯片
 
-* [Notion AI](https://www.notion.so/product/ai)：Notion 中的 AI 写作助手。AI 写作等核心功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用；Custom Agents 等功能另行计费，详见[定价页](https://www.notion.com/pricing)。
+* [Notion AI](https://www.notion.com/zh-cn/product/ai)：Notion 中的 AI 写作与工作助手，可起草文档、检索工作区信息，也可先建议修改，再由你逐项确认。AI 写作等核心功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用；Custom Agents 等功能另行计费，详见[定价页](https://www.notion.com/zh-cn/pricing)。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 * [ImagineYourBook](https://www.imagineyourbook.com/)：AI 写书工具，根据创意规划整本书结构并逐章起草小说、回忆录或非虚构作品，支持系列故事设定（story bible）保持多卷连贯，也能改写已有书稿，可导出 Word、EPUB。第一本 1 万字小书可免费写完，下载时开启 7 天试用（需绑定支付方式）。
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
@@ -354,7 +361,8 @@
 ### 内容分析、识别、提炼
 
 * [通义听悟](https://tingwu.aliyun.com/u/82xz94v6z6z9m6v7)：语音文件识别为文本，拆分章节，提炼关键信息，识别多人发言，适合处理录音采访、播客、会议记录等内容。
-* [MinerU](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)：一站式、开源、高质量的数据提取工具，包含 PDF 文档、网页与电子书的内容提取并转换等 Markdown 等功能。[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF)
+* [MinerU](https://github.com/opendatalab/MinerU/blob/master/README_zh-CN.md)：文档解析工具，支持 PDF、扫描图片、Office 文档、网页和电子书，可提取文本、表格与公式并导出 Markdown 等格式。支持本地运行，提供 CLI、SDK 和 API。[在线体验](https://mineru.net/OpenSourceTools/Extractor?source=github)。源码采用附加条款的 Apache-2.0 许可，商用门槛与在线服务标识要求见[许可文件](https://github.com/opendatalab/MinerU/blob/master/LICENSE.md)。
+* [Gemini Notebook（原 NotebookLM）](https://notebook.google/)：Google 的资料研究助手，可导入 PDF、网页、音频与公开视频等资料，进行基于来源的问答、摘要和交叉对照，并提供引用，也可将资料生成播客式音频摘要。适合阅读论文、整理课程或分析访谈。
 * [Elicit](https://elicit.com/)：以超人速度分析论文。自动化耗时的研究任务，如总结论文、提取数据和汇总结论。
 * [Monica](https://monica.im/)：多功能 AI 工具箱，有浏览器插件、桌面应用和移动 App。最为人熟知的功能是基于网页内容的总结和问答。
 * 剪映：可识别语音生成字幕。
@@ -365,7 +373,7 @@
 
 * [SiteGPT](https://sitegpt.ai/)：基于你的官网内容和上传文档创建客服机器人，解答客户的咨询。
 * [Dify](https://docs.dify.ai/zh/home)：LLM 应用开发平台，支持各种大模型，提供 Prompt 编排、RAG、Agent 框架、工作流编排等功能。
-* [RAGFlow](https://github.com/infiniflow/ragflow/blob/main/README_zh.md)：一款基于深度文档理解构建的开源 RAG 引擎。
+* [RAGFlow](https://github.com/infiniflow/ragflow/blob/main/README_zh.md)：基于深度文档理解的开源 RAG 引擎，支持文档解析、带引用的检索问答与 Agentic RAG。可将文档或数据集编译成 Wiki、知识图谱、树形索引、思维导图等结构，适合构建知识库与研究助手。
 * [MaxKB](https://github.com/1Panel-dev/MaxKB)：基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统。
 * [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)：开源的 LLM 调试框架，用一张 16 Problem Map 帮你系统排查大模型和 RAG 管线里的常见失效模式，附带实战教程和修复清单，适合开发者做 Debug 和压力测试。
 
@@ -379,7 +387,7 @@
 
 * [硅基流动](https://cmcm.link/p/siliconflow)：国内的 LLM API 聚合平台，提供 DeepSeek、Qwen 等系列模型的 API 服务。[相关攻略](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
-* [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的 API 服务。
+* [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的聚合 API，也已接入 ElevenLabs 的语音合成与语音识别模型，详见[语音接入说明](https://openrouter.ai/blog/announcements/elevenlabs-on-openrouter/)。
 
 ### 其他工具 / 开源项目
 
