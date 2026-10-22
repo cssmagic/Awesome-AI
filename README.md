@@ -240,6 +240,7 @@
 * [Tripo AI](https://www.tripo3d.ai/)：通过文本或图片生成高质量 3D 模型，可下载。有免费配额。
 * [Genie](https://lumalabs.ai/genie)：Luma AI 出品的一款通过文本生成 3D 模型的 AI 工具。目前依托 Discord 提供服务。
 * [Luma AI](https://lumalabs.ai/dashboard/captures)：通过视频来重建 3D 场景。你只需要有一台手持拍摄设备，按要求对物体进行 360°旋转拍摄。有网页版和 iOS App。
+* [3D-Agent](https://3d-agent.com/blender-ai)：Blender 桌面 AI 智能体，用自然语言在当前场景中建模（四边面拓扑）、制作材质、灯光、动画并渲染，也可对其他 AI 生成的模型做重拓扑。支持 macOS / Windows，付费订阅，无免费额度。
 
 ### 数字人 / 语音驱动视频 / TTS
 
