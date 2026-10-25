@@ -182,6 +182,7 @@
 	* [Codex with ChatGPT](https://github.com/XiaoDuoYa/codex-with-chatgpt)：让 ChatGPT 网页版负责代码规划与审查，Codex 负责执行修改和测试，通过只读 MCP 按需读取本地工作区。需配置 ChatGPT 连接器和公网隧道，并自备相关账号。非官方社区项目，MIT 开源。
 	* [CC Switch](https://github.com/farion1231/cc-switch)：AI 编程工具配置管理器，可为 Claude Code、Codex、Gemini CLI 等工具切换 API 供应商，统一管理 MCP、Skills 和提示词。支持 Windows、macOS 和 Linux。MIT 开源，模型服务费用另计。
 	* [Orbi](https://orbi.build/zh/)：面向 GitHub 的 AI 编程交付工具。给 Issue 添加 `ai-ready` 标签后，在独立工作区实现和测试，通过独立 AI 会话评审与修复，并在满足合并条件后自动合并 PR。AGPL-3.0 开源，可自托管；模型服务费用另计，另有提供有限免费试用的付费 Cloud 托管版。
+	* [agent-qa](https://github.com/vostride/agent-qa)：具备 memidex 高级记忆引擎与自我改进能力的 QA Agent，用自然语言测试网页、Android 和 iOS 并保留运行证据；提供 CLI、dashboard、MCP 和 Agent Skills。采用 FSL-1.1-ALv2，许可允许的用途无需软件费用，模型及浏览器／设备服务费用另计。
 
 
 
