@@ -184,6 +184,7 @@
 	* [Orbi](https://orbi.build/zh/)：面向 GitHub 的 AI 编程交付工具。给 Issue 添加 `ai-ready` 标签后，在独立工作区实现和测试，通过独立 AI 会话评审与修复，并在满足合并条件后自动合并 PR。AGPL-3.0 开源，可自托管；模型服务费用另计，另有提供有限免费试用的付费 Cloud 托管版。
 	* [deed.page](https://deed.page)：面向 AI 编程 Agent 的静态托管。一次 curl 请求或 MCP 调用即可把 Claude Code、Codex、Cursor 等生成的 HTML 页面或静态文件夹发布到永久公开 URL，无需注册账号；提供 Agent Skill（[GitHub](https://github.com/f-o-x11/deed-page-skill)）和[文档](https://deed.page/docs)。
 		* 定价：免费套餐可用，无需账号
+	* [agent-qa](https://github.com/vostride/agent-qa)：具备 memidex 高级记忆引擎与自我改进能力的 QA Agent，用自然语言测试网页、Android 和 iOS 并保留运行证据；提供 CLI、dashboard、MCP 和 Agent Skills。采用 FSL-1.1-ALv2，许可允许的用途无需软件费用，模型及浏览器／设备服务费用另计。
 
 
 
