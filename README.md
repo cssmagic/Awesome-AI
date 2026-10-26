@@ -387,6 +387,7 @@
 * [ProctorAI](https://github.com/jam3scampbell/ProctorAI)：AI 监工，号称 “拖延症终结者”。开源项目，本地应用程序，通过定时截图来检查你是否在摸鱼，并发出警告，支持语音提醒。可以设置详细的监督规则。底层调用了 GPT-4o 等多模态模型。
 * [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)：LLM 辅助 OCR，通过大模型来提升 OCR 的准确性。
 * [PlaceCall](https://voygr.tech/placecall/)：AI 电话代理，替你给美国商家打真实电话（订位、预约、询价）。能应对语音菜单、等待和转接，通话中遇到需要你决定的问题会转回来问你，挂断后返回通话结果、文字记录和录音。可通过 MCP 服务器、REST API 或 Agent Skill 接入，可在主流 AI Agent 中使用。仅支持美国号码，当前不支持中文通话。有免费积分，之后按通话结果付费。客户端 MIT 开源，通话服务为闭源托管服务。
+* [Pulse](https://pulsecorp.co)：AI 主持的市场调研平台，可大规模开展客户访谈。由 AI 主持人通过语音、视频、文字聊天、电话和 WhatsApp 访谈参与者，面向产品、市场和研究团队。可直接注册（无需排队等候）；提供免费试用和付费方案。
 
 ### 教程
 
