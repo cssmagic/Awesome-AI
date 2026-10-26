@@ -325,6 +325,7 @@
 * [Toolify.ai](https://www.toolify.ai/)：AI 工具分类导航目录。
 * [There's An AI For That (TAAFT)](https://theresanaiforthat.com/)：提问我的需求可以用哪些 AI 工具来实现。
 * [通往 AGI 之路 / WayToAGI](https://www.waytoagi.com/)：AI 工具（包含网站和 GPTs）分类导航目录，也可搜索。
+* [CodeTrendy](https://codetrendy.com/)：新上线的初创产品、SaaS 和 AI 工具的分类导航目录，可按分类浏览，并有热门榜和替代品页面。提供免费的只读远程 MCP 服务器（`https://codetrendy.com/api/mcp`，无需 API 密钥和账号），可在 Claude、Cursor 等 AI 助手中搜索收录的产品、查找某个产品的替代品。产品可免费提交收录，也有付费升级（付费的 Verified 收录在 MCP 搜索结果中排在前面）。
 * [ChandlerAi](https://chandler.bet/)：国内可用的 AI 助手，可调用 GPT-4、Claude 3 Opus、Gemini、DALL·E 等先进模型。需要付费。
 
 ### 图像处理 / 图形设计 / UI 设计
