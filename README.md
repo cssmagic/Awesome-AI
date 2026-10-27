@@ -68,10 +68,6 @@
 	* 图像理解：https://api-docs.deepseek.com/zh-cn/guides/vision/
 	* 定价：https://api-docs.deepseek.com/zh-cn/quick_start/pricing/
 * Web 产品：https://chat.deepseek.com/
-* 更多介绍：
-	* [国产大模型又出黑马！DeepSeek 初体验，价格屠夫大杀四方](https://mp.weixin.qq.com/s/TY4nap6sR71bImaD8-NFKw)
-	* [两种方法免费使用 DeepSeek API，建议收藏备用](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
-	* [DeepSeek 这三种进阶玩法你一定要知道](https://mp.weixin.qq.com/s/nP3CIwZbueY-Mhfh06QbGw)
 
 ### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
 
@@ -133,6 +129,34 @@
 
 ## AI 编程 <a name="index--programming">&nbsp;</a>
 
+### Codex <a name="codex">&nbsp;</a>
+
+* 简介：OpenAI 的 AI 编程服务，可理解代码库、实现功能、修复问题、运行命令和审查改动。提供 CLI、桌面客户端、IDE 插件及云端任务等多种使用方式，适合从日常代码修改到持续跟进项目任务。
+* 产品形态与入口：
+	* [桌面客户端](https://learn.chatgpt.com/docs/app)：在 ChatGPT 桌面应用中使用 Codex，支持 macOS、Windows 和 Linux，可集中管理多个项目与任务，查看文件和工作结果。
+	* [Codex CLI](https://learn.chatgpt.com/docs/codex/cli)：在终端中操作本地代码库，可交互使用，也可接入脚本与 CI。
+	* 另提供 IDE 插件与 Codex Cloud，可在编辑器中工作，或将任务交给云端环境执行。
+* 定价（包含在 ChatGPT 相应套餐中）：https://learn.chatgpt.com/docs/pricing
+	* Free / Go：免费 / $8 / 月，提供桌面端的入门体验，模型和功能受限，具体以开放范围为准。
+	* Plus：$20 / 月，可使用 CLI、IDE 插件及云端任务等功能。
+	* Pro：有 $100、$200、$500 / 月三个档位，包含 Plus 功能，并提供更多使用额度。
+	* Business：年付折合 $20 / 月 / 人，至少 2 人；月付 $25 / 月 / 人。提供团队工作区和管理能力；Enterprise、Edu 另行联系销售。
+
+### Claude Code <a name="claude-code">&nbsp;</a>
+
+* 简介：Anthropic 的 AI 编程服务，可理解项目、规划并实现多文件修改、修复问题、运行测试和处理 Git 工作流。提供 CLI、桌面客户端、IDE 插件和网页版，可通过同一 Claude 订阅使用多个入口。
+* 官网：https://claude.com/product/claude-code
+* 官方文档：https://code.claude.com/docs/en/overview
+* 产品形态与入口：
+	* [桌面客户端](https://code.claude.com/docs/en/desktop)：集成在 Claude Desktop 的 Code 标签页中，可并行运行多个会话、查看代码差异、使用内置终端和预览应用。支持 macOS、Windows，Linux 版目前为测试版。
+	* CLI：在终端中操作本地代码库，可结合命令行工具与 MCP，也可用于脚本和自动化流程。
+	* 另提供 VS Code、JetBrains 等编辑器集成，以及无需本地安装的网页版。
+* 定价（官网订阅）：https://claude.com/pricing
+	* Pro：$20 / 月，或 $200 / 年；包含 Claude Code，可同时使用 Claude 的聊天与编程服务。
+	* Max 5x：$100 / 月，会话使用额度为 Pro 的 5 倍。
+	* Max 20x：$200 / 月，会话使用额度为 Pro 的 20 倍。两档 Max 均按月订阅，详见[Max 套餐说明](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)。
+	* Claude Free 不包含 Claude Code；团队可选择 Team 或 Enterprise，席位与用量规则见定价页。上述价格不含适用税费。
+
 ### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
 
 * 简介：GitHub 的 AI 编程助手，覆盖 VS Code、JetBrains IDE 等编辑器、终端 CLI、桌面应用和 GitHub 云端 Agent。支持代码补全、代码库问答、多文件修改和代码审查，可从 Issue 发起任务并通过 PR 交付修改。
@@ -140,8 +164,6 @@
 * 定价：https://github.com/features/copilot/plans
 	* 免费套餐：功能和用量均有限制，包含每月 2000 次代码补全，聊天及 Agent 用量有限。
 	* 专业版：Pro $10 / 月，代码补全不限量；聊天、Agent、代码审查等消耗 GitHub AI Credits，超出套餐额度可另行付费。
-* 推荐书籍：
-	* [《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book)
 
 ### Cursor
 
@@ -170,8 +192,6 @@
 	* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)：编辑器插件，支持 VS Code 和 JetBrains IDE 等。
 		* 定价：个人版（代码建议 + 参考跟踪 + 安全扫描）：免费
 * 终端编程 Agent：
-	* [Codex CLI](https://learn.chatgpt.com/docs/codex/cli)：OpenAI 的终端编程工具，可读取代码库、修改文件、执行命令和审查改动，也可用于脚本与 CI。支持 ChatGPT 账号登录或使用 API key，后者按 API 用量单独计费。
-	* [Claude Code](https://code.claude.com/docs/en/overview)：Anthropic 的编程 Agent，可在终端理解项目、修改代码、运行测试并处理 Git 工作流。需 Claude 订阅、Claude Console API 账号或受支持的云平台访问权限。
 	* [Qwen Code](https://github.com/QwenLM/qwen-code)：开源编程 Agent，支持终端、编辑器插件及桌面应用，可连接多家模型 API 或本地模型。支持 MCP、Skills 和代码审查。Apache-2.0 开源，需自行配置模型服务，费用与额度取决于所接入的服务。
 	* [Antigravity CLI](https://antigravity.google/product/antigravity-cli)：Google Antigravity 的终端入口，支持自然语言编程、后台多 Agent 协作，以及插件、MCP、Skills 和 Hooks。Gemini CLI 面向个人的免费服务及 Google AI Pro / Ultra 接入已停止服务，官方建议转用此产品，详见[官方说明](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)。
 	* [Trae Agent](https://github.com/bytedance/trae-agent)：字节跳动开源的命令行编程 Agent，支持多家模型、文件编辑、Shell 执行和操作轨迹记录。架构模块化，适合研究和定制编程 Agent；它与 Trae 编辑器是不同项目。MIT 开源，需配置模型服务。
