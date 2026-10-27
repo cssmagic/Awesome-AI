@@ -325,6 +325,7 @@
 		* 按需付费方案：$5.99 / 500 积分 或 $9.99 / 1000 积分
 * [Toolify.ai](https://www.toolify.ai/)：AI 工具分类导航目录。
 * [There's An AI For That (TAAFT)](https://theresanaiforthat.com/)：提问我的需求可以用哪些 AI 工具来实现。
+* [RespawnStack](https://respawnstack.com/)：面向游戏开发者的精选 AI 工具目录。
 * [通往 AGI 之路 / WayToAGI](https://www.waytoagi.com/)：AI 工具（包含网站和 GPTs）分类导航目录，也可搜索。
 * [CodeTrendy](https://codetrendy.com/)：包含 AI 工具的产品与 SaaS 导航目录，支持分类浏览、热门榜和替代品查找。提供免费只读 MCP 接口，供 AI 助手搜索条目，无需账号或 API 密钥。可免费提交产品，另有付费推广，付费 Verified 条目在 MCP 搜索中优先展示。
 * [ChandlerAi](https://chandler.bet/)：国内可用的 AI 助手，可调用 GPT-4、Claude 3 Opus、Gemini、DALL·E 等先进模型。需要付费。
