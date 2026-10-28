@@ -15,19 +15,16 @@
 
 
 
-## 大型语言模型 <a name="index--llm">&nbsp;</a>
+## 大型语言模型 <a name="index--llm"></a>
 
-### OpenAI GPT / ChatGPT <a name="gpt">&nbsp;</a>
+### OpenAI GPT / ChatGPT <a name="gpt"></a>
 
 * 简介：OpenAI 的 GPT 系列模型是全球最先进的大型语言模型之一。GPT 的原义是 “生成式预训练变换器”。目前全球最火的 AI 应用产品 ChatGPT 就是基于 GPT 模型实现的。
 * 官网：https://openai.com/api/
-* Playground：（不是免费的，会消耗你的 API 调用额度）
-	* Chat 模式：https://platform.openai.com/playground?mode=chat
-	* Assistants 模式：https://platform.openai.com/playground?mode=assistant
 * API：
 	* 定价：https://developers.openai.com/api/docs/pricing
 	* 官方文档：https://platform.openai.com/docs/overview
-* Web 产品（ChatGPT）： <a name="chatgpt">&nbsp;</a>
+* Web 产品（ChatGPT）： <a name="chatgpt"></a>
 	* 简介：ChatGPT 是目前全球最热门的 AI 应用产品，是一款能以自然语言对话进行交互的 AI 助手。除了对话之外，它还集成了绘画、代码解释器等功能。2022 年 11 月 30 日上线，2023 年 11 月推出 GPTs（自定义 ChatGPT），2024 年 1 月推出 GPTs 商店，持续引领 AI 领域的热潮。
 	* 入口：https://chatgpt.com/
 	* 定价（部分常用套餐，美元）：
@@ -35,9 +32,6 @@
 		* ChatGPT Plus：$20 / 月。
 		* ChatGPT Business：年付折合 $20 / 月 / 人，至少 2 人；月付 $25 / 月 / 人。
 		* 完整套餐、功能和使用额度见[官方说明](https://learn.chatgpt.com/docs/pricing)。ChatGPT 订阅与 API 调用单独计费。
-	* 相关资料：
-		* [ChatGPT 定制化进阶：四步成为 AI 对话高手](https://www.cssmagic.net/blog/wx/60)
-		* [买了 ChatGPT 会员却没用过 “代码解释器”？亏了，快看这三个案例](https://www.cssmagic.net/blog/wx/72)
 
 ### Claude
 
@@ -50,7 +44,7 @@
 	* [API 文档](https://docs.anthropic.com/en/api/getting-started)
 	* [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)：Anthropic 官方提供的案例演示
 
-### Google Gemini <a name="gemini">&nbsp;</a>
+### Google Gemini <a name="gemini"></a>
 
 * 简介：Google 开发的原生多模态大模型。不同模型的能力与适用场景见[官方模型列表](https://ai.google.dev/gemini-api/docs/models)。
 * 官网：https://ai.google.dev/
@@ -60,7 +54,7 @@
 * API 文档：https://ai.google.dev/tutorials/rest_quickstart
 * Web 产品（原 Bard 已更名为 Gemini）：https://gemini.google.com/app
 
-### 深度求索 / DeepSeek <a name="deepseek">&nbsp;</a>
+### 深度求索 / DeepSeek <a name="deepseek"></a>
 
 * 简介：深度求索推出的大模型系列，提供推理、代码生成和工具调用等能力。API 支持 OpenAI 和 Anthropic 兼容格式；其中 Flash 模型支持图片描述、截图文字识别和图表分析。
 * 官网：https://www.deepseek.com/
@@ -69,7 +63,7 @@
 	* 定价：https://api-docs.deepseek.com/zh-cn/quick_start/pricing/
 * Web 产品：https://chat.deepseek.com/
 
-### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm">&nbsp;</a>
+### 智谱 GLM / ChatGLM（智谱清言） <a name="chatglm"></a>
 
 * 简介：清华智谱团队推出的大模型。有开源版本，可私有化部署。
 * 官网：https://models.aminer.cn/glm-130b/
@@ -84,10 +78,6 @@
 * API 文档：https://platform.moonshot.cn/
 	* 定价：https://platform.moonshot.cn/pricing
 * Web 产品（Kimi 智能助手，原 Kimi Chat）：https://kimi.moonshot.cn/
-* 更多介绍：
-	* [性能超出预期！神秘的国产大模型 Kimi 开放 API](https://www.cssmagic.net/blog/wx/68)
-	* [解答 Kimi API 常见问题，顺便探讨 AI 应用开发的那些事儿](https://www.cssmagic.net/blog/wx/69)
-	* [Kimi API 还没用起来？请看这篇无门槛快速入门指南](https://www.cssmagic.net/blog/wx/70)
 
 ### 更多
 
@@ -127,9 +117,9 @@
 
 
 
-## AI 编程 <a name="index--programming">&nbsp;</a>
+## AI 编程 <a name="index--programming"></a>
 
-### Codex <a name="codex">&nbsp;</a>
+### Codex <a name="codex"></a>
 
 * 简介：OpenAI 的 AI 编程服务，可理解代码库、实现功能、修复问题、运行命令和审查改动。提供 CLI、桌面客户端、IDE 插件及云端任务等多种使用方式，适合从日常代码修改到持续跟进项目任务。
 * 产品形态与入口：
@@ -142,7 +132,7 @@
 	* Pro：有 $100、$200、$500 / 月三个档位，包含 Plus 功能，并提供更多使用额度。
 	* Business：年付折合 $20 / 月 / 人，至少 2 人；月付 $25 / 月 / 人。提供团队工作区和管理能力；Enterprise、Edu 另行联系销售。
 
-### Claude Code <a name="claude-code">&nbsp;</a>
+### Claude Code <a name="claude-code"></a>
 
 * 简介：Anthropic 的 AI 编程服务，可理解项目、规划并实现多文件修改、修复问题、运行测试和处理 Git 工作流。提供 CLI、桌面客户端、IDE 插件和网页版，可通过同一 Claude 订阅使用多个入口。
 * 官网：https://claude.com/product/claude-code
@@ -157,7 +147,7 @@
 	* Max 20x：$200 / 月，会话使用额度为 Pro 的 20 倍。两档 Max 均按月订阅，详见[Max 套餐说明](https://support.claude.com/en/articles/11049741-what-is-the-max-plan)。
 	* Claude Free 不包含 Claude Code；团队可选择 Team 或 Enterprise，席位与用量规则见定价页。上述价格不含适用税费。
 
-### GitHub Copilot <a name="gitub-copilot">&nbsp;</a>
+### GitHub Copilot <a name="gitub-copilot"></a>
 
 * 简介：GitHub 的 AI 编程助手，覆盖 VS Code、JetBrains IDE 等编辑器、终端 CLI、桌面应用和 GitHub 云端 Agent。支持代码补全、代码库问答、多文件修改和代码审查，可从 Issue 发起任务并通过 PR 交付修改。
 * 官网：https://github.com/features/copilot
@@ -217,21 +207,21 @@
 
 
 
-## AI 绘画 / 音频视频创作 <a name="index--art">&nbsp;</a>
+## AI 绘画 / 音频视频创作 <a name="index--art"></a>
 
 ### AI 绘画
 
-* [Midjourney](https://www.midjourney.com/home)<a name="midjourney">&nbsp;</a>：是一款热门的 AI 绘画工具，早期依托 Discord 平台提供服务，现已推出独立网页版应用。它易于入门，作品风格华丽，适合初学者探索 AI 艺术创作，创造独特的视觉作品。
+* [Midjourney](https://www.midjourney.com/home)<a name="midjourney"></a>：是一款热门的 AI 绘画工具，早期依托 Discord 平台提供服务，现已推出独立网页版应用。它易于入门，作品风格华丽，适合初学者探索 AI 艺术创作，创造独特的视觉作品。
 	* 定价：
 		* 基础版套餐（3.3h Fast Time）：$10 / 月
 		* 标准版套餐（15h Fast Time + Unlimited Relax Time）：$30 / 月
 		* 专业版套餐（30h Fast Time + Unlimited Relax Time）：$60 / 月
 		* 至尊版套餐（60h Fast Time + Unlimited Relax Time）：$120 / 月
 
-* [OpenAI 图像生成 / GPT Image](https://developers.openai.com/api/docs/guides/image-generation)<a name="dall-e">&nbsp;</a>：OpenAI 的图像生成与编辑模型，可通过提示词创建图片或修改现有图片。开发者可通过 Images API 或 Responses API 接入，API 单独计费。
+* [OpenAI 图像生成 / GPT Image](https://developers.openai.com/api/docs/guides/image-generation)<a name="dall-e"></a>：OpenAI 的图像生成与编辑模型，可通过提示词创建图片或修改现有图片。开发者可通过 Images API 或 Responses API 接入，API 单独计费。
 	* 历史模型：DALL·E 2 和 DALL·E 3 的 API 已于 2026 年 5 月 12 日停用，详见[官方弃用公告](https://developers.openai.com/api/docs/deprecations)。
 
-* [Stable Diffusion](https://stability.ai/stable-image)<a name="sd">&nbsp;</a>：是一款先进的人工智能图像生成模型，由 Stability AI 开发。可本地部署。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
+* [Stable Diffusion](https://stability.ai/stable-image)<a name="sd"></a>：是一款先进的人工智能图像生成模型，由 Stability AI 开发。可本地部署。因其开源特性，发展迅速，已经成长为一个庞大的生态，广泛应用于艺术创作、设计和多媒体制作等领域。
 	* 扩展：
 		* ComfyUI：https://github.com/Comfy-Org/ComfyUI
 			* 中文学习社区：https://www.comflowy.com/zh-CN
@@ -333,7 +323,7 @@
 
 
 
-## 常用 AI 网站 / 工具 <a name="index--tools">&nbsp;</a>
+## 常用 AI 网站 / 工具 <a name="index--tools"></a>
 
 ### 综合平台
 
@@ -364,8 +354,7 @@
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [igly.ai](https://igly.ai)：在线 AI 图片编辑平台，支持去背景、局部重绘、高清放大、生成式填充等功能，适合快速处理商品图、设计素材和社媒图片。
 * [Photoroom](https://www.photoroom.com/zh)：在线 AI 图片处理工具。免费用户可使用抠图、擦除、照片优化功能。
-* 抠图：
-	* [四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
+* AI 抠图工具：[四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
 
 ### 写作 / PPT 幻灯片
 
@@ -448,9 +437,9 @@
 
 ---
 
-## 常见问题 <a name="faq">&nbsp;</a>
+## 常见问题 <a name="faq"></a>
 
-### 有什么简便的方式可以使用 Codex 和 ChatGPT 高级功能？ <a name="help">&nbsp;</a>
+### 有什么简便的方式可以使用 Codex 和 ChatGPT 高级功能？ <a name="help"></a>
 
 为了获得最完整的 Codex 体验，建议购买官方的 ChatGPT Plus 套餐。
 
