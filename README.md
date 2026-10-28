@@ -213,6 +213,7 @@
 	* [deed.page](https://deed.page)：面向 AI 编程 Agent 的静态网站托管服务，通过 HTTP API、MCP 或 [Agent Skill](https://github.com/f-o-x11/deed-page-skill) 发布 HTML 页面或静态文件夹，无需注册账号，生成的公开链接默认无到期时间。单次发布请求上限为 4 MB，较大站点需分步上传，详见[文档](https://deed.page/docs)。
 		* 定价：有额度限制的免费套餐及付费订阅。
 	* [agent-qa](https://github.com/vostride/agent-qa)：用自然语言测试网页、Android 和 iOS 应用的 QA Agent，保留运行证据，并通过 memidex 记忆引擎保存和复用已验证的测试经验。提供 CLI、可视化面板、MCP 和 Agent Skills。源码可见，采用限制竞争性用途的 FSL-1.1-ALv2；许可允许的用途无需软件费用，模型及外部浏览器／设备服务费用另计。
+	* [npmscan](https://github.com/salemalem/npmscan-mcp-plugin)：npm 依赖安全检查的 MCP 服务器与 Claude Code 插件，让 AI 编程 Agent 在推荐、安装或升级 npm 包之前，先检查恶意包、已知漏洞（OSV、GitHub Security Advisories、NVD）、仿冒包名、维护者变更、安装脚本和发布来源证明，也可审计整个 package.json / lockfile。远程 MCP 地址为 `https://npmscan.com/api/mcp`，只读、免费，无需注册或 API Key，每个 IP 限速 30 次／分钟。插件和 Skills 为 MIT 开源，服务端不开源；查询的包名和依赖清单会发送到 npmscan.com。
 
 
 
