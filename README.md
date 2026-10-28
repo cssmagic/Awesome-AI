@@ -388,6 +388,7 @@
 * [RespawnStack](https://respawnstack.com/)：面向游戏开发者的精选 AI 工具目录。
 * [通往 AGI 之路 / WayToAGI](https://www.waytoagi.com/)：AI 工具（包含网站和 GPTs）分类导航目录，也可搜索。
 * [CodeTrendy](https://codetrendy.com/)：包含 AI 工具的产品与 SaaS 导航目录，支持分类浏览、热门榜和替代品查找。提供免费只读 MCP 接口，供 AI 助手搜索条目，无需账号或 API 密钥。可免费提交产品，另有付费推广，付费 Verified 条目在 MCP 搜索中优先展示。
+* [Creati.ai](https://creati.ai/)：AI 工具与智能体分类导航目录，收录 28,000+ 款，支持 9 种语言，提供每日 AI 资讯和月度排行。收录产品需付费。
 * [ChandlerAi](https://chandler.bet/)：国内可用的 AI 助手，可调用 GPT-4、Claude 3 Opus、Gemini、DALL·E 等先进模型。需要付费。
 
 ### 图像处理 / 图形设计 / UI 设计
