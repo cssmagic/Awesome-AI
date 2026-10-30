@@ -327,6 +327,7 @@
 
 * [Suno](https://suno.com/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
 * [天工 AI 音乐](https://www.tiangong.cn/music)：根据歌名、歌词、参考音频创作音乐，可由 AI 帮写歌词。
+* [Tera Studio](https://terastudio.co/zh-hans/)：对着手机唱约 1 分钟（唱满 2 分钟更像你），AI 学会你的歌声后，把你上传的任意一首歌用你的声音唱回来，任何语言都行。有免费配额（2 首完整歌曲），无需绑卡。
 
 ### 音频视频处理
 
