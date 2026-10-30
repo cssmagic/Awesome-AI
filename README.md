@@ -229,10 +229,10 @@
 		* 至尊版套餐（60h Fast Time + Unlimited Relax Time）：$120 / 月
 
 * [OpenAI 图像生成 / GPT Image](https://developers.openai.com/api/docs/guides/image-generation)<a name="dall-e"></a>：OpenAI 的图像生成与编辑模型，可通过提示词创建图片或修改现有图片。开发者可通过 Images API 或 Responses API 接入，API 单独计费。
-	* [GPT Image 2](https://developers.openai.com/api/docs/models/gpt-image-2) / ChatGPT Images 2.0：2026 年 4 月推出，支持灵活尺寸和高保真参考图输入。文字排版、多语言文字和复杂指令跟随是这一代的主要看点，发布时受到设计与营销类媒体的关注，见[相关报道](https://www.tomsguide.com/ai/chatgpt-launched-images-2-0-and-its-the-first-one-designers-might-actually-use)。API 模型名为 `gpt-image-2`；同系列后续已有 2.5 模型，接入时以官方文档为准。
+	* [GPT Image 2](https://developers.openai.com/api/docs/models/gpt-image-2) / ChatGPT Images 2.0：2026 年 4 月推出，支持灵活尺寸和高保真参考图输入。文字排版、多语言文字和复杂指令跟随是这一代的主要看点，发布时受到设计与营销类媒体的关注。API 模型名为 `gpt-image-2`；同系列后续已有 2.5 模型，接入时以官方文档为准。
 	* 历史模型：DALL·E 2 和 DALL·E 3 的 API 已于 2026 年 5 月 12 日停用，详见[官方弃用公告](https://developers.openai.com/api/docs/deprecations)。
 
-* [Nano Banana / Gemini 图像生成](https://deepmind.google/models/gemini-image/)：Google 的图像生成与编辑模型系列，可通过对话改图、融合参考图，并在连续编辑中保持人物和物体的一致性。初代于 2025 年 8 月因图像编辑效果走红，见[当时的报道](https://www.axios.com/2025/08/26/nano-banana-google-ai-images)。可在 [Gemini](https://gemini.google.com/) 中使用，开发者可通过 Google AI Studio 和 API 接入。
+* [Nano Banana / Gemini 图像生成](https://deepmind.google/models/gemini-image/)：Google 的图像生成与编辑模型系列，可通过对话改图、融合参考图，并在连续编辑中保持人物和物体的一致性。初代于 2025 年 8 月因图像编辑效果走红。可在 Gemini 中使用，开发者可通过 Google AI Studio 和 API 接入。
 
 * [Ideogram](https://ideogram.ai/)：图像生成与编辑平台，擅长带文字的海报、封面、标志和商品设计。以图片中的英文文字生成能力出名，[Contra Labs 的设计师评测](https://contralabs.com/research/ideogram-v4-typography-leader)认可其文字排版和成稿表现；复杂文字仍需人工校对。提供网页版和 API。
 
@@ -249,15 +249,15 @@
 
 * [Recraft](https://www.recraft.ai/)：面向设计师的 AI 图像生成与编辑平台，可生成插画、品牌素材，也能直接生成可编辑的 SVG 矢量图。2024 年 V3 曾以 “red_panda” 代号登上 Artificial Analysis 图像竞技场榜首，见[当时的发布介绍](https://blog.fal.ai/announcing-red_panda-by-recraft/)。提供网页版和 API，适合需要继续编辑、缩放的图形素材。
 
-* [Adobe Firefly](https://www.adobe.com/products/firefly.html)：Adobe 的生成式创作平台及模型系列，提供文生图、图像编辑和生成式填充，并整合进 Photoshop 等设计工具。专业设计场景中，它以 Adobe 工作流整合及自有模型的训练素材授权路线受到关注，见[行业报道](https://www.digitalcameraworld.com/tech/software/photoshop-can-now-use-third-party-ai-for-generative-fill-but-what-is-each-model-best-for-and-when-should-you-switch-from-firefly-to-nano-banana-or-flux)。平台也接入第三方模型，相关条件需分别查看。
+* [Adobe Firefly](https://www.adobe.com/products/firefly.html)：Adobe 的生成式创作平台及模型系列，提供文生图、图像编辑和生成式填充，并整合进 Photoshop 等设计工具。专业设计场景中，它以 Adobe 工作流整合及自有模型的训练素材授权路线受到关注。平台也接入第三方模型，相关条件需分别查看。
 
 * [Rao Edits](https://raoedits.top/)：面向创作者的在线 AI 图像生成与参考图编辑平台，适用于社交媒体、营销视觉和产品概念图。
 
 ### AI 视频生成
 
-* [Seedance](https://seed.bytedance.com/en/seedance2_5)：字节跳动 Seed 团队的视频生成模型系列，支持结合文本、图片、音频和视频参考素材生成有声视频。2.0 在 2026 年 2 月因电影感短片广泛传播，也引发影视业的版权争议，见[相关报道](https://www.axios.com/2026/02/20/hollywood-seedance-intellectual-property)。后续 2.5 支持单次生成最长 30 秒视频及更精细的参考控制、视频编辑。
+* [Seedance](https://seed.bytedance.com/en/seedance2_5)：字节跳动 Seed 团队的视频生成模型系列，支持结合文本、图片、音频和视频参考素材生成有声视频。2.0 在 2026 年 2 月因电影感短片广泛传播，也引发影视业的版权争议。后续 2.5 支持单次生成最长 30 秒视频及更精细的参考控制、视频编辑。
 	* 使用入口：[即梦 AI](https://jimeng.jianying.com/ai-tool/home)；模型开放范围依产品、地区和套餐而定。
-* [MiniMax 视频模型 / 海螺 AI](https://hailuoai.video/)：MiniMax 的视频生成模型及创作产品，Hailuo 系列支持文生视频、图生视频，[Hailuo 2.3](https://www.minimax.cn/news/minimax-hailuo-23)以人物动作、微表情和动态镜头为主要看点。此前 Hailuo 02 在 2025 年 6 月因 “猫咪跳水” 等短片走红，见[相关报道](https://www.techradar.com/computing/artificial-intelligence/forget-virtual-pets-the-next-ai-video-craze-is-cats-doing-olympic-diving-and-its-all-thanks-to-this-new-google-veo-3-rival)。提供网页创作和官方 API。
+* [MiniMax 视频模型 / 海螺 AI](https://hailuoai.video/)：MiniMax 的视频生成模型及创作产品，Hailuo 系列支持文生视频、图生视频，[Hailuo 2.3](https://www.minimax.cn/news/minimax-hailuo-23)以人物动作、微表情和动态镜头为主要看点。提供网页创作和官方 API。
 	* 后续模型：[MiniMax H3](https://www.minimax.io/blog/minimax-h3)支持多模态参考与编辑、原生立体声音频，以及最长 15 秒的 2K 视频生成。
 * [Google Veo](https://deepmind.google/models/veo/)：Google DeepMind 的视频生成模型，可结合文本或参考图生成视频、对白、环境声和音效。是原生音视频生成的代表性产品，可在 [Gemini](https://gemini.google.com/) 和 [Flow](https://labs.google/flow/) 等产品中使用，适合短片、广告和分镜创作。
 	* API：Gemini API 中的 Veo 3.1 预览模型已于 2026 年 10 月 22 日关闭；开发者应按[官方迁移说明](https://ai.google.dev/gemini-api/docs/video)选择 Gemini Omni Flash 或企业平台中的正式版模型。
@@ -365,7 +365,7 @@
 * 云端托管：
 	* [Muse AI](https://muse.ai/)：Meta 的个人 AI Agent，在专属云端虚拟机中使用浏览器和应用，处理邮件、日程、购物及长期目标，可从 Muse 应用或 WhatsApp 交办任务。2026 年 9 月推出后受到关注，[媒体体验](https://www.techradar.com/ai-platforms-assistants/i-tried-metas-new-muse-ai-agent-its-incredibly-useful-but-handing-it-my-digital-life-felt-deeply-uncomfortable)既认可代办日常事务的实用性，也对交出个人数据和账号权限表示顾虑。按[官方发布说明](https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/)，首发面向美国市场，其他地区以实际开放范围为准。
 	* [Grok Bot](https://x.ai/bot)：可长期保留记忆与工作环境的云端 AI Agent，每个 Bot 有独立的浏览器、文件系统和终端，支持跨应用任务、多 Bot 协作、示范学习和定时执行。2026 年 8 月上线测试，早期用户[认可其代办工作能力](https://www.reddit.com/r/cursor/comments/1vvx2fg/is_grok_bot_worth_it/)，也有[用量成本偏高的反馈](https://www.reddit.com/r/GrokAiDiscussion/comments/1w7vosc/grok_bot_is_expensive/)。支持的平台、订阅与账号接入条件见[官方文档](https://docs.x.ai/grok-bot/overview)。
-	* [Manus](https://manus.im/)：通用 AI Agent，可在云端执行研究、数据分析、网站开发和文档制作，也提供桌面、移动端及自动化功能。2025 年 3 月因自主执行复杂任务的演示走红，是推动通用 Agent 出圈的代表产品，见[当时的报道](https://www.axios.com/2025/03/10/manus-chinese-ai-agent-deepseek)。[Manus 2.0](https://manus.im/blog/introducing-manus-2-0)进一步整合文档、表格、幻灯片、网站和视频工作区；服务额度与云端资源按套餐计费。
+	* [Manus](https://manus.im/)：通用 AI Agent，可在云端执行研究、数据分析、网站开发和文档制作，也提供桌面、移动端及自动化功能。2025 年 3 月因自主执行复杂任务的演示走红，是推动通用 Agent 出圈的代表产品。[Manus 2.0](https://manus.im/blog/introducing-manus-2-0)进一步整合文档、表格、幻灯片、网站和视频工作区；服务额度与云端资源按套餐计费。
 	* [Genspark](https://www.genspark.ai/)：以通用 Agent 为核心的 AI 工作空间，可进行研究、生成幻灯片与表格，并连接外部工具执行任务。2025 年 Super Agent 以“一句话交办完整任务”和代打电话等演示受到关注，见[产品与应用案例](https://www.genspark.ai/blog/genspark-less-control-more-tools)。另提供 [Genspark Claw](https://www.genspark.ai/genspark-claw)，把常驻云端电脑、记忆和聊天渠道结合为个人助手。
 
 ### 综合平台
