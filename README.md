@@ -300,7 +300,6 @@
 * 剪映：可生成数字人播报视频。
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
 * [Eleven Labs](https://elevenlabs.io/)：文本转语音（TTS），通过文字描述生成音效，语音克隆，视频翻译配音。有 API。
-* [声之帆 VoxSail](https://voxsail.com/zh/)：浏览器端音视频本地化工作台，将语音转录、字幕翻译、AI 配音与在线审校放在同一流程中，可按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。提供一次性体验积分，持续使用可选择付费订阅或积分加购。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 * [CosyVoice](https://github.com/QwenAudio/CosyVoice)：多语言语音合成与零样本声音克隆项目，支持中文方言、跨语言克隆、流式输入输出，以及情绪、语速等指令控制。代码和模型权重已公开，可本地部署；代码采用 Apache-2.0 许可。
 * [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/docs/cn/README.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
@@ -334,6 +333,7 @@
 
 * [vocal-separate](https://github.com/jianchang512/vocal-separate)：一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网。已开源。
 * [pyVideoTrans](https://pyvideotrans.com/)：开源视频翻译软件，一键字幕生成 + 字幕翻译 + 创建配音 + 合成 = 带字幕和配音的新视频。
+* [声之帆 VoxSail](https://voxsail.com/zh/)：在线音视频本地化工作台，处理已有音视频，将语音转录、字幕翻译、AI 配音与在线审校放在同一流程中，可按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。提供一次性体验积分，持续使用需付费订阅，可在订阅有效期内加购积分。
 * [GVS 硬字幕提取](https://pyvideotrans.com/aiocr)：智能识别视频硬字幕，快速提取，支持中英文。
 
 ### 其他创作工具
@@ -399,6 +399,7 @@
 
 * [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNG → SVG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
+* [CoverNice](https://covernice.com/)：面向亚马逊 KDP 的 AI 封面设计工具，根据书名和简介生成多个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，可导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面。只做封面，不做内页与 EPUB；书脊计算器免注册。AI 生成消耗积分，未充值账号导出 AI 底图会带水印。
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [igly.ai](https://igly.ai)：在线 AI 图片编辑平台，支持去背景、局部重绘、高清放大、生成式填充等功能，适合快速处理商品图、设计素材和社媒图片。
 * [Photoroom](https://www.photoroom.com/zh)：在线 AI 图片处理工具。免费用户可使用抠图、擦除、照片优化功能。
@@ -409,7 +410,6 @@
 * [Notion AI](https://www.notion.com/zh-cn/product/ai)：Notion 中的 AI 写作与工作助手，可起草文档、检索工作区信息，也可先建议修改，再由你逐项确认。AI 写作等核心功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用；Custom Agents 等功能另行计费，详见[定价页](https://www.notion.com/zh-cn/pricing)。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 * [ImagineYourBook](https://www.imagineyourbook.com/)：AI 写书工具，根据创意规划整本书结构并逐章起草小说、回忆录或非虚构作品，支持系列故事设定（story bible）保持多卷连贯，也能改写已有书稿，可导出 Word、EPUB。第一本 1 万字小书可免费写完，下载时开启 7 天试用（需绑定支付方式）。
-* [CoverNice](https://covernice.com/)：面向亚马逊 KDP 的封面设计工具，描述书名后给出五个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面。只做封面，不做内页与 EPUB；书脊计算器免注册。
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
 * [Gamma](https://gamma.app/)：AI 设计助手，生成 PPT、文档和网页，优化现有 PPT 和文档。
