@@ -409,6 +409,7 @@
 * [Notion AI](https://www.notion.com/zh-cn/product/ai)：Notion 中的 AI 写作与工作助手，可起草文档、检索工作区信息，也可先建议修改，再由你逐项确认。AI 写作等核心功能包含在 Business 和 Enterprise 套餐中，Free 和 Plus 套餐提供限量试用；Custom Agents 等功能另行计费，详见[定价页](https://www.notion.com/zh-cn/pricing)。
 * [蛙蛙写作](https://www.wawawriter.com/)：国产写作模型，写长篇小说、视频脚本、论文等。免费试用 3000 字。
 * [ImagineYourBook](https://www.imagineyourbook.com/)：AI 写书工具，根据创意规划整本书结构并逐章起草小说、回忆录或非虚构作品，支持系列故事设定（story bible）保持多卷连贯，也能改写已有书稿，可导出 Word、EPUB。第一本 1 万字小书可免费写完，下载时开启 7 天试用（需绑定支付方式）。
+* [CoverNice](https://covernice.com/)：面向亚马逊 KDP 的封面设计工具，描述书名后给出五个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面。只做封面，不做内页与 EPUB；书脊计算器免注册。
 * [讯飞智文](https://zhiwen.xfyun.cn/)：Word、PPT 一键生成、AI 撰写助手、多语种互译、AI 自动配图、PPT 转演讲稿等。
 * [腾讯文档](https://docs.qq.com/desktop)：AI 助手提供生成 PPT、生成文档、生成表格、生成思维导图、生成收集表等功能。
 * [Gamma](https://gamma.app/)：AI 设计助手，生成 PPT、文档和网页，优化现有 PPT 和文档。
