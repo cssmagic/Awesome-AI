@@ -300,6 +300,7 @@
 * 剪映：可生成数字人播报视频。
 * [HeyGen](https://www.heygen.com/)：生成数字人播报视频，视频翻译，语音克隆。
 * [Eleven Labs](https://elevenlabs.io/)：文本转语音（TTS），通过文字描述生成音效，语音克隆，视频翻译配音。有 API。
+* [声之帆 VoxSail](https://voxsail.com/zh/)：浏览器端音视频本地化工作台，将语音转录、字幕翻译、AI 配音与在线审校放在同一流程中，可按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。提供一次性体验积分，持续使用可选择付费订阅或积分加购。
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)：阿里发布的（图片 + 音频 → 视频）大模型，生成的人物嘴形和表情相当自然。
 * [CosyVoice](https://github.com/QwenAudio/CosyVoice)：多语言语音合成与零样本声音克隆项目，支持中文方言、跨语言克隆、流式输入输出，以及情绪、语速等指令控制。代码和模型权重已公开，可本地部署；代码采用 Apache-2.0 许可。
 * [ChatTTS](https://github.com/2noise/ChatTTS/blob/main/docs/cn/README.md)：开源的文本转语音（TTS）模型，支持中文和英文。可以控制停顿和笑声等人性化特征，生成结果自然流畅。
