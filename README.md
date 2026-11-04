@@ -446,6 +446,7 @@
 * [硅基流动](https://cmcm.link/p/siliconflow)：国内的 LLM API 聚合平台，提供 DeepSeek、Qwen 等系列模型的 API 服务。[相关攻略](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
 * [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的聚合 API，也已接入 ElevenLabs 的语音合成与语音识别模型，详见[语音接入说明](https://openrouter.ai/blog/announcements/elevenlabs-on-openrouter/)。
+* [UberLLM](https://uberllm.dev/zh)：一个 API Key 调用 GPT、Claude、Gemini、DeepSeek、GLM、Qwen、Kimi 等文本模型，以及图像、视频、音乐和语音模型，通常低于官方标价。兼容 OpenAI 和 Anthropic 接口，可直接用于 Claude Code、Codex 和 n8n。按量付费（银行卡或 PayPal 预充值，最低 $5，无免费额度），失败的请求不计费。
 
 ### 其他工具 / 开源项目
 
