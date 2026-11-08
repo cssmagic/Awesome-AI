@@ -214,6 +214,8 @@
 		* 定价：有额度限制的免费套餐及付费订阅。
 	* [agent-qa](https://github.com/vostride/agent-qa)：用自然语言测试网页、Android 和 iOS 应用的 QA Agent，保留运行证据，并通过 memidex 记忆引擎保存和复用已验证的测试经验。提供 CLI、可视化面板、MCP 和 Agent Skills。源码可见，采用限制竞争性用途的 FSL-1.1-ALv2；许可允许的用途无需软件费用，模型及外部浏览器／设备服务费用另计。
 	* [npmscan](https://github.com/salemalem/npmscan-mcp-plugin)：npm 依赖安全检查的 MCP 服务器与 Claude Code 插件，让 AI 编程 Agent 在推荐、安装或升级 npm 包之前，先检查恶意包、已知漏洞（OSV、GitHub Security Advisories、NVD）、仿冒包名、维护者变更、安装脚本和发布来源证明，也可审计整个 package.json / lockfile。远程 MCP 地址为 `https://npmscan.com/api/mcp`，只读、免费，无需注册或 API Key，每个 IP 限速 30 次／分钟。插件和 Skills 为 MIT 开源，服务端不开源；查询的包名和依赖清单会发送到 npmscan.com。
+	* [Imagera Code](https://imagera.ai/code)：在终端运行的 AI 编程 Agent，可读取和修改项目代码、运行命令和测试，支持非交互运行（`imagera-code run`，用于脚本和 CI），并可把 MCP 服务器作为工具。一个订阅可使用 Claude、GPT、Gemini 等数百个模型，用量额度每 3 小时重置，另有每周上限。通过 `npm i -g imagera-code` 安装，支持 macOS、Linux 和 Windows。
+		* 定价：付费订阅，$20/月起。
 
 
 
@@ -277,6 +279,8 @@
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine)：Luma AI 出品的视频生成模型。支持文生视频、图生视频，可生成 5 秒长度的视频。有免费额度。
 * [剪映专业版（国内版）](https://www.capcut.cn/) / [CapCut（海外版）](https://www.capcut.com/)：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
 * [pitchboom.io](https://pitchboom.io)：动效设计（motion design）视频广告 AI 制作工具。粘贴产品网址或用两行文字描述，自动撰写脚本、生成可编辑并确认的分镜、配旁白（34 种语言）和背景音乐，支持主流画幅比例，适用于 TikTok、Reels、YouTube Shorts 等平台的视频广告。注册即送 500 积分（每人一次，无需绑卡），之后付费订阅每月 30 欧元起（不含增值税）。
+* [Imagera](https://imagera.ai/)：网页端 AI 图片、视频、配音与音乐创作平台，可在同一工作区并排使用多款主流图像和视频模型，每次生成前显示积分价格。Character / Object / Location ID 让同一张脸、产品或场景在多张图片和多段视频中保持一致；AI Smart Director 可把一句提示词生成为带分镜、剪辑、配乐和旁白的多镜头短片。
+	* 定价：付费订阅（积分制）。
 
 ### 3D 建模
 
