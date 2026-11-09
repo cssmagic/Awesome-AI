@@ -191,6 +191,8 @@
 	* [Qwen Code](https://github.com/QwenLM/qwen-code)：开源编程 Agent，支持终端、编辑器插件及桌面应用，可连接多家模型 API 或本地模型。支持 MCP、Skills 和代码审查。Apache-2.0 开源，需自行配置模型服务，费用与额度取决于所接入的服务。
 	* [Antigravity CLI](https://antigravity.google/product/antigravity-cli)：Google Antigravity 的终端入口，支持自然语言编程、后台多 Agent 协作，以及插件、MCP、Skills 和 Hooks。Gemini CLI 面向个人的免费服务及 Google AI Pro / Ultra 接入已停止服务，官方建议转用此产品，详见[官方说明](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)。
 	* [Trae Agent](https://github.com/bytedance/trae-agent)：字节跳动开源的命令行编程 Agent，支持多家模型、文件编辑、Shell 执行和操作轨迹记录。架构模块化，适合研究和定制编程 Agent；它与 Trae 编辑器是不同项目。MIT 开源，需配置模型服务。
+	* [Imagera Code](https://imagera.ai/code)：在终端运行的 AI 编程 Agent，可读取和修改项目代码、运行命令和测试，支持非交互运行（`imagera-code run`，用于脚本和 CI），并可把 MCP 服务器作为工具。一个订阅可使用 Claude、GPT、Gemini 等数百个模型，用量额度每 3 小时重置，另有每周上限。通过 `npm i -g imagera-code` 安装，支持 macOS、Linux 和 Windows。
+		* 定价：专属订阅每月 20 美元起。已有 Imagera 付费套餐的用户也可按积分使用。
 * 网页设计与生成工具：
 	* [Bolt.new](https://bolt.new/)：StackBlitz 出品的 AI 编程工具，可在线生成、编辑、运行、部署全栈网站，一站式解决网站开发需求。支持多种基于 JS 的前后端技术栈。
 	* [Lovable](https://lovable.dev/)：通过对话创建和修改网站、全栈应用，可视化调整界面，并提供后端、身份认证和部署能力。是 Vibe Coding（用自然语言描述需求来编程）的热门产品；[Zapier 的实测对比](https://zapier.com/blog/lovable-vs-bolt/)尤其认可其界面观感和面向非技术创业者的易用性。
@@ -214,8 +216,6 @@
 		* 定价：有额度限制的免费套餐及付费订阅。
 	* [agent-qa](https://github.com/vostride/agent-qa)：用自然语言测试网页、Android 和 iOS 应用的 QA Agent，保留运行证据，并通过 memidex 记忆引擎保存和复用已验证的测试经验。提供 CLI、可视化面板、MCP 和 Agent Skills。源码可见，采用限制竞争性用途的 FSL-1.1-ALv2；许可允许的用途无需软件费用，模型及外部浏览器／设备服务费用另计。
 	* [npmscan](https://github.com/salemalem/npmscan-mcp-plugin)：npm 依赖安全检查的 MCP 服务器与 Claude Code 插件，让 AI 编程 Agent 在推荐、安装或升级 npm 包之前，先检查恶意包、已知漏洞（OSV、GitHub Security Advisories、NVD）、仿冒包名、维护者变更、安装脚本和发布来源证明，也可审计整个 package.json / lockfile。远程 MCP 地址为 `https://npmscan.com/api/mcp`，只读、免费，无需注册或 API Key，每个 IP 限速 30 次／分钟。插件和 Skills 为 MIT 开源，服务端不开源；查询的包名和依赖清单会发送到 npmscan.com。
-	* [Imagera Code](https://imagera.ai/code)：在终端运行的 AI 编程 Agent，可读取和修改项目代码、运行命令和测试，支持非交互运行（`imagera-code run`，用于脚本和 CI），并可把 MCP 服务器作为工具。一个订阅可使用 Claude、GPT、Gemini 等数百个模型，用量额度每 3 小时重置，另有每周上限。通过 `npm i -g imagera-code` 安装，支持 macOS、Linux 和 Windows。
-		* 定价：付费订阅，$20/月起。
 
 
 
@@ -280,7 +280,7 @@
 * [剪映专业版（国内版）](https://www.capcut.cn/) / [CapCut（海外版）](https://www.capcut.com/)：字节跳动出品的视频编辑工具，支持 Windows/Mac。它集成了大量基于 AI 技术的音视频处理功能，比如生成字幕、生成配音、降噪、变声、数字人、文生视频等等。
 * [pitchboom.io](https://pitchboom.io)：动效设计（motion design）视频广告 AI 制作工具。粘贴产品网址或用两行文字描述，自动撰写脚本、生成可编辑并确认的分镜、配旁白（34 种语言）和背景音乐，支持主流画幅比例，适用于 TikTok、Reels、YouTube Shorts 等平台的视频广告。注册即送 500 积分（每人一次，无需绑卡），之后付费订阅每月 30 欧元起（不含增值税）。
 * [Imagera](https://imagera.ai/)：网页端 AI 图片、视频、配音与音乐创作平台，可在同一工作区并排使用多款主流图像和视频模型，每次生成前显示积分价格。Character / Object / Location ID 让同一张脸、产品或场景在多张图片和多段视频中保持一致；AI Smart Director 可把一句提示词生成为带分镜、剪辑、配乐和旁白的多镜头短片。
-	* 定价：付费订阅（积分制）。
+	* 定价：按积分计费，支持订阅或单次购买积分包。
 
 ### 3D 建模
 
@@ -293,7 +293,7 @@
 * [Genie](https://lumalabs.ai/genie)：Luma AI 出品的一款通过文本生成 3D 模型的 AI 工具。目前依托 Discord 提供服务。
 * [Luma AI](https://lumalabs.ai/dashboard/captures)：通过视频来重建 3D 场景。你只需要有一台手持拍摄设备，按要求对物体进行 360°旋转拍摄。有网页版和 iOS App。
 * [3D-Agent](https://3d-agent.com/blender-ai)：Blender 桌面 AI Agent，用自然语言在当前场景中建模、制作材质、布置灯光、生成动画和渲染，也可对已有模型做重拓扑。支持 macOS 和 Windows，需 Blender 4.2 或更高版本。付费订阅，无免费试用。
-* [objekto.io](https://objekto.io/en)：用文字描述物品即可得到实物的 AI 设计与制造服务（法国）。用几句话、一张照片或一张草图描述，AI 逐个部件设计可直接 3D 打印的多部件模型，检查每个部件是否可打印，并提供爆炸图、零件清单和装配指南；随后由工业 3D 打印工坊制造并配送（上线初期仅配送至法国）。注册即送 2000 积分（一次性，无需绑卡），之后付费订阅每月 29 欧元起（含增值税）。
+* [objekto.io](https://objekto.io/en)：用文字描述物品即可得到实物的 AI 设计与制造服务（法国）。用几句话、一张照片或一张草图描述，AI 逐个部件设计可直接 3D 打印的多部件模型，检查每个部件是否可打印，并提供爆炸图、零件清单和装配指南；随后由工业 3D 打印工坊制造并配送（上线初期仅配送至法国）。注册一次性赠送 2,500 积分，无需绑卡。法国站按月订阅 29 欧元起（含增值税），实体打印另行收费。
 
 ### 数字人 / 语音驱动视频 / TTS
 
