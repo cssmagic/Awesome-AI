@@ -289,6 +289,7 @@
 * [Genie](https://lumalabs.ai/genie)：Luma AI 出品的一款通过文本生成 3D 模型的 AI 工具。目前依托 Discord 提供服务。
 * [Luma AI](https://lumalabs.ai/dashboard/captures)：通过视频来重建 3D 场景。你只需要有一台手持拍摄设备，按要求对物体进行 360°旋转拍摄。有网页版和 iOS App。
 * [3D-Agent](https://3d-agent.com/blender-ai)：Blender 桌面 AI Agent，用自然语言在当前场景中建模、制作材质、布置灯光、生成动画和渲染，也可对已有模型做重拓扑。支持 macOS 和 Windows，需 Blender 4.2 或更高版本。付费订阅，无免费试用。
+* [objekto.io](https://objekto.io/en)：用文字描述物品即可得到实物的 AI 设计与制造服务（法国）。用几句话、一张照片或一张草图描述，AI 逐个部件设计可直接 3D 打印的多部件模型，检查每个部件是否可打印，并提供爆炸图、零件清单和装配指南；随后由工业 3D 打印工坊制造并配送（上线初期仅配送至法国）。注册即送 2000 积分（一次性，无需绑卡），之后付费订阅每月 29 欧元起（含增值税）。
 
 ### 数字人 / 语音驱动视频 / TTS
 
