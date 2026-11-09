@@ -408,6 +408,7 @@
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [igly.ai](https://igly.ai)：在线 AI 图片编辑平台，支持去背景、局部重绘、高清放大、生成式填充等功能，适合快速处理商品图、设计素材和社媒图片。
 * [Photoroom](https://www.photoroom.com/zh)：在线 AI 图片处理工具。免费用户可使用抠图、擦除、照片优化功能。
+* [Enhance.Place](https://enhance.place/)：AI 图片与视频增强工具。网页版可免费把单张 JPG、PNG 或 WebP 图片（不超过 6 MB）放大 2 倍或 4 倍，无需登录，图片会上传到服务器处理；另有 Windows 10/11 应用，用本地显卡对照片和视频进行放大、降噪和修复，支持批量处理，导出结果需订阅。
 * AI 抠图工具：[四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
 
 ### 写作 / PPT 幻灯片
