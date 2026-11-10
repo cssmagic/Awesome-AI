@@ -465,6 +465,7 @@
 * [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)：LLM 辅助 OCR，通过大模型来提升 OCR 的准确性。
 * [PlaceCall](https://voygr.tech/placecall/)：AI 电话代理，替你给美国商家打真实电话（订位、预约、询价）。能应对语音菜单、等待和转接，通话中遇到需要你决定的问题会转回来问你，挂断后返回通话结果、文字记录和录音。可通过 MCP 服务器、REST API 或 Agent Skill 接入，可在主流 AI Agent 中使用。仅支持美国号码，当前不支持中文通话。有免费积分，之后按通话结果付费。客户端 MIT 开源，通话服务为闭源托管服务。
 * [Tarot Astral](https://t.me/Tar0_Astral_bot)：提供 AI 塔罗和占星解读的 Telegram 机器人。有三位风格不同的解读者，支持英语和俄语。首次解读免费，更多次数通过 Telegram Stars 付费。仅供娱乐。
+* [Prompt Generator](https://trypromptgenerator.com/)：按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、DeepSeek、Grok 等对话模型，Midjourney、Nano Banana、GPT Image、FLUX 等绘画模型，以及 Veo、Sora、Kling 等视频模型；也可上传图片反推提示词。提示词工具免费使用，无需注册，每台设备每天 10 次，注册免费账号每天 20 次；付费套餐 $9 / 月起，提示词工具不限次数，并附带站内图片和视频生成积分。
 
 ### 教程
 
