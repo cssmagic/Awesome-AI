@@ -451,6 +451,7 @@
 * [硅基流动](https://cmcm.link/p/siliconflow)：国内的 LLM API 聚合平台，提供 DeepSeek、Qwen 等系列模型的 API 服务。[相关攻略](https://mp.weixin.qq.com/s/UydlR9HVu2UYoBgtufMARg)
 * [API2D](https://cmcm.link/p/api2d)：提供 GPT 系列、Claude、嵌入、绘图等 API，高速稳定，支付便捷。
 * [OpenRouter](https://openrouter.ai/)：提供 GPT、Claude、Gemini、Llama、Qwen 等系列模型的聚合 API，也已接入 ElevenLabs 的语音合成与语音识别模型，详见[语音接入说明](https://openrouter.ai/blog/announcements/elevenlabs-on-openrouter/)。
+* [Imagera LLM API](https://imagera.ai/llm-api)：OpenAI 兼容的聚合 API，一个接口调用 48 家实验室的 320+ 个模型（GPT、Claude、Gemini、DeepSeek、Qwen 等），提供公开价目表。
 
 ### 其他工具 / 开源项目
 
