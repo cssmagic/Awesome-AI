@@ -408,7 +408,7 @@
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [igly.ai](https://igly.ai)：在线 AI 图片编辑平台，支持去背景、局部重绘、高清放大、生成式填充等功能，适合快速处理商品图、设计素材和社媒图片。
 * [Photoroom](https://www.photoroom.com/zh)：在线 AI 图片处理工具。免费用户可使用抠图、擦除、照片优化功能。
-* [Enhance.Place](https://enhance.place/)：AI 图片与视频增强工具。网页版可免费把单张 JPG、PNG 或 WebP 图片（不超过 6 MB）放大 2 倍或 4 倍，无需登录，图片会上传到服务器处理；另有 Windows 10/11 应用，用本地显卡对照片和视频进行放大、降噪和修复，支持批量处理，导出结果需订阅。
+* [Enhance.Place](https://enhance.place/)：AI 图片与视频增强工具。网页版可免费放大单张 JPG、PNG 或 WebP 图片，无需登录，图片会上传到服务器处理。输入不可超过 6 MB 和 800 万像素，支持 2 倍放大；输入在不超过 200 万像素时可选 4 倍放大。另有 Windows 10/11 应用，用本地显卡对照片和视频进行放大、降噪和修复，支持批量处理，导出结果需订阅。
 * AI 抠图工具：[四款免费的 AI 抠图工具，最后一个不敢相信！](https://www.cssmagic.net/blog/wx/56)
 
 ### 写作 / PPT 幻灯片
@@ -466,7 +466,7 @@
 * [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)：LLM 辅助 OCR，通过大模型来提升 OCR 的准确性。
 * [PlaceCall](https://voygr.tech/placecall/)：AI 电话代理，替你给美国商家打真实电话（订位、预约、询价）。能应对语音菜单、等待和转接，通话中遇到需要你决定的问题会转回来问你，挂断后返回通话结果、文字记录和录音。可通过 MCP 服务器、REST API 或 Agent Skill 接入，可在主流 AI Agent 中使用。仅支持美国号码，当前不支持中文通话。有免费积分，之后按通话结果付费。客户端 MIT 开源，通话服务为闭源托管服务。
 * [Tarot Astral](https://t.me/Tar0_Astral_bot)：提供 AI 塔罗和占星解读的 Telegram 机器人。有三位风格不同的解读者，支持英语和俄语。首次解读免费，更多次数通过 Telegram Stars 付费。仅供娱乐。
-* [Prompt Generator](https://trypromptgenerator.com/)：按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、DeepSeek、Grok 等对话模型，Midjourney、Nano Banana、GPT Image、FLUX 等绘画模型，以及 Veo、Sora、Kling 等视频模型；也可上传图片反推提示词。提示词工具免费使用，无需注册，每台设备每天 10 次，注册免费账号每天 20 次；付费套餐 $9 / 月起，提示词工具不限次数，并附带站内图片和视频生成积分。
+* [Prompt Generator](https://trypromptgenerator.com/)：按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、DeepSeek、Grok 等对话模型，Midjourney、Nano Banana、GPT Image、FLUX 等绘画模型，以及 Veo、Sora、Kling 等视频模型；也可上传图片反推提示词。提示词工具无需注册，有免费使用次数。付费套餐 $9 / 月起，提示词工具不限次数，并附带站内图片和视频生成积分。终身方案另有次数上限。
 
 ### 教程
 
