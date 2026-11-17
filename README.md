@@ -200,8 +200,7 @@
 	* [v0.dev](https://v0.dev/)：Vercel 出品的 AI 网页设计开发工具。通过对话生成网页，可一键发布。主力支持 shadcn/ui (React) + Tailwind 技术栈，后续会支持更多前端技术栈。有免费配额。
 	* [Wegic](https://wegic.ai/)：AI 驱动的网页 UI 设计和开发工具。通过自然对话快速生成网站，可通过对话持续修改，可一键发布。
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
-	* [EveryApp App Builder](https://everyapp.pro/app-builder)：面向不会编程的用户，用自然语言描述想要的应用，即可生成一个属于自己的私人 Web 应用，拥有独立网址，只对自己和邀请的人开放。无需写代码，App Builder 页面为英文。
-		* 定价：有额度限制的免费套餐及付费 Pro 订阅。
+	* [EveryApp App Builder](https://everyapp.pro/app-builder)：用自然语言生成私人 Web 应用，由 EveryApp 托管并分配独立网址，可邀请他人访问。创建应用需订阅 Pro。
 * 其他工具：
 	* [OpenHands（原 OpenDevin）](https://openhands.dev/)：开源软件工程 Agent 平台，可读写代码、执行命令和使用浏览器，另提供 Agent Canvas，集中管理本地、远程或云端的编程任务与自动化。是开源软件工程 Agent 领域较有影响力的项目，[源码仓库](https://github.com/OpenHands/OpenHands)截至 2026 年 10 月已有 9 万余 Star。核心项目 MIT 开源，可自托管；模型和托管服务费用另计。
 	* [Augment Code](https://www.augmentcode.com/product)：基于代码库上下文的 AI 编程平台，提供 CLI 和 Cosmos 云端 Agent 等产品形态。Standard 套餐 $20 / 月，含每月 $20 使用额度，团队共享；具体套餐和用量规则见[定价页](https://www.augmentcode.com/pricing)。
@@ -432,7 +431,7 @@
 * [Elicit](https://elicit.com/)：以超人速度分析论文。自动化耗时的研究任务，如总结论文、提取数据和汇总结论。
 * [Monica](https://monica.im/)：多功能 AI 工具箱，有浏览器插件、桌面应用和移动 App。最为人熟知的功能是基于网页内容的总结和问答。
 * 剪映：可识别语音生成字幕。
-* [DisconfirmAI](https://disconfirmai.com/zh)：AI 与投资研究平台。每天整理公开来源的 AI 与投资信息，每条保留原文链接和日期；可以带着材料继续研究财报和数据，结论里分开写已核验、推断和存疑的部分，并列出最可能推翻判断的证据。另有雷达功能，按设定的公司、主题或条件定时扫描变化。不荐股，不代下单。公开阅读免费，研究与跟踪需 Google 登录。
+* [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究平台，整理附有原文链接和日期的公开资料，帮助研究财报、区分事实与推断，并按公司或主题跟踪变化。公开内容可直接阅读，研究和跟踪功能需登录。
 
 ### 定制知识库 / RAG
 
