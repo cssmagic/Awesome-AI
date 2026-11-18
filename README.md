@@ -282,6 +282,9 @@
 * [pitchboom.io](https://pitchboom.io)：动效设计（motion design）视频广告 AI 制作工具。粘贴产品网址或用两行文字描述，自动撰写脚本、生成可编辑并确认的分镜、配旁白（34 种语言）和背景音乐，支持主流画幅比例，适用于 TikTok、Reels、YouTube Shorts 等平台的视频广告。注册即送 500 积分（每人一次，无需绑卡），之后付费订阅每月 30 欧元起（不含增值税）。
 * [Imagera](https://imagera.ai/)：网页端 AI 图片、视频、配音与音乐创作平台，可在同一工作区并排使用多款主流图像和视频模型，每次生成前显示积分价格。Character / Object / Location ID 让同一张脸、产品或场景在多张图片和多段视频中保持一致；AI Smart Director 可把一句提示词生成为带分镜、剪辑、配乐和旁白的多镜头短片。
 	* 定价：按积分计费，支持订阅或单次购买积分包。
+* [Angry Dance](https://angrydance.com/zh)：网页端单张照片 AI 跳舞与图生视频创作平台。上传一张人像或猫狗宠物照片，可调用 Kling 2.5 Turbo、Kling 3.0 动作控制、Hailuo 2.3 Fast 与 Muse Video 等模型生成无水印竖屏跳舞、宠物跳舞和温情拥抱短片，每次生成前明码显示所需积分；另附每日短视频 AI 热梗趋势雷达。
+	* 定价：按积分计费，支持单次购买积分包（$4.99 / 500 积分起），详见[定价页](https://angrydance.com/zh/pricing)。
+
 
 ### 3D 建模
 
