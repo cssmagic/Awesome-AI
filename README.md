@@ -282,6 +282,7 @@
 * [pitchboom.io](https://pitchboom.io)：动效设计（motion design）视频广告 AI 制作工具。粘贴产品网址或用两行文字描述，自动撰写脚本、生成可编辑并确认的分镜、配旁白（34 种语言）和背景音乐，支持主流画幅比例，适用于 TikTok、Reels、YouTube Shorts 等平台的视频广告。注册即送 500 积分（每人一次，无需绑卡），之后付费订阅每月 30 欧元起（不含增值税）。
 * [Imagera](https://imagera.ai/)：网页端 AI 图片、视频、配音与音乐创作平台，可在同一工作区并排使用多款主流图像和视频模型，每次生成前显示积分价格。Character / Object / Location ID 让同一张脸、产品或场景在多张图片和多段视频中保持一致；AI Smart Director 可把一句提示词生成为带分镜、剪辑、配乐和旁白的多镜头短片。
 	* 定价：按积分计费，支持订阅或单次购买积分包。
+* [BeatMV](https://beatmv.ai/)：AI 音乐视频生成工具（AI music video generator），上传一首歌就能生成跟着节拍走的音乐 MV。
 
 ### 3D 建模
 
@@ -334,6 +335,7 @@
 * [Suno](https://suno.com/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
 * [天工 AI 音乐](https://www.tiangong.cn/music)：根据歌名、歌词、参考音频创作音乐，可由 AI 帮写歌词。
 * [Tera Studio](https://terastudio.co/zh-hans/)：AI 歌声克隆与翻唱工具，用约 1～2 分钟的歌声样本训练个人音色，再将已有歌曲的人声转换为该音色。新账号可免费获得 2 次站内完整歌曲试听，每首最长 4 分钟，无需绑卡；下载需付费。
+* [BeatMusic](https://beatmusic.ai/)：AI 音乐生成工具，输入一句想法或歌词，几分钟生成带人声的完整原创歌曲。
 
 ### 音频视频处理
 
