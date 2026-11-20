@@ -284,6 +284,9 @@
 * [Imagera](https://imagera.ai/)：网页端 AI 图片、视频、配音与音乐创作平台，可在同一工作区并排使用多款主流图像和视频模型，每次生成前显示积分价格。Character / Object / Location ID 让同一张脸、产品或场景在多张图片和多段视频中保持一致；AI Smart Director 可把一句提示词生成为带分镜、剪辑、配乐和旁白的多镜头短片。
 	* 定价：按积分计费，支持订阅或单次购买积分包。
 * [BeatMV](https://beatmv.ai/)：AI 音乐视频生成工具（AI music video generator），上传一首歌就能生成跟着节拍走的音乐 MV。
+* [Angry Dance](https://angrydance.com/zh)：网页端单张照片 AI 跳舞与图生视频创作平台。上传一张人像或猫狗宠物照片，可调用 Kling 2.5 Turbo、Kling 3.0 动作控制、Hailuo 2.3 Fast 与 Muse Video 等模型生成无水印竖屏跳舞、宠物跳舞和温情拥抱短片，每次生成前明码显示所需积分；另附每日短视频 AI 热梗趋势雷达。
+	* 定价：按积分计费，支持单次购买积分包（$4.99 / 500 积分起），详见[定价页](https://angrydance.com/zh/pricing)。
+
 
 ### 3D 建模
 
