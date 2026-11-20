@@ -210,6 +210,7 @@
 	* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：开源的 AI 编程 Agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、OpenCode 等。免费开源，本地运行。
 	* [CurlShot](https://curlshot.com/)：网页截图 API，并提供 MCP 服务器，让 Claude Code、Cursor 等 AI 编程 Agent 能 “看到” 网页。一次 HTTP 请求即可把 URL、HTML 或 Markdown 渲染为 PNG、JPEG、WebP、PDF 或滚动视频（MP4、WebM、GIF），基于真实浏览器（Headless Chromium）。另提供 OpenAPI 3.1、llms.txt 和 n8n 社区节点。有免费额度，付费套餐按截图额度订阅。
 	* [Frink](https://frink.dev/)：本地运行的 AI 编程 Agent 工作台，提供多 Agent 并行、可视化工作流、定时触发及人工审批节点。工作流支持 Claude Code 和 Codex，另提供其他 Agent 的预览接入。MIT 开源，本地运行，支持 macOS 和 Linux。软件免费，所接入的 Agent／模型服务费用另计。
+	* [Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API)：Apache-2.0 开源的自托管工具，让已有的网页或脚本通过 OpenAI 兼容接口调用本机已接入的 Codex、Claude Code 等编程助手。自带无需模型账号的离线样例；调用真实智能体仍使用各自的账号与额度。
 	* [Codex with ChatGPT](https://github.com/XiaoDuoYa/codex-with-chatgpt)：让 ChatGPT 网页版负责代码规划与审查，Codex 负责执行修改和测试，通过只读 MCP 按需读取本地工作区。需配置 ChatGPT 连接器和公网隧道，并自备相关账号。非官方社区项目，MIT 开源。
 	* [CC Switch](https://github.com/farion1231/cc-switch)：AI 编程工具配置管理器，可为 Claude Code、Codex、Gemini CLI 等工具切换 API 供应商，统一管理 MCP、Skills 和提示词。支持 Windows、macOS 和 Linux。MIT 开源，模型服务费用另计。
 	* [Orbi](https://orbi.build/zh/)：面向 GitHub 的 AI 编程交付工具。给 Issue 添加 `ai-ready` 标签后，在独立工作区实现和测试，通过独立 AI 会话评审与修复，并在满足合并条件后自动合并 PR。AGPL-3.0 开源，可自托管；模型服务费用另计，另有提供有限免费试用的付费 Cloud 托管版。
@@ -282,6 +283,7 @@
 * [pitchboom.io](https://pitchboom.io)：动效设计（motion design）视频广告 AI 制作工具。粘贴产品网址或用两行文字描述，自动撰写脚本、生成可编辑并确认的分镜、配旁白（34 种语言）和背景音乐，支持主流画幅比例，适用于 TikTok、Reels、YouTube Shorts 等平台的视频广告。注册即送 500 积分（每人一次，无需绑卡），之后付费订阅每月 30 欧元起（不含增值税）。
 * [Imagera](https://imagera.ai/)：网页端 AI 图片、视频、配音与音乐创作平台，可在同一工作区并排使用多款主流图像和视频模型，每次生成前显示积分价格。Character / Object / Location ID 让同一张脸、产品或场景在多张图片和多段视频中保持一致；AI Smart Director 可把一句提示词生成为带分镜、剪辑、配乐和旁白的多镜头短片。
 	* 定价：按积分计费，支持订阅或单次购买积分包。
+* [BeatMV](https://beatmv.ai/)：AI 音乐视频生成工具（AI music video generator），上传一首歌就能生成跟着节拍走的音乐 MV。
 * [Angry Dance](https://angrydance.com/zh)：网页端单张照片 AI 跳舞与图生视频创作平台。上传一张人像或猫狗宠物照片，可调用 Kling 2.5 Turbo、Kling 3.0 动作控制、Hailuo 2.3 Fast 与 Muse Video 等模型生成无水印竖屏跳舞、宠物跳舞和温情拥抱短片，每次生成前明码显示所需积分；另附每日短视频 AI 热梗趋势雷达。
 	* 定价：按积分计费，支持单次购买积分包（$4.99 / 500 积分起），详见[定价页](https://angrydance.com/zh/pricing)。
 
@@ -337,6 +339,7 @@
 * [Suno](https://suno.com/)：AI 根据你的要求生成歌曲（作词、作曲、演唱）。
 * [天工 AI 音乐](https://www.tiangong.cn/music)：根据歌名、歌词、参考音频创作音乐，可由 AI 帮写歌词。
 * [Tera Studio](https://terastudio.co/zh-hans/)：AI 歌声克隆与翻唱工具，用约 1～2 分钟的歌声样本训练个人音色，再将已有歌曲的人声转换为该音色。新账号可免费获得 2 次站内完整歌曲试听，每首最长 4 分钟，无需绑卡；下载需付费。
+* [BeatMusic](https://beatmusic.ai/)：AI 音乐生成工具，输入一句想法或歌词，几分钟生成带人声的完整原创歌曲。
 
 ### 音频视频处理
 
@@ -425,6 +428,7 @@
 * [Gamma](https://gamma.app/)：AI 设计助手，生成 PPT、文档和网页，优化现有 PPT 和文档。
 * [AiPPT.cn](https://www.aippt.cn/)：AI 一键生成 PPT。支持自动生成 PPT 大纲文案，文档秒变 PPT，支持多种模板，兼容 pptx 格式。
 * [ProcessOn](https://cmcm.link/p/processon)：老牌在线图表绘制工具，支持流程图、泳道图、思维导图、架构图、建筑平面图等等形式。支持 AI 自动生成图表。
+* [GuruTrans](https://gurutrans.app/)：AI 翻译与文本工具网站，支持中英、日英、希腊语等语言互译，也能把英文改写成莎士比亚等历史风格，还能转换摩斯码。注册用户每天有 5 次免费翻译，更多次数需购买一次性积分包。
 
 ### 内容分析、识别、提炼
 
