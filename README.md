@@ -411,7 +411,7 @@
 
 * [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNG → SVG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
-* [Kite](https://kite.new/)：AI Agent 与团队共用的设计工具。Claude、ChatGPT、Cursor、Codex 通过官方托管的 MCP 服务器（`https://kite.new/api/mcp`）接入，在团队实时协作的同一文件里绘制真实可编辑的图层（画框、文字、组件、自动布局）；可复制到 Figma，或把任意画框复制为 HTML、React、Tailwind 代码。免费套餐：编辑者不限、3 个文件、每天 200 次 Agent 操作；Pro 每位编辑者 $16 / 月（年付）。有 Mac 和 Windows 客户端，也可直接在浏览器使用。
+* [Kite](https://kite.new/)：AI Agent 与团队共用的设计工具。Claude、ChatGPT、Cursor、Codex 通过官方托管的 MCP 服务器（`https://kite.new/api/mcp`）接入，在团队实时协作的同一文件里绘制真实可编辑的图层（画框、文字、组件、自动布局）；可复制到 Figma，或把任意画框复制为 HTML、React、Tailwind 代码。免费套餐：编辑者不限、3 个文件、每天 100 次 Agent 操作；Pro 每位编辑者 $16 / 月（年付）。有 Mac 和 Windows 客户端，也可直接在浏览器使用。
 * [CoverNice](https://covernice.com/)：面向亚马逊 KDP 的 AI 封面设计工具，根据书名和简介生成多个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，可导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面。只做封面，不做内页与 EPUB；书脊计算器免注册。AI 生成消耗积分，未充值账号导出 AI 底图会带水印。
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [igly.ai](https://igly.ai)：在线 AI 图片编辑平台，支持去背景、局部重绘、高清放大、生成式填充等功能，适合快速处理商品图、设计素材和社媒图片。
