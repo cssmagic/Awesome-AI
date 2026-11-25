@@ -347,6 +347,7 @@
 * [pyVideoTrans](https://pyvideotrans.com/)：开源视频翻译软件，一键字幕生成 + 字幕翻译 + 创建配音 + 合成 = 带字幕和配音的新视频。
 * [声之帆 VoxSail](https://voxsail.com/zh/)：在线音视频本地化工作台，处理已有音视频，将语音转录、字幕翻译、AI 配音与在线审校放在同一流程中，可按项目类型导出视频、音频、文稿及 SRT/ASS 字幕。提供一次性体验积分，持续使用需付费订阅，可在订阅有效期内加购积分。
 * [GVS 硬字幕提取](https://pyvideotrans.com/aiocr)：智能识别视频硬字幕，快速提取，支持中英文。
+* [Video to SRT](https://bestlatestapps.com/ai/video-to-srt/)：在浏览器中用 Whisper 为 MP4、MOV、WebM 视频生成 SRT 或 VTT 字幕，可调整每条字幕的时间后下载。视频不上传，模型首次使用时下载一次。免费、无需注册，网站有广告。
 
 ### 其他创作工具
 
