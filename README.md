@@ -202,6 +202,7 @@
 	* [OpenUI](https://github.com/wandb/openui)：开源项目，AI 自动生成前端代码。可根据描述生成 UI 界面，且可以持续输入描述进行修改，可输出 HTML、React、Vue 组件等格式。支持输入中文描述。[在线演示](https://openui.fly.dev/)。
 	* [EveryApp App Builder](https://everyapp.pro/app-builder)：用自然语言生成私人 Web 应用，由 EveryApp 托管并分配独立网址，可邀请他人访问。创建应用需订阅 Pro。
 	* [Ginta](https://ginta.app/)：面向小商家的 AI 建站工具，根据业务描述生成并上线网站，支持联系表单、预约、网店（Stripe 收款）和博客。提供远程 MCP 服务器，可在 Claude、ChatGPT 或 Claude Code 里直接建站和修改。闭源。有免费套餐（网站带小的 “Made with Ginta” 标记）；绑定自有域名需付费套餐，€5 / 月起。
+	* [Kliv](https://kliv.dev/zh)：用日常语言描述一个 Web 应用或网站，Kliv 负责构建和托管。每个应用都有独立的数据库、用户登录、通过你自己的 Stripe 账户付款、邮件发送和自有域名；AI 会编写并运行自动化测试，避免修改把已有功能弄坏。界面和构建工具全部为简体中文。有免费套餐。
 * 其他工具：
 	* [OpenHands（原 OpenDevin）](https://openhands.dev/)：开源软件工程 Agent 平台，可读写代码、执行命令和使用浏览器，另提供 Agent Canvas，集中管理本地、远程或云端的编程任务与自动化。是开源软件工程 Agent 领域较有影响力的项目，[源码仓库](https://github.com/OpenHands/OpenHands)截至 2026 年 10 月已有 9 万余 Star。核心项目 MIT 开源，可自托管；模型和托管服务费用另计。
 	* [Augment Code](https://www.augmentcode.com/product)：基于代码库上下文的 AI 编程平台，提供 CLI 和 Cosmos 云端 Agent 等产品形态。Standard 套餐 $20 / 月，含每月 $20 使用额度，团队共享；具体套餐和用量规则见[定价页](https://www.augmentcode.com/pricing)。
