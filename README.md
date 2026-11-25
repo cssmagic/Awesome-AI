@@ -412,7 +412,7 @@
 
 * [Vectorizer.AI](https://vectorizer.ai/)：基于 AI 的位图转矢量图的在线工具，比如 PNG → SVG。已经不可免费使用，需要订阅（$10 / 月）。
 * [Galileo](https://www.usegalileo.ai/)：通过提示词生成 UI 设计稿，可导出到 Figma。
-* [Kite](https://kite.new/)：AI Agent 与团队共用的设计工具。Claude、ChatGPT、Cursor、Codex 通过官方托管的 MCP 服务器（`https://kite.new/api/mcp`）接入，在团队实时协作的同一文件里绘制真实可编辑的图层（画框、文字、组件、自动布局）；可复制到 Figma，或把任意画框复制为 HTML、React、Tailwind 代码。免费套餐：编辑者不限、3 个文件、每天 100 次 Agent 操作；Pro 每位编辑者 $16 / 月（年付）。有 Mac 和 Windows 客户端，也可直接在浏览器使用。
+* [Kite](https://kite.new/)：AI Agent 与团队共用的设计工具，支持通过 MCP 绘制可编辑图层并实时协作。可使用组件和自动布局，将画框复制到 Figma 或复制为 HTML、React、Tailwind 代码。需自备 AI Agent 账号或订阅，提供 macOS、Windows 客户端和网页版。免费版编辑者不限，含 3 个文件和每天 100 次 Agent 操作。Pro 年付折合每位编辑者 $16 / 月，月付 $20 / 月。
 * [CoverNice](https://covernice.com/)：面向亚马逊 KDP 的 AI 封面设计工具，根据书名和简介生成多个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，可导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面。只做封面，不做内页与 EPUB；书脊计算器免注册。AI 生成消耗积分，未充值账号导出 AI 底图会带水印。
 * [Magnific AI](https://magnific.ai/)：图片放大，增强细节。
 * [igly.ai](https://igly.ai)：在线 AI 图片编辑平台，支持去背景、局部重绘、高清放大、生成式填充等功能，适合快速处理商品图、设计素材和社媒图片。
@@ -442,7 +442,7 @@
 * 剪映：可识别语音生成字幕。
 * [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究平台，整理附有原文链接和日期的公开资料，帮助研究财报、区分事实与推断，并按公司或主题跟踪变化。公开内容可直接阅读，研究和跟踪功能需登录。
 * [Frank AI Researcher](https://www.hifrank.ai/)：由 AI 主持的客户语音访谈工具，团队邀请自己的客户参与，支持 50 余种访谈语言，并整理转写与主题。免费套餐每月含 60 分钟语音，付费套餐年付约 $49 / 月起。提供 MCP 接入，符合 SOC 2 与 GDPR 合规要求。
-* [QuestionPunk](https://www.questionpunk.com/)：问卷与 AI 访谈工具。可以做普通问卷，也可以让 AI 用语音或文字访谈受访者，并根据回答追问；回答可以生成报告，也可以用交叉表比较不同人群的结果。
+* [QuestionPunk](https://www.questionpunk.com/)：问卷与 AI 访谈工具，可结合普通题目与语音、文字访谈，并根据回答追问。支持生成报告和交叉表，比较不同人群的结果。有免费版，语音访谈和 AI 分析消耗额度。提供 MCP，可在 Claude、ChatGPT 中创建和发布问卷、查看结果。
 
 ### 定制知识库 / RAG
 
