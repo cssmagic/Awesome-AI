@@ -386,6 +386,7 @@
 ### 综合平台
 
 * [POE](https://poe.com/)：各种知名模型的聚合平台。用户可根据自己的需求通过 Prompt 定制对话机器人，相当于 GPTs 平替。付费用户可无限量使用 GPT-4、Claude 2 等高端模型。
+* [Whizi](https://whizi.io/)：多模型 AI 聊天应用，在同一个界面中使用 ChatGPT（GPT-5.6 Sol 等）、Claude、Gemini、Grok、DeepSeek 和 Perplexity，可在对话中切换模型、并排比较回答，并能导入 ChatGPT 的历史对话。支持网页、iOS 和 Android，付费订阅。
 * [FlowGPT](https://flowgpt.com/)：一个 Prompt 分享平台。提供了角色聊天、游戏、创意、生产力等各种类型的对话机器人，是一个学习提示词的好地方。也可以把它当作 GPTs 平替。
 * [Character.AI](https://beta.character.ai/)：与各种类型的 AI 虚拟角色对话，包括世界名人、动漫人物、游戏角色等。
 * Coze：字节跳动推出的 AI 聊天机器人及 AI 应用开发平台。无论是否具备编程基础，用户都可以快速构建特定功能的聊天机器人，并发布到各大社交平台。
